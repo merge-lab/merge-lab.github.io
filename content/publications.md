@@ -8,8 +8,7 @@ For the most up-to-date list of publications, please check Professor Chin's [Goo
 {{< list-table header=false imageCol=true >}}
 /img_static/404_piggo.jpg
 piggo
-`C-z c`
-Create a new screen and switch to it.
+Testing to see how [link](https://google.com) works `C-z c`
 
 `elscreen-next`
 `C-z n`

@@ -1,10 +1,14 @@
 {{ partial "header.html" . }}
 
-<div class ="home-flex-wrapper">
-	<!-- <div class="home-img" style="margin: 0.2em 0.7em; text-align:center"></div> -->
-	<div class="home-txt">
-		{{ .Content }}
-	</div>
+<div class="home-txt">
+	{{ .Content }}
+
+<!-- https://roneo.org/en/hugo-include-another-file-with-a-shortcode/ -->
+<div class ="home-news">
+	<h2>Recent News:</h2>
+	{{ (printf "%s%s" .Page.File.Dir "news.md") | readFile | replaceRE "^---[\\s\\S]+?---" "" | safeHTML }}
+</div>
+
 </div>
 
 {{ partial "footer.html" . }}

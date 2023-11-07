@@ -18,7 +18,10 @@ menu:
       weight: 2
     - name: Publications
       url: "publications/"
-      weight: 2
+      weight: 3
+    - name: News
+      url: "news/"
+      weight: 5
     - name: Resources
       url: "resources/"
       weight: 6

@@ -1,0 +1,1 @@
+function unobfuscate(e,t){document.getElementById(e).innerHTML=rot13(t)}function rot13(e){return e.replace(/[a-z]/gi,e=>"NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm"["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz".indexOf(e)])}

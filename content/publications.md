@@ -8,10 +8,6 @@ For the most up-to-date list of publications, please check Professor Chin's [Goo
 {{< list-table header=false imageCol=true >}}
 /img_static/404_piggo.jpg
 piggo
-Publication Title + Authors
-Description
-
-`elscreen-create`
 `C-z c`
 Create a new screen and switch to it.
 

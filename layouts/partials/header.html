@@ -16,7 +16,14 @@
 
   <body>
     <nav class="header">
-    <div class="text-muted-title" style="float: left; text-align: left;"><a href="/">Lilly Chin</a></div> 
+    <img
+      loading="lazy"
+      src="/img/bannerSmall.png"
+      sizes="500px, 1820px, 3000px (max-width: 3000px)" 
+      srcset='/img/bannerMedium.png 3x, /img/bannerLarge.png 6x'
+      alt='MERGe Lab banner image'
+    />
+
     <ul class="menu" style="float: right; text-align: right;">
       {{ range .Site.Menus.main }}
       <li>

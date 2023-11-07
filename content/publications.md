@@ -6,7 +6,7 @@ In all papers below, * means equal contribution to the manuscript. Members of th
 
 For the most up-to-date list of publications, please check Professor Chin's [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yPvT_i4AAAAJ&view_op=list_works&sortby=pubdate).
 
-> This page is under construction.  Please refer to the Google Scholar page while summaries are being uploaded.
+> **This page is under construction.**  Please refer to the Google Scholar page while summaries are being uploaded.
 
 ----
 

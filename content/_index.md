@@ -3,6 +3,13 @@ title: Home
 description: MERGe Lab at University of Texas, Austin
 ---
 
+
+We are working on how to make materials embody robots geometrically. Our general philosophy is by merging different fields, we will see interesting research emerge as a result
+
+
+
+
+
 ## About Me
 Hello! I'm Lilly Chin, an assistant professor at UT Austin's Electrical and Computer Engineering department. For a professional bio, click [**HERE**](/bio). 
 

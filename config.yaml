@@ -16,6 +16,9 @@ menu:
     - name: Research
       url: "https://lillych.in/research/"
       weight: 2
+    - name: Publications
+      url: "publications/"
+      weight: 2
     - name: Resources
       url: "resources/"
       weight: 6

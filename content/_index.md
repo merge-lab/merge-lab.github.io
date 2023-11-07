@@ -24,9 +24,3 @@ My research vision is to build robots' physical bodies in dialogue with human co
 While my website is under construction, [my Youtube channel](https://www.youtube.com/channel/UCogl5084ngbvw_SfUKuLktw) will give you a quick overview of my publications.
 
 This website also provides an archive of my personal projects, ranging from [engineering projects](/projects/making), [visual art](/projects/crafting), and [amateur and professional writing](/projects/writing). I also keep an archive of my higher visibility activities such as my performance on Jeopardy! as the [2017 College Champion / "spiciest memelord"](/press/#jeopardy).
-
-
-<!-- For contact info -->
-<script>
-	unobfuscate("obfuscate", "\<n uers='znvygb\:ygpuva\@hgrknf.rqh'\>ygpuva\@hgrknf.rqh\<\/n\>");
-</script>

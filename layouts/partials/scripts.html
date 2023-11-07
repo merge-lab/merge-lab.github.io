@@ -1,3 +1,6 @@
+{{$rot13JS := resources.Get "rot13.js" | minify | fingerprint}}
+<script src="{{$rot13JS.Permalink}}"></script>
+
 {{if .Params.js }}
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 {{ end }}

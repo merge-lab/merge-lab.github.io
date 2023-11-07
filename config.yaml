@@ -10,29 +10,14 @@ publishdir: "docs"
 
 menu:
   main:
-    - name: CV
-      url: "/files/lillychin-cv.pdf"
+    - name: People
+      url:  "https://lillych.in"
       weight: 1
     - name: Research
-      url: "research/"
+      url: "https://lillych.in/research/"
       weight: 2
-    - name: Projects
-      url: "projects/"
-      weight: 3
-    - name: Crafting
-      url: "crafting/"
-      parent: "Projects"
-      weight: 4
-    - name: Making
-      url: "making/"
-      parent: "Projects"
-      weight: 4
-    - name: Writing
-      url: "writing/"
-      parent: "Projects"
-      weight: 4
-    - name: Press
-      url: "press/"
+    - name: Resources
+      url: "resources/"
       weight: 6
 
 params:

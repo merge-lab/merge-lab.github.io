@@ -1,11 +1,6 @@
 ---
 title: Home
-js: true
-rot13: true
-description: Lilly Chin, Assistant Professor at UT Austin (University of Texas)
-headshot_src: img_static/ltchin-headshot.png
-headshot_200px: img_static/ltchin-headshot200px.png
-headshot_alt: A headshot of Lilly Chin. She has short hair and rectangular wireframe glasses.
+description: MERGe Lab at University of Texas, Austin
 ---
 
 ## About Me

@@ -32,7 +32,11 @@ Inputs:
     </tr>
   {{ end }}
   {{ range $rows }}
+    {{ if findRE "highlight" . }}
+    <tr class = "highlight">
+    {{ else }}
     <tr>
+    {{ end }}
       {{ $path := 0 }}
       {{ range $index, $component := (split . "\n") }}
         {{ if $imageCol }}
@@ -40,11 +44,11 @@ Inputs:
             {{ $path = (printf "%s" $component) }}
             {{ continue }}
           {{ else if eq $index 1}}
-            <td> <img src = "{{ $path }}" alt = "{{ $component }}" style = "margin: 0em"> </td>
+            <td> <a href="{{$path}}"><img src = "{{ $path }}" alt = "{{ $component }}" style = "margin: 0em;"> </a></td>
             {{ continue }}
           {{ end }}
         {{ end }}
-          <td>{{ $component | markdownify }}</td>
+        <td>{{ $component | markdownify }}</td>
       {{ end }}
     </tr>
   {{ end }}

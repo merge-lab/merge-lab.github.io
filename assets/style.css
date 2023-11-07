@@ -158,12 +158,18 @@ table {
   border-collapse:separate;
   margin-right:auto;
   margin-left:auto;
+  font-size: 13px;
 }
+
 
 td {
-  text-align: center;
+  padding: 1em 7px;
+  vertical-align:top;
 }
 
+.highlight {
+  background: #FCF1D0;   
+}
 
 
 /*******************************************************************/

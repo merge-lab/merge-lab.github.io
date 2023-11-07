@@ -11,7 +11,6 @@ Our key research approach is **designing a material's geometry for robotic funct
 
 This materials and geometry based approach has been really effective in creating unique and effective robot designs. Our systems have [outperformed similar soft robots](https://dspace.mit.edu/bitstream/handle/1721.1/116908/Chin-2018-robosoft_HSA_hands.pdf?sequence=1&isAllowed=y) in power efficiency (20x more efficient) and speed (2x faster), [outperformed similar modular robots](https://ieeexplore.ieee.org/abstract/document/9976216) in locomotion (10x faster) while maintaining a high strength-weight ratio (76x), and [created the largest sensorized soft robotic dataset](https://www.science.org/doi/full/10.1126/sciadv.abq4385) (18 hours).
 
-{{< raw-html >}}
 <div style="text-align: center"> 
 	<video width=40% controls>
 	    <source src="/img_static/auxbots.webm" type="video/webm">
@@ -23,7 +22,6 @@ This materials and geometry based approach has been really effective in creating
 	</video>
 </div>
 <p></p>
-{{< /raw-html >}}
 
 Moving forward, we are interested in pursuing the following research directions:
 1. Design of novel actuators and sensors through geometry

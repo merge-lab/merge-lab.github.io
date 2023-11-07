@@ -1,18 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class ="home-flex-wrapper">
-	<div class="home-img" style="margin: 0.2em 0.7em; text-align:center">
-	  <a href="{{.Params.headshot_src}}">
-	    <img
-	      loading="lazy"
-	      src = '{{.Params.headshot_200px}}'
-	      alt = '{{.Params.headshot_alt}}'
-	    />
-	  </a>
-	  <br>
-	  <img loading="lazy" src="icons8-mail-24.png" alt="Email Icon" style="vertical-align:middle"><span id="obfuscate">ltchinatutexasdotedu</span><br>
-	  <a href="https://scholar.google.com/citations?user=yPvT_i4AAAAJ&hl=en"><img loading="lazy" src="icons8-google-scholar-24.png" alt="Google Scholar Icon" style="vertical-align:middle">Google Scholar</a>
-	</div>
+	<!-- <div class="home-img" style="margin: 0.2em 0.7em; text-align:center"></div> -->
 	<div class="home-txt">
 		{{ .Content }}
 	</div>

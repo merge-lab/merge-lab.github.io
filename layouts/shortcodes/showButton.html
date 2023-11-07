@@ -1,0 +1,19 @@
+{{ $id := .Params.divID }}
+{{ $name := .Params.name }}
+
+<!-- Hack:https://github.com/whatwg/html/issues/6116 -->
+<div id ="{{$id}}_button_container"> 
+<yes-script>
+	<style> #{{$id}} { display:none; } </style>
+	<button onclick="toggleButton({{$id}})">{{$name}}</button>
+</yes-script>
+
+<div id="{{$id}}">
+	{{.Inner }}
+</div> 
+
+<noscript>
+	<style> #{{$id}} { display:block; } </style>
+	<style> yes-script { display:none; } </style>
+</noscript>
+</div>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Lilly Chin">
+    <link rel="icon" href="/favicon.ico" />
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+
+    {{ $style := resources.Get "style.css" | minify | fingerprint }}
+    {{ $font := resources.Get "fonts.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
+    <link rel="stylesheet" href="{{ $font.Permalink }}" />
+    {{ partial "scripts.html" . }}
+  </head>
+
+  <body>
+    <nav class="header">
+    <div class="text-muted-title" style="float: left; text-align: left;"><a href="/">Lilly Chin</a></div> 
+    <ul class="menu" style="float: right; text-align: right;">
+      {{ range .Site.Menus.main }}
+      <li>
+          {{ if .HasChildren }}
+            <div class = "dropdown">
+              <a href = "{{ .URL | absURL }}">{{ .Name }}</a>
+              {{ $parent := .URL | relURL }}
+              <div class = "dropdown-content">
+                <ul class="sub-menu">
+                    {{ range .Children }}
+                    <li>
+                      <a href="{{ path.Join $parent .URL}}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+              </div>
+          </div>
+          {{ else }}
+            <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+          {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    <hr/>
+    </nav>

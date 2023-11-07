@@ -1,0 +1,13 @@
+<!-- Taken from https://mertbakir.gitlab.io/hugo/nanogallery2-with-hugo/ -->
+
+{{ $nanogallery2_settings := getJSON "/static/ng2_gallery_compact.json" | jsonify}}
+{{ $captions := readFile (.Get "captionFile")}}
+{{ $captions := split $captions "\n" }}
+
+
+<div data-nanogallery2="{{$nanogallery2_settings}}">
+    {{ range $index, $image := sort (resources.Match (.Get "directory")) }}
+        {{ $.Scratch.Set "thumbnail" ($image.Resize "x300 q90") }}
+        <a href="{{ $image.RelPermalink }}" data-ngthumb="{{ ($.Scratch.Get "thumbnail").RelPermalink }}" data-ngdesc="{{index $captions $index}}">{{$image.Name}}</a>
+    [{{ end }}]
+</div>

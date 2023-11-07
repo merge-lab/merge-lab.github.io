@@ -1,0 +1,190 @@
+/*******************************************************************/
+/* SPACING                                                         */
+/*******************************************************************/
+/*Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, figure {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  padding: 0px 20px 20px 20px;
+}
+
+body {
+  max-width: 800px;
+  margin: auto;
+  padding-top: 20px;
+  line-height: 1.7;
+}
+
+h1, h2 , h3{
+  margin: 0.2em 0;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+figure,
+img,
+video,
+iframe {
+  max-inline-size: 100%;
+  block-size: auto;
+  margin: 0.2em 0.7em;
+}
+
+/*******************************************************************/
+/* MENU DESIGN                                                     */
+/*******************************************************************/
+.menu { 
+  margin: 0;
+  padding: 0; 
+  font-size: 16px;
+}
+.menu li { 
+  display: inline-block; 
+}
+.article-meta, .menu a {
+  text-decoration: none;
+  color: #428bca;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-align: right;
+}
+
+.title { font-size: 1.1em; }
+
+hr {
+  border-style: dashed;
+  color: #ccc;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /*border-top: 1px solid #eee;*/
+  clear:both;
+}
+
+
+.menu > li > a:hover,
+.menu > li > a:focus,
+.menu > .active > a,
+.menu > .active > a:hover,
+.menu > .active > a:focus {
+  background-color: #eee;
+}
+
+/*******************************************************************/
+/* DROPDOWN                                                        */
+/*******************************************************************/
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding: 8px 0px;
+  border-radius: 5px;
+}
+
+.dropdown-content {
+  text-align: center;
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  padding: 8px 0px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown > .active > a,
+.dropdown > .active > a:hover,
+.dropdown > .active > a:focus, {
+  background-color: #eee;
+}
+
+.dropdown:hover {
+  background-color: #eee;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.sub-menu{
+  padding: 2px 0px;
+}
+
+.sub-menu > li > a:hover {
+  padding: 4px 15px;
+  background-color: #428bca;
+  color: #fff;
+}
+
+/*******************************************************************/
+/* HOMEPAGE GRID DESIGN                                            */
+/*******************************************************************/
+/* Thanks Faye! */
+.home-flex-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  justify-content: center;
+}
+
+.home-txt {
+  flex-basis: 400px; /* if .home-txt would need to be narrower than this in a side-by-side layout, it'll stack them instead */
+  flex-grow: 1;
+}
+
+/*******************************************************************/
+/* TEXT EFFECTS                                                    */
+/*******************************************************************/
+.text-muted-title { /* To make it look like h3 */
+  line-height: 40px;
+  font-size: 24px;
+  display: inline-block;
+}
+.text-muted-title a {text-decoration: none; color: #999999; }
+.text-muted-title a:hover { text-decoration: none; color: #0088cc; }
+
+.text-muted {
+  text-decoration: none; 
+  color: #999999; 
+}
+
+a:link {
+    color: #428bca;
+    text-decoration: none;
+}
+
+blockquote { 
+  background: #FCF1D0; 
+  margin:0;
+  padding: 0px 15px;
+}
+
+/*******************************************************************/
+/* TOGGLE BUTTON                                                   */
+/*******************************************************************/
+button{
+  display:inline-block;
+  padding:0.35em 1.2em;
+  border:0.1em solid;
+  margin:0 0.3em 0.3em 0;
+  border-radius:0.75em;
+  box-sizing: border-box;
+  text-decoration:none;
+  text-align:center;
+  transition: all 0.2s;
+}
+button:hover{
+  background-color:#FFFFFF;
+}
+@media all and (max-width:30em){
+  button{
+    display:block;
+    margin:0.4em auto;
+  }
+}

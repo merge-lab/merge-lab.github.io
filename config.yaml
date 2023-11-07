@@ -1,0 +1,51 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "MERGe Lab"
+# theme: ""
+# googleAnalytics: ""
+# disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+publishdir: "docs"
+
+menu:
+  main:
+    - name: CV
+      url: "/files/lillychin-cv.pdf"
+      weight: 1
+    - name: Research
+      url: "research/"
+      weight: 2
+    - name: Projects
+      url: "projects/"
+      weight: 3
+    - name: Crafting
+      url: "crafting/"
+      parent: "Projects"
+      weight: 4
+    - name: Making
+      url: "making/"
+      parent: "Projects"
+      weight: 4
+    - name: Writing
+      url: "writing/"
+      parent: "Projects"
+      weight: 4
+    - name: Press
+      url: "press/"
+      weight: 6
+
+params:
+  description: "MERGe Lab website"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+      endLevel: 4
+      ordered: false
+      startLevel: 2
+

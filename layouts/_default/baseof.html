@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+<h1>{{ .Title | markdownify }}</h1>
+{{ .Params.preamble | markdownify }}
+{{ if .Params.toc }}
+	{{ .TableOfContents }}
+	<center><hr width="90%"></center>
+{{ end }}
+
+{{ block "main" .}}
+{{ .Content }}
+{{ end }}
+
+{{ partial "footer.html" . }}

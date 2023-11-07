@@ -1,0 +1,51 @@
+<!-- Modified from https://mertbakir.gitlab.io/hugo/nanogallery2-with-hugo/
+and https://laurakalbag.com/processing-responsive-images-with-hugo/
+
+Inputs:
+    - src: image path [required]
+    - alt: alt text for the image [required]
+    - class: Define properties for CSS to use: https://www.dofactory.com/html/figure/class
+    - style: If we need to specify the CSS directly
+    - caption: text for caption
+    - link: href on image (Permalink will be used if not specified) 
+
+Sample usage:
+squiggle bracket squiggle bracket angle bracket
+img src="img/ltchin-headshot200px.jpg" alt="test"
+angle bracket squiggle bracket squiggle bracket 
+  -->
+
+{{ $src := resources.Get (.Get "src") }} <!-- GetMatch is for page resource, while Get is for global resource -->
+{{ if not (.Get "alt" )}}	{{ errorf "No alt text!" .Path }} {{ end }}
+{{ $link := default $src.Permalink (.Get "link")}}
+
+<!-- {{/* resize the src image to the hardcoded sizes. Container is 800px, so max */}} -->
+{{ $tiny := $src.Resize "200x" }}
+{{ $small := $src.Resize "400x" }}
+{{ $medium := $src.Resize "600x" }}
+{{ $large := $src.Resize "800x" }}
+
+
+<!-- {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+{{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}} -->
+{{ $img := imageConfig ($src.RelPermalink | printf "assets/%s" ) }}
+
+<figure {{with .Get "class" }} class="{{.}}" {{ end }} {{with .Get "style" }} style="{{.}}" {{ end }}>
+  <a href="{{$link}}">
+    <img
+      loading="lazy"
+      sizes="(min-width: 35em) {{$src.Width}}px, 400px, 100vw (max-width: {{$src.Width}})" 
+      srcset='{{ if ge $src.Width "200" }} {{$tiny.RelPermalink}} 200w {{ end }}
+      {{ if ge $src.Width "400" }} {{$small.RelPermalink}} 400w {{ end }}
+      {{ if ge $src.Width "600" }} {{$medium.RelPermalink}} 600w {{ end }}
+      {{ if ge $src.Width "800" }} {{ $large.RelPermalink }}800w  {{ end }}'
+      {{ if ge $src.Width $medium.Width }}
+        src="{{ $medium.RelPermalink }}"
+      {{ else }}
+        src="{{ $src.RelPermalink }}"
+      {{ end }}
+      {{ with .Get "alt" }}alt='{{.}}'{{ end }}
+    />
+  </a>
+  {{ with .Get "caption" }}<figcaption>{{.}}</figcaption>{{ end }}
+</figure>

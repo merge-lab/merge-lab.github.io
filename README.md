@@ -13,13 +13,13 @@ Logo designed by [Grace Amos](https://www.linkedin.com/in/gsoma). She's amazing!
 3. Go to `localhost:1313` or similar in your browser and you should see the website!
 
 # Editing the website
-All of the CSS should have been completed by Lilly so all you should need to focus on is in the `content` folder. If you want to change the 
+All of the CSS should have been completed by Lilly so all you should need to focus on is in the `content` folder.
 
 * `news.md` is where we add new happenings to the lab
 * `publications.md` is where we give brief summaries of new papers that have come out. The auto generating table format is a bit finnicky, so you'll have to do a mix of Markdown and HTML. Following the existing format should show you how it's done!
 
-## Adding your own people page
-TBD when I have people, but I expect to follow [this format](https://github.com/clearoboticslab/clearoboticslab.github.io#add-yourself)
+## Adding your own people page, news item, etc.
+Submit a pull request following the existing format on the website
 
 # Publishing your changes
 1. Run `hugo --gc --minify` to build a `docs` folder

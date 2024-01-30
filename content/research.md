@@ -7,25 +7,33 @@ preamble: The core focus of MERGe Lab is **building better robots through intent
 # Active Projects
 
 ## Blind Grasping
+\[USE IMAGE FROM ICRA 2024 PAPER\]
 This has been a longstanding project goal for me to accomplish. The idea is that we have an object inside of a box. I'd like the robot without vision to fumble around inside the box, hitting the walls and eventually finding the object. Then figuring out how to grasp the object in order to take it out.
 
 We can make it harder by adding more objects into the box and asking for a specific object to get pulled out.
 
 ## Computational Design with Sensorized Building Blocks
+\[PICTURE OF THE RHINO SCREENSHOT\]
 Using fluidic innervation as a technique to make larger structures
 
 The idea behind this is the feeling that working primarily in lattices and their repeated geometry should offer some critical insight to the mathematics and modeling and make them easier to work with. 
 
 ## Custom Sensorized Hands for Dexterous Manipulation
+\[PICTURE COLLAGE OF ALL OF GREG'S FUNKY HANDS + MY MULTIPLEXED MANIPULATOR\]
 I have a lot of ideas for funky hands to help the software manipulation folks do cool stuff. Basically, continuing the spirit of Greg further.
 
-<!-- {{< small_hr >}}
+{{< small_hr >}}
 
 # Up-and-Coming Projects
 
+
 * Sensors for medical applications
+\[PICTURE OF NIH WORK\]
+In writing say particularly interested in phantoms
+
 * Robots x Disability Justice
- -->
+\[PICTURE OF NOTHING ABOUT US WITHOUT US FOR ROBOTS OR CO-DESIGN PICTURE FROM THAT PAPER CITED\]
+
 {{< small_hr >}}
 
 # Previous Projects

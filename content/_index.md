@@ -5,7 +5,7 @@ description: MERGe Lab at University of Texas, Austin
 ## About The Lab
 Welcome to the homepage of the MERGe Lab, where we are working on making **M**aterials **E**mbody **R**obots, **Ge**ometrically. We are located at [UT Austin's Electrical and Computer Engineering](https://www.ece.utexas.edu) department and led by Professor [Lillian Chin](https://lillych.in). We *merge* ideas across disciplines and see what interesting robots *emerge* as a result.
 
-> **We are actively looking for graduate students and postdocs for the 2024-2025 school year.** If interested, please apply directly to [UT Austin ECE](https://www.ece.utexas.edu/academics/graduate/admissions), listing Professor Lillian Chin's name, and [contact her directly](https://litchin.wordpress.com/contact/) explaining what research interests we share. The more specific, the better!
+<!-- > **We are actively looking for graduate students and postdocs for the 2024-2025 school year.** If interested, please apply directly to [UT Austin ECE](https://www.ece.utexas.edu/academics/graduate/admissions), listing Professor Lillian Chin's name, and [contact her directly](https://litchin.wordpress.com/contact/) explaining what research interests we share. The more specific, the better! -->
 
 Our key research approach is **designing a material's geometry for robotic functionality**. Taking cues from developments in [mechanical metamaterials](https://en.wikipedia.org/wiki/Mechanical_metamaterial) / [architected materials](https://www.annualreviews.org/doi/10.1146/annurev-matsci-070115-031624), we recognize that designing a material's geometry has significant downstream effects on the material's mechanical behavior -- and, thus, the robot's end performance. 
 

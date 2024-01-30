@@ -4,32 +4,35 @@ Inputs:
     - caption (optional)
     - header (true / false)
     - imageCol (true/false) -- assumes first entry is image and second entry is alt-text
+    - class -- requires class for the table style
     - Every line contains one field. Blank lines separate table rows.
  -->
 
 {{ $caption := .Get "caption" }}
 {{ $useHeaderRow := .Get "header" }}
 {{ $imageCol := .Get "imageCol" }}
+{{ $class := .Get "class" }}
 {{ $rows := split (trim .Inner "\n") "\n\n" }}
 
-<table>
+<table class={{ $class }}>
   {{ with $caption }}
     <caption>{{ . }}</caption>
   {{ end }}
 
   {{ if $imageCol }}
     <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
+       <col span="1" style="width: 30%;">
     </colgroup>
   {{ end }}
 
   {{ if $useHeaderRow }}
-    {{ $headerRow := index $rows 0 }}
-    {{ $rows = after 1 $rows }}
-    <tr>
-      {{ range (split $headerRow "\n") }} <th>{{ . | markdownify }}</th> {{ end }}
-    </tr>
+    <thead>
+      {{ $headerRow := index $rows 0 }}
+      {{ $rows = after 1 $rows }}
+      <tr>
+        {{ range (split $headerRow "\n") }} <th>{{ . | markdownify }}</th> {{ end }}
+      </tr>
+    </thead>
   {{ end }}
   {{ range $rows }}
     {{ if findRE "highlight" . }}

@@ -3,6 +3,7 @@ title: News
 ---
 
 ## 2024
+* **Jan. 2024** -- [Annan](https://www.annanzhang.com) and [Lilly](https://lillych.in)'s paper "Embedded air channels transform soft lattices into sensorized grippers" has been accepted to ICRA 2024! See y'all in Yokohama!
 * **Jan. 2024** -- Valerie, [Lilly](https://lillych.in), Jeana and [Annan](https://www.annanzhang.com)'s paper "Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing" has been accepted to Robosoft 2024! See y'all in San Diego!
 
 ## 2023

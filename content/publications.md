@@ -10,7 +10,7 @@ For the most up-to-date list of publications, please check Professor Chin's [Goo
 
 ----
 
-{{< list-table header=false imageCol=true >}}
+{{< list-table header=false imageCol=true class="pubs" >}}
 /img_static/zhang2023machine.png
 Machine learning for soft robot proprioception should match the data distribution and sensor inputs
 **Machine Learning Best Practices for Soft Robot Proprioception** <br>Annan Zhang*, Tsun-Hsuan Wang*, Ryan L. Truby, <u>Lillian Chin</u>, Daniela Rus<br>*IROS 2023*<br> [Paper](https://www.annanzhang.com/data/pdf/zhang2023machine.pdf)<br><br>Based on experiments on two large soft robotics datasets, we derive best practices for training neural networks that map sensor signals to soft robot shape.

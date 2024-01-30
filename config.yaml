@@ -11,7 +11,7 @@ publishdir: "docs"
 menu:
   main:
     - name: People
-      url:  "https://lillych.in"
+      url:  "people/"
       weight: 1
     - name: Research
       url: "https://lillych.in/research/"

@@ -14,7 +14,7 @@ menu:
       url:  "people/"
       weight: 1
     - name: Research
-      url: "https://lillych.in/research/"
+      url: "research/"
       weight: 2
     - name: Publications
       url: "publications/"
@@ -38,5 +38,5 @@ markup:
   tableOfContents:
       endLevel: 4
       ordered: false
-      startLevel: 2
+      startLevel: 1
 

@@ -11,15 +11,15 @@ For the most up-to-date list of publications, please check Professor Chin's [Goo
 {{< list-table header=false imageCol=true class="pubs" >}}
 img
 alt-text
-**Embedded Air Channels Transform Soft Lattices into Sensorized Grippers**<br>Annan Zhang*, <u>Lillian Chin*</u>, Daniel L. Tong, Daniela Rus<br>*ICRA 2024*<br>Paper <br><br> Summary of the paper <!--highlight -->
+**Embedded Air Channels Transform Soft Lattices into Sensorized Grippers**<br>Annan Zhang*, <u>Lillian Chin*</u>, Daniel L. Tong, Daniela Rus<br>*ICRA 2024*<br>Paper | Video <br><br> Summary of the paper <!--highlight -->
 
 img
 alt-text
-**Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing**<br>Valerie Chen*, <u>Lillian Chin*</u>, Jeana Choi*, Annan Zhang*, Daniela Rus<br>*RoboSoft 2024* <br>Paper <br><br> Summary of the paper
+**Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing**<br>Valerie Chen*, <u>Lillian Chin*</u>, Jeana Choi*, Annan Zhang*, Daniela Rus<br>*RoboSoft 2024* <br>Paper | Video <br><br> Summary of the paper
 
 img
 alt-text
-**In-Hand Manipulation with a Simple Belted Parallel-Jaw Gripper**<br>Gregory Xie, Rachel Holladay, <u>Lillian Chin</u>, Daniela Rus<br>*IEEE RA-L*, 2023 <br>Paper <br><br> Summary of the paper
+**In-Hand Manipulation with a Simple Belted Parallel-Jaw Gripper**<br>Gregory Xie, Rachel Holladay, <u>Lillian Chin</u>, Daniela Rus<br>*IEEE RA-L*, 2023 <br>Paper | Video <br><br> Summary of the paper
 
 /img_static/pubs/zhang2023machine.png
 Machine learning for soft robot proprioception should match the data distribution and sensor inputs
@@ -31,7 +31,7 @@ alt-text
 
 image
 alt-text
-**Flipper-Style Locomotion through Strong Expanding Modular Robots**<br><u>Lillian Chin</u>, Max Burns*, Gregory Xie*, Daniela Rus<br>*IEEE RA-L*, 2022. Also presented at ICRA 2022. <br>[Paper](https://ieeexplore.ieee.org/abstract/document/9976216) <br><br> Summary of the paper <!-- highlight -->
+**Flipper-Style Locomotion through Strong Expanding Modular Robots**<br><u>Lillian Chin</u>, Max Burns*, Gregory Xie*, Daniela Rus<br>*IEEE RA-L*, 2022. Also presented at ICRA 2022. <br>[Paper](https://ieeexplore.ieee.org/abstract/document/9976216) | Video | Conference Talk <br><br> Summary of the paper <!-- highlight -->
 
 /img_static/pubs/zhang2022vision.jpg
 Cameras are placed at the top of the handed shearing auxetic fingers to view internal state changes
@@ -47,7 +47,7 @@ alt-text
 
 image
 alt-text
-**How to survive a public faming: Understanding "The Spiciest Memelord" via the temporal dynamics of involuntary celebrification**<br><u>Lillian Chin</u><br>*First Monday*, 2021. <br>[Paper](https://journals.uic.edu/ojs/index.php/fm/article/view/11674) <br><br> Summary of the paper
+**How to Survive a Public Faming: Understanding "The Spiciest Memelord" via the Temporal Dynamics of Involuntary Celebrification**<br><u>Lillian Chin</u><br>*First Monday*, 2021. <br>[Paper](https://journals.uic.edu/ojs/index.php/fm/article/view/11674) <br><br> Summary of the paper
 
 image
 alt-text
@@ -59,27 +59,27 @@ alt-text
 
 image
 alt-text
-**Multiplexed manipulation: Versatile multimodal grasping via a hybrid soft gripper**<br><u>Lillian Chin</u>, Felipe Barscevicius, Jeffrey Lipton, Daniela Rus<br>*ICRA 2020*<br>[Paper](https://dspace.mit.edu/handle/1721.1/137301.2) <br><br> Summary of the paper <!-- highlight -->
+**Multiplexed Manipulation: Versatile Multimodal Grasping via a Hybrid Soft Gripper**<br><u>Lillian Chin</u>, Felipe Barscevicius, Jeffrey Lipton, Daniela Rus<br>*ICRA 2020*<br>[Paper](https://dspace.mit.edu/handle/1721.1/137301.2) <br><br> Summary of the paper <!-- highlight -->
 
 image
 alt-text
-**Modular volumetric actuators using motorized auxetics**<br>Jeffrey Lipton, <u>Lillian Chin</u>, Jacob Miske, Daniela Rus<br>*IROS 2019*<br>[Paper](https://ieeexplore.ieee.org/abstract/document/8968187) <br><br> Summary of the paper
+**MOdular Volumetric Actuators Using Motorized Auxetics**<br>Jeffrey Lipton, <u>Lillian Chin</u>, Jacob Miske, Daniela Rus<br>*IROS 2019*<br>[Paper](https://ieeexplore.ieee.org/abstract/document/8968187) <br><br> Summary of the paper
 
 image
 alt-text
-**Automated recycling separation enabled by soft robotic material classification**<br><u>Lillian Chin</u>, Jeffrey Lipton, Michelle C Yuen, Rebecca Kramer-Bottiglio, Daniela Rus<br>**Won Best Poster at Robosoft 2019**<br>[Paper](https://dspace.mit.edu/handle/1721.1/124001) <br><br> Summary of the paper
+**Automated Recycling Separation Enabled by Soft Robotic Material Classification**<br><u>Lillian Chin</u>, Jeffrey Lipton, Michelle C Yuen, Rebecca Kramer-Bottiglio, Daniela Rus<br>**Won Best Poster at Robosoft 2019**<br>[Paper](https://dspace.mit.edu/handle/1721.1/124001) | [BBC](https://www.bbc.com/news/av/technology-47826476/the-robot-that-sorts-out-recycling) | [Scientific American](https://www.scientificamerican.com/article/can-robots-help-pick-up-after-the-recycling-crisis/) | [CNBC](https://www.youtube.com/watch?v=1mxaN_xqQh4) <br><br> Summary of the paper
 
 image
 alt-text
-**A simple electric soft robotic gripper with high-deformation haptic feedback**<br><u>Lillian Chin</u>, Michelle C Yuen, Jeffrey Lipton, Luis H Trueba, Rebecca Kramer-Bottiglio, Daniela Rus<br>*ICRA 2019*<br>[Paper](https://dspace.mit.edu/handle/1721.1/121154) <br><br> Summary of the paper
+**A Simple Electric Soft Robotic Gripper with High-deformation Haptic Feedback**<br><u>Lillian Chin</u>, Michelle C Yuen, Jeffrey Lipton, Luis H Trueba, Rebecca Kramer-Bottiglio, Daniela Rus<br>*ICRA 2019*<br>[Paper](https://dspace.mit.edu/handle/1721.1/121154) <br><br> Summary of the paper
 
 image
 alt-text
-**Compliant electric actuators based on handed shearing auxetics**<br><u>Lillian Chin</u>, Jeffrey Lipton, Robert MacCurdy, John Romanishin, Chetan Sharma, Daniela Rus<br>*RoboSoft 2018*<br>[Paper](https://dspace.mit.edu/handle/1721.1/116908) <br><br> Summary of the paper <!-- highlight -->
+**Compliant Electric Actuators Based on Handed Shearing Auxetics**<br><u>Lillian Chin</u>, Jeffrey Lipton, Robert MacCurdy, John Romanishin, Chetan Sharma, Daniela Rus<br>*RoboSoft 2018*<br>[Paper](https://dspace.mit.edu/handle/1721.1/116908) <br><br> Summary of the paper <!-- highlight -->
 
 image
 alt-text
-**Handedness in shearing auxetics creates rigid and compliant structures**<br>Jeffrey Ian Lipton, Robert MacCurdy, Zachary Manchester, <u>Lillian Chin</u>, Daniel Cellucci, Daniela Rus<br>**Science**, 2018<br>[Paper](https://www.science.org/doi/full/10.1126/science.aar4586) <br><br> Summary of the paper
+**Handedness in Shearing Auxetics Creates Rigid and Compliant Structures**<br>Jeffrey Ian Lipton, Robert MacCurdy, Zachary Manchester, <u>Lillian Chin</u>, Daniel Cellucci, Daniela Rus<br>**Science**, 2018<br>[Paper](https://www.science.org/doi/full/10.1126/science.aar4586) <br><br> Summary of the paper
 
 image
 alt-text

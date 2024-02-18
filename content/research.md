@@ -25,7 +25,8 @@ I have a lot of ideas for funky hands to help the software manipulation folks do
 {{< small_hr >}}
 
 # Up-and-Coming Projects
-
+* Foldable mechanisms design
+We will continue to explore new geometries for swarm robotics, medical applications, and robot manipulation
 
 * Sensors for medical applications
 \[PICTURE OF NIH WORK\]

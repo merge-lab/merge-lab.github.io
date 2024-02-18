@@ -16,7 +16,7 @@ angle bracket squiggle bracket squiggle bracket
   -->
 
 {{ $src := resources.Get (.Get "src") }} <!-- GetMatch is for page resource, while Get is for global resource -->
-{{ if not (.Get "alt" )}}	{{ errorf "No alt text!" .Path }} {{ end }}
+{{ if not (.Get "alt" )}} {{ errorf "No alt text!" .Path }} {{ end }}
 {{ $link := default $src.Permalink (.Get "link")}}
 
 <!-- {{/* resize the src image to the hardcoded sizes. Container is 800px, so max */}} -->
@@ -38,14 +38,10 @@ angle bracket squiggle bracket squiggle bracket
       srcset='{{ if ge $src.Width "200" }} {{$tiny.RelPermalink}} 200w {{ end }}
       {{ if ge $src.Width "400" }} {{$small.RelPermalink}} 400w {{ end }}
       {{ if ge $src.Width "600" }} {{$medium.RelPermalink}} 600w {{ end }}
-      {{ if ge $src.Width "800" }} {{ $large.RelPermalink }}800w  {{ end }}'
-      {{ if ge $src.Width $medium.Width }}
-        src="{{ $medium.RelPermalink }}"
-      {{ else }}
-        src="{{ $src.RelPermalink }}"
-      {{ end }}
+      {{ if ge $src.Width "800" }} {{ $large.RelPermalink }} 800w  {{ end }}'
+      src="{{ $src.RelPermalink }}"
       {{ with .Get "alt" }}alt='{{.}}'{{ end }}
     />
   </a>
-  {{ with .Get "caption" }}<figcaption>{{.}}</figcaption>{{ end }}
+  {{ with .Get "caption" }}<figcaption>{{.}}</figcaption><br>{{ end }}
 </figure>

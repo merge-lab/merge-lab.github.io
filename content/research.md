@@ -12,8 +12,8 @@ This has been a longstanding project goal for me to accomplish. The idea is that
 
 We can make it harder by adding more objects into the box and asking for a specific object to get pulled out.
 
+{{< img src="img/rhinoHSA.png" alt="Render of a handed shearing auxetic in the Rhino software" class="small-figure" >}}
 ## Computational Design with Sensorized Building Blocks
-\[PICTURE OF THE RHINO SCREENSHOT\]
 Using fluidic innervation as a technique to make larger structures
 
 The idea behind this is the feeling that working primarily in lattices and their repeated geometry should offer some critical insight to the mathematics and modeling and make them easier to work with. 

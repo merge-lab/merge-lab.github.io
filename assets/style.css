@@ -261,3 +261,12 @@ button:hover{
     margin:0.4em auto;
   }
 }
+
+/*******************************************************************/
+/* CUSTOM FIGURE CLASS                                             */
+/*******************************************************************/
+.small-figure {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}

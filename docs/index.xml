@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MERGe Lab</title><link>/</link><description>Recent content in Home on MERGe Lab</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>2023 Nov. 2023 &amp;ndash; This website is online! Nov. 2023 &amp;ndash; Valerie, Lilly, Jeana and Annan submitted a paper to Robosoft 2024 on &amp;ldquo;Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing&amp;rdquo; Sep. 2023 &amp;ndash; Annan and Lilly submitted a paper to ICRA 2024 on &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo; Sep. 2023 &amp;ndash; Greg submitted a paper to ICRA 2024 on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo; May 2023 &amp;ndash; Lilly has been named a Schmidt Science Fellow.</description></item><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been highlighted.
-For the most up-to-date list of publications, please check Professor Chin&amp;rsquo;s Google Scholar profile.
-This page is under construction. Please refer to the Google Scholar page while summaries are being uploaded.
-Machine Learning Best Practices for Soft Robot Proprioception Annan Zhang*, Tsun-Hsuan Wang*, Ryan L. Truby, Lillian Chin, Daniela Rus</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on MERGe Lab</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on MERGe Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>//localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/news/</guid>
+      <description>2024 Jan. 2024 &amp;ndash; Annan and Lilly&amp;rsquo;s paper &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo; has been accepted to ICRA 2024! See y&amp;rsquo;all in Yokohama! Jan. 2024 &amp;ndash; Valerie, Lilly, Jeana and Annan&amp;rsquo;s paper &amp;ldquo;Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing&amp;rdquo; has been accepted to Robosoft 2024! See y&amp;rsquo;all in San Diego! 2023 Dec. 2023 &amp;ndash; Greg&amp;rsquo;s paper on &amp;ldquo;In-Hand Manipulation With a Simple Belted Parallel-Jaw Gripper&amp;rdquo; has been published in IEEE RA-L!</description>
+    </item>
+    <item>
+      <title>People</title>
+      <link>//localhost:1313/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/people/</guid>
+      <description>Current Lab Members Lillian (Lilly) Chin&#xA;Principal Investigator&#xA;Assistant Professor, Electrical and Computer Engineering, UT Austin&#xA;Office: TBD&#xA;Contact form: Link </description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>//localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/</guid>
+      <description>In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been highlighted.&#xA;For the most up-to-date list of publications, please check Professor Chin&amp;rsquo;s Google Scholar profile.&#xA;Embedded Air Channels Transform Soft Lattices into Sensorized Grippers&#xA;Annan Zhang*, Lillian Chin*, Daniel L. Tong, Daniela Rus&#xA;ICRA 2024&#xA;Paper | Video Summary of the paper Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description>Active Projects Blind Grasping [USE IMAGE FROM ICRA 2024 PAPER] This has been a longstanding project goal for me to accomplish. The idea is that we have an object inside of a box. I&amp;rsquo;d like the robot without vision to fumble around inside the box, hitting the walls and eventually finding the object. Then figuring out how to grasp the object in order to take it out.&#xA;We can make it harder by adding more objects into the box and asking for a specific object to get pulled out.</description>
+    </item>
+  </channel>
+</rss>

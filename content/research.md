@@ -18,13 +18,21 @@ Using fluidic innervation as a technique to make larger structures
 
 The idea behind this is the feeling that working primarily in lattices and their repeated geometry should offer some critical insight to the mathematics and modeling and make them easier to work with. 
 
-## Custom Sensorized Hands for Dexterous Manipulation
-\[PICTURE COLLAGE OF ALL OF GREG'S FUNKY HANDS + MY MULTIPLEXED MANIPULATOR\]
-I have a lot of ideas for funky hands to help the software manipulation folks do cool stuff. Basically, continuing the spirit of Greg further.
 
 {{< small_hr >}}
 
 # Up-and-Coming Projects
+Beyond our core research focus of building robotic sensors and actuators, we are also interested in: 
+1. exploring the potential for new geometric designs
+2. creating sensors and strategies that can enable contact-rich manipulation
+3. applying these robotic devices for human-centered applications like co-design of accessibility technologies
+
+Some potential projects in these directions include:
+
+* Custom Sensorized Hands for Dexterous Manipulation
+\[PICTURE COLLAGE OF ALL OF GREG'S FUNKY HANDS + MY MULTIPLEXED MANIPULATOR\]
+I have a lot of ideas for funky hands to help the software manipulation folks do cool stuff. Basically, continuing the spirit of Greg further.
+
 * Foldable mechanisms design
 We will continue to explore new geometries for swarm robotics, medical applications, and robot manipulation
 

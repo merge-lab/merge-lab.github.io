@@ -265,6 +265,12 @@ button:hover{
 /*******************************************************************/
 /* CUSTOM FIGURE CLASS                                             */
 /*******************************************************************/
+figure{
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+}
+
 .small-figure {
   margin-left: auto;
   margin-right: auto;

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="thesisTree.svg"
+   inkscape:export-filename="thesisTree.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.78127805"
+     inkscape:cx="78.077197"
+     inkscape:cy="293.74945"
+     inkscape:window-width="1920"
+     inkscape:window-height="1133"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="279.66996"
+       y="240.63136"
+       width="165.11407"
+       height="69.757495"
+       id="rect3" />
+    <rect
+       x="572.77943"
+       y="78.077196"
+       width="150.3946"
+       height="39.038598"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#223f61;fill-opacity:1;stroke-width:0.429784"
+       id="rect1"
+       width="123.58945"
+       height="1.7683944"
+       x="16.522568"
+       y="48.521797" />
+    <rect
+       style="fill:#d8d1be;fill-opacity:1;stroke-width:0.965535;stroke-dasharray:none"
+       id="rect2"
+       width="123.49973"
+       height="37.082672"
+       x="16.647532"
+       y="50.149914" />
+    <rect
+       style="fill:#223f61;fill-opacity:1;stroke-width:0.429818"
+       id="rect1-4"
+       width="123.60888"
+       height="1.7683944"
+       x="16.522568"
+       y="86.519226" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+       x="17.647532"
+       y="57.751671"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.794"
+         x="17.647532"
+         y="57.751671">Core Research</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+       x="17.454605"
+       y="14.584754"
+       id="text2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.794"
+         x="17.454605"
+         y="14.584754">Fundamentals</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+       x="17.829432"
+       y="95.202362"
+       id="text2-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.794"
+         x="17.829432"
+         y="95.202362">Applications</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11"
+       transform="translate(-24.383125,-0.06499858)">
+      <ellipse
+         style="fill:#e78c3b;fill-opacity:0.514644;stroke-width:0.793999"
+         id="path5-8"
+         cx="76.105583"
+         cy="72.602058"
+         rx="21.758551"
+         ry="7.9583807" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+         x="64.611374"
+         y="74.591942"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="stroke-width:0.794"
+           x="64.611374"
+           y="74.591942">Sensors</tspan></text>
+    </g>
+    <g
+       id="g12"
+       transform="translate(-28.954961,0.06499862)">
+      <ellipse
+         style="fill:#e78c3b;fill-opacity:0.514644;stroke-width:0.793999"
+         id="path5"
+         cx="130.63597"
+         cy="72.472061"
+         rx="21.758551"
+         ry="7.9583807" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+         x="116.85146"
+         y="74.405449"
+         id="text3-4"><tspan
+           sodipodi:role="line"
+           id="tspan3-3"
+           style="stroke-width:0.794"
+           x="116.85146"
+           y="74.405449">Actuators</tspan></text>
+    </g>
+    <g
+       id="g15">
+      <rect
+         style="fill:#d3d9df;fill-opacity:0.513725;stroke-width:0.793999"
+         id="rect5-4"
+         width="48.935574"
+         height="10.667617"
+         x="82.353355"
+         y="20.968569" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+         x="87.969597"
+         y="28.319824"
+         id="text3-4-3"><tspan
+           sodipodi:role="line"
+           id="tspan3-3-0"
+           style="stroke-width:0.794"
+           x="87.969597"
+           y="28.319824">Mathematics</tspan></text>
+    </g>
+    <g
+       id="g16">
+      <rect
+         style="fill:#d3d9df;fill-opacity:0.513725;stroke-width:0.851191"
+         id="rect5-0"
+         width="56.239254"
+         height="10.667617"
+         x="78.701515"
+         y="33.511726" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+         x="82.560799"
+         y="40.849201"
+         id="text3-4-9"><tspan
+           sodipodi:role="line"
+           id="tspan3-3-1"
+           style="stroke-width:0.794"
+           x="82.560799"
+           y="40.849201">Material Science</tspan></text>
+    </g>
+    <g
+       id="g14">
+      <g
+         id="g9"
+         transform="translate(-0.33468628,-12.509337)">
+        <rect
+           style="fill:#d3d9df;fill-opacity:0.513725;stroke-width:0.817922"
+           id="rect5-0-1"
+           width="51.928886"
+           height="10.667617"
+           x="52.69725"
+           y="111.37283" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+           x="55.051785"
+           y="118.72409"
+           id="text3-4-2"><tspan
+             sodipodi:role="line"
+             id="tspan3-3-7"
+             style="stroke-width:0.794"
+             x="55.051785"
+             y="118.72409">Medical Devices</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g10"
+       transform="translate(-72.187096,-1.4960157)">
+      <g
+         id="g13">
+        <rect
+           style="fill:#d3d9df;fill-opacity:0.513725;stroke-width:0.921667"
+           id="rect5-0-5"
+           width="65.937584"
+           height="10.667617"
+           x="117.54531"
+           y="112.42283" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+           x="122.47932"
+           y="119.77409"
+           id="text3-4-4"><tspan
+             sodipodi:role="line"
+             id="tspan3-3-72"
+             style="stroke-width:0.794"
+             x="122.47932"
+             y="119.77409">Robot Manipulation</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g17">
+      <rect
+         style="fill:#d3d9df;fill-opacity:0.513725;stroke-width:0.793999"
+         id="rect5"
+         width="48.935574"
+         height="10.667617"
+         x="21.345255"
+         y="20.968569" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+         x="24.270185"
+         y="28.306044"
+         id="text3-4-3-7"><tspan
+           sodipodi:role="line"
+           id="tspan3-3-0-8"
+           style="stroke-width:0.794"
+           x="24.270185"
+           y="28.306044">Design Studies</tspan></text>
+    </g>
+    <g
+       id="g18">
+      <rect
+         style="fill:#d3d9df;fill-opacity:0.513725;stroke-width:0.842082"
+         id="rect5-41"
+         width="55.041931"
+         height="10.667617"
+         x="18.292076"
+         y="33.511726" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Objectivity;-inkscape-font-specification:'Objectivity Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#223f61;fill-opacity:1;stroke-width:0.793999"
+         x="21.950951"
+         y="40.86298"
+         id="text3-4-3-7-8"><tspan
+           sodipodi:role="line"
+           id="tspan3-3-0-8-9"
+           style="stroke-width:0.794"
+           x="21.950951"
+           y="40.86298">Disability Justice</tspan></text>
+    </g>
+  </g>
+</svg>

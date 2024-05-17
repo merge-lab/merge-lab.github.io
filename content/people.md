@@ -6,10 +6,33 @@ title: People
 
 <!-- image link, alt text + as many rows as you want -->
 {{< list-table header=false imageCol=true class="bootstrap" >}}
-/img_static/ltchin.jpg
+/img_static/people/ltchin.jpg
 Lilly Chin sits by the fire, ready to burn her thesis
-**[Lillian (Lilly) Chin](https://lillych.in)**<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br><br>**Office:** TBD<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)
+**[Lillian (Lilly) Chin](https://lillych.in)**<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br><br>**Office:** [EER](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/) 4.820<br>**Lab Space:** EER 4.884 and 4.884A<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)
 
+/img_static/people/david.JPG
+David Bershadsky stands in front of a painting
+**David Bershadsky**<br>PhD Student<br>Electrical and Computer Engineering
+
+/img_static/people/siqi.png
+Siqi Shang sits on the stairs
+**[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering
+
+/img_static/logo.png
+Placeholder
+**Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Co-advised with [Fangzhou Xia](https://xiafz.info)
+
+/img_static/people/tuo.jpg
+Tuo Wang in graduation regalia
+**Tuo Wang**<br>PhD Student<br>Electrical and Computer Engineering<br><br>Tuo is a PhD student in Electrical and Computer Engineering at the University of Texas at Austin. With a keen interest in redefining the boundaries of robotics, Tuo's research centers on enhancing the geometry, intelligence, agility, and interactivity of robots. Outside of the lab, Tuo is passionate about landscape photography and enjoys playing basketball and various board games.
+
+/img_static/people/darren.jpg
+Headshot of Darren Au
+**[Darren Au](https://www.darrenau.com)**<br>Undergraduate Student<br>Electrical and Computer Engineering
+
+/img_static/people/tanya.jpeg
+Headshot of Tanya Lertpradist
+**Tanya Lertpradist**<br>Undergraduate Student<br>Electrical and Computer Engineering
 
 {{< /list-table >}}
 

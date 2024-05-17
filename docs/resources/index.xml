@@ -4,7 +4,7 @@
     <title>Resources on MERGe Lab</title>
     <link>//localhost:1313/resources/</link>
     <description>Recent content in Resources on MERGe Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,14 +12,14 @@
       <link>//localhost:1313/resources/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/resources/career/</guid>
-      <description></description>
+      <description>This page is under construction.</description>
     </item>
     <item>
       <title>Lab Expectations</title>
       <link>//localhost:1313/resources/lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/resources/lab/</guid>
-      <description></description>
+      <description>This page is under construction.</description>
     </item>
   </channel>
 </rss>

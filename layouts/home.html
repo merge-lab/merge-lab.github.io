@@ -8,7 +8,7 @@
 	<h2><a href="/news"> Recent News: </a></h2>
 	{{ $file := (printf "%s%s" .Page.File.Dir "news.md") | readFile | replaceRE "^---[\\s\\S]+?---" "" }} <!-- https://roneo.org/en/hugo-include-another-file-with-a-shortcode/ -->
 	{{ $file := split $file "\n" }} <!-- https://discourse.gohugo.io/t/using-readfile-to-read-a-reduced-set-of-lines/24873 -->
-	<!-- {{ $file := first 3 (after 3 $file) }} -->
+	{{ $file := first 3 (after 3 $file) }}
 	{{ delimit $file "\n" | markdownify }}
 </div>
 

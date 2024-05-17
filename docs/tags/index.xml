@@ -4,7 +4,7 @@
     <title>Tags on MERGe Lab</title>
     <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on MERGe Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

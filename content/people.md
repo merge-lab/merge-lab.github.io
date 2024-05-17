@@ -12,7 +12,7 @@ Lilly Chin sits by the fire, ready to burn her thesis
 
 /img_static/people/david.JPG
 David Bershadsky stands in front of a painting
-**David Bershadsky**<br>PhD Student<br>Electrical and Computer Engineering
+**David Bershadsky**<br>PhD Student<br>Electrical and Computer Engineering<br>Co-advised with [Zak Page](https://www.zpagegroup.com/zak-page-1)
 
 /img_static/people/siqi.png
 Siqi Shang sits on the stairs

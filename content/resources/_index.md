@@ -4,21 +4,7 @@ title: Resources
 
 > **This page is under construction.** Eventually, it will have links to lab expectations, lab facilities and helpful links for writing and other teaching resources.
 
-# Lab Expectations
-* Onboarding - (02-Lab Setup)
-* 1:1 Advising relationship (03 - Lab Culture)
-	* My goals
-	* Advisor expectations
-	* Boothroyd notes
-* Lab culture (03 - Lab Culture)
-	* Code of conduct
-	* Logistics (WFH)
-* Offboarding - (05 - Offboarding)
+## Lab Expectations
+This document is the manual/syllabus for how research is conducted in the MERGe Lab. Lab members can comment and make suggestions to this document. If you are a prospective student, skimming this document may give some helpful insight into the lab culture.
 
-# Career Resources (04 - Learning Skills)
-* Getting into grad school
-	* My specific tips
-* Thriving in grad school
-	* Reading, writing, etc.
-* Finding a postdoc
-* Finding a faculty job
+<iframe style="width:100%; height:500px" src="https://docs.google.com/document/d/11Y8OuI2T-yxz__TyKxwvPsMHDOvis4R5qD7xk-An5xY/pub?embedded=true"></iframe>

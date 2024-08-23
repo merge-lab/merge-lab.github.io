@@ -7,7 +7,7 @@ title: News
 * **Apr. 2024** -- David, [Siqi](https://siqishang.github.io), Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome!
 * **Apr. 2024** -- [Darren](https://www.darrenau.com) and Tanya have joined MERGe Lab as undergrad students. Welcome!
 * **Jan. 2024** -- [Annan](https://www.annanzhang.com) and [Lilly](https://lillych.in)'s paper "Embedded air channels transform soft lattices into sensorized grippers" has been accepted to ICRA 2024! See y'all in Yokohama!
-* **Jan. 2024** -- Valerie, [Lilly](https://lillych.in), Jeana and [Annan](https://www.annanzhang.com)'s paper "Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing" has been accepted to Robosoft 2024! See y'all in San Diego!
+* **Jan. 2024** -- Valerie, [Lilly](https://lillych.in), Jeana and [Annan](https://www.annanzhang.com)'s paper "Real-Time Grocery Packing by Integrating Vision, Tactile Sensing, and Soft Fingers" has been accepted to Robosoft 2024! See y'all in San Diego!
 
 ## 2023
 * **Dec. 2023** -- [Greg](https://www.gregoryxie.com)'s paper on "[In-Hand Manipulation With a Simple Belted Parallel-Jaw Gripper](https://ieeexplore.ieee.org/document/10373080)" has been published in IEEE RA-L!

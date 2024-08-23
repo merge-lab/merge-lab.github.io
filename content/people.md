@@ -18,8 +18,8 @@ David Bershadsky stands in front of a painting
 Siqi Shang sits on the stairs
 **[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering
 
-/img_static/logo.png
-Placeholder
+/img_static/people/chongxun.jpg
+Headshot of Chongxun Wang
 **Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Co-advised with [Fangzhou Xia](https://xiafz.info)
 
 /img_static/people/tuo.jpg
@@ -28,7 +28,7 @@ Tuo Wang in graduation regalia
 
 /img_static/people/darren.jpg
 Headshot of Darren Au
-**[Darren Au](https://www.darrenau.com)**<br>Undergraduate Student<br>Electrical and Computer Engineering
+**[Darren Au](https://www.darrenau.com)**<br>Undergraduate Student<br>Mechanical Engineering
 
 /img_static/people/tanya.jpeg
 Headshot of Tanya Lertpradist

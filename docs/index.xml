@@ -1,53 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on MERGe Lab</title>
-    <link>/</link>
-    <description>Recent content in Home on MERGe Lab</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Career Resources</title>
-      <link>/resources/career/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/resources/career/</guid>
-      <description> This page is under construction.&#xA;Career Resources (04 - Learning Skills) Getting into grad school My specific tips Thriving in grad school Reading, writing, etc. Finding a postdoc Finding a faculty job </description>
-    </item>
-    <item>
-      <title>Lab Expectations</title>
-      <link>/resources/lab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/resources/lab/</guid>
-      <description>This page is under construction.</description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/news/</guid>
-      <description>2024 May 2024 &amp;ndash; Lilly won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award! Apr. 2024 &amp;ndash; David, Siqi, Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome! Apr. 2024 &amp;ndash; Darren and Tanya have joined MERGe Lab as undergrad students. Welcome! Jan. 2024 &amp;ndash; Annan and Lilly&amp;rsquo;s paper &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo; has been accepted to ICRA 2024! See y&amp;rsquo;all in Yokohama!</description>
-    </item>
-    <item>
-      <title>People</title>
-      <link>/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/people/</guid>
-      <description>Current Lab Members Lillian (Lilly) Chin&#xA;Principal Investigator&#xA;Assistant Professor, Electrical and Computer Engineering, UT Austin&#xA;Office: EER 4.820&#xA;Lab Space: EER 4.884 and 4.884A&#xA;Contact form: Link&#xA;Lilly received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on her guinea pig. David Bershadsky&#xA;PhD Student&#xA;Electrical and Computer Engineering&#xA;Co-advised with Zak Page Siqi Shang</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publications/</guid>
-      <description>In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been highlighted.&#xA;For the most up-to-date list of publications, please check Professor Chin&amp;rsquo;s Google Scholar profile and Youtube. If you would like a copy of any paper, please contact Professor Chin.&#xA;Embedded Air Channels Transform Soft Lattices into Sensorized Grippers&#xA;Annan Zhang*, Lillian Chin*, Daniel L. Tong, Daniela Rus</description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/research/</guid>
-      <description>Active Projects Blind Grasping Current robots can do impressive grasping tasks with cameras and other forms of computer vision. However, humans are able to accomplish more dexterous manipulations without any vision, such as striking a match, juggling or solving a Rubik&amp;rsquo;s cube. There is a clear need to build the tactile sensors, end effectors and algorithms to imitate non-visual human manipulation.&#xA;In this project, the goal is to have a robot be able to reach inside a box, fumble around, and eventually find an object inside without the use of cameras.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MERGe Lab</title><link>/</link><description>Recent content in Home on MERGe Lab</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Career Resources</title><link>/resources/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/career/</guid><description> This page is under construction.
+Career Resources (04 - Learning Skills) Getting into grad school My specific tips Thriving in grad school Reading, writing, etc. Finding a postdoc Finding a faculty job</description></item><item><title>Lab Expectations</title><link>/resources/lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/lab/</guid><description>This page is under construction.</description></item><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>2024 May 2024 &amp;ndash; Lilly won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award! Apr. 2024 &amp;ndash; David, Siqi, Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome! Apr. 2024 &amp;ndash; Darren and Tanya have joined MERGe Lab as undergrad students. Welcome! Jan. 2024 &amp;ndash; Annan and Lilly&amp;rsquo;s paper &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo; has been accepted to ICRA 2024! See y&amp;rsquo;all in Yokohama!</description></item><item><title>People</title><link>/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/people/</guid><description>Current Lab Members Lillian (Lilly) Chin
+Principal Investigator
+Assistant Professor, Electrical and Computer Engineering, UT Austin
+Office: EER 4.820
+Lab Space: EER 4.884 and 4.884A
+Contact form: Link
+Lilly received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on her guinea pig. David Bershadsky
+PhD Student
+Electrical and Computer Engineering
+Co-advised with Zak Page Siqi Shang</description></item><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been highlighted.
+For the most up-to-date list of publications, please check Professor Chin&amp;rsquo;s Google Scholar profile and Youtube. If you would like a copy of any paper, please contact Professor Chin.
+Embedded Air Channels Transform Soft Lattices into Sensorized Grippers
+Annan Zhang*, Lillian Chin*, Daniel L. Tong, Daniela Rus</description></item><item><title>Research</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>Active Projects Blind Grasping Current robots can do impressive grasping tasks with cameras and other forms of computer vision. However, humans are able to accomplish more dexterous manipulations without any vision, such as striking a match, juggling or solving a Rubik&amp;rsquo;s cube. There is a clear need to build the tactile sensors, end effectors and algorithms to imitate non-visual human manipulation.
+In this project, the goal is to have a robot be able to reach inside a box, fumble around, and eventually find an object inside without the use of cameras.</description></item></channel></rss>

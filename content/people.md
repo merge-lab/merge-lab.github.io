@@ -8,7 +8,7 @@ title: People
 {{< list-table header=false imageCol=true class="bootstrap" >}}
 /img_static/people/ltchin.jpg
 Lilly Chin sits by the fire, ready to burn her thesis
-**[Lillian (Lilly) Chin](https://lillych.in)**<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br><br>**Office:** [EER](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/) 4.820<br>**Lab Space:** EER 4.884 and 4.884A<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)<br><br>Lilly received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on her guinea pig.
+**[Lillian (Lilly) Chin](https://lillych.in)**<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br>Courtesy Appointment, Mechanical Engineering<br><br>**Office:** [EER](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/) 4.820<br>**Lab Space:** EER 4.884 and 4.884A<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)<br><br>Lilly received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on her guinea pig.
 
 /img_static/people/david.JPG
 David Bershadsky stands in front of a painting
@@ -33,6 +33,10 @@ Headshot of Darren Au
 /img_static/people/tanya.jpeg
 Headshot of Tanya Lertpradist
 **Tanya Lertpradist**<br>Undergraduate Student<br>Electrical and Computer Engineering
+
+/img_static/people/hrishi.png
+Headshot of Hrishi Sahu
+**Hrishikesh Sahu**<br>Undergraduate Student<br>Electrical and Computer Engineering
 
 {{< /list-table >}}
 

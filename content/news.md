@@ -3,6 +3,7 @@ title: News
 ---
 
 ## 2024
+* **Aug. 2024** -- Hrishi has joined MERGe Lab as an undergrad student. Welcome!
 * **May 2024** -- [Lilly](https://lillych.in) won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award!
 * **Apr. 2024** -- David, [Siqi](https://siqishang.github.io), Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome!
 * **Apr. 2024** -- [Darren](https://www.darrenau.com) and Tanya have joined MERGe Lab as undergrad students. Welcome!

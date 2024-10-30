@@ -9,6 +9,18 @@ For the most up-to-date list of publications, please check Professor Chin's [Goo
 ----
 
 {{< list-table header=false imageCol=true class="pubs" >}}
+/img_static/pubs/auxbot2025.png
+A robot made out of metal pieces in the closed and expanded states. There are scissor links in between metal triangles and squares.
+**Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion**<br><u>Lillian Chin</u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus<br>Submitted to *ICRA 2025*<br><br>We create soft modular robots that can expand <u>1.57x in 0.2 seconds</u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.
+
+/img_static/pubs/iros2024.png
+A robot gripper grasps a 10 pound dumbbell and is deformed by a plastic bat.
+**Strong Compliant Grasps Using a Cable-Driven Soft Gripper**<br>Gregory Xie, <u>Lillian Chin</u>, Byungchul Kim, Rachel Holladay, and Daniela Rus<br>*IROS 2024*<br> [Paper](/FROG_ICRA.pdf) <br><br> We create FROG (Flexible Robust Observant Gripper) that is soft yet strong. FROG is made of soft flexure-based fingers that are encircled by Bowen tubes. By pulling on these tubes, we can exert a significant amount of force while remaining compliant. We develop controllers to grasp heavy and delicate objects and demonstrate them across a wide range of household objects.
+
+/img_static/pubs/serc2024.png
+Mockup of a community planning tool for urban farms in public housing
+**Drawing Together: Technology Development for Public Service**<br>Carlos Sandoval Olascoaga, <u>Lillian Chin</u>, Josefina Correa Menendez, Reid Kovacs, Calvin Zhong & Nicholas de Monchaux <br>Book chapter in *Improving Technology Through Ethics* (Springer, 2024)<br> [Chapter](https://link.springer.com/chapter/10.1007/978-3-031-52962-7_6)<br><br>Traditionally, civic planning technology has not been created in dialogue with communities. We discuss a new approach to technology development that centers community-based collaborative planning. We present a history of Geospatial Information Systems (GIS) and our ongoing work with [Green City Force](https://greencityforce.org) to make technology that addresses racial, economic and environmental justice in New York City Housing Authority communities.
+
 /img_static/pubs/icra2024.png
 A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers.
 **Embedded Air Channels Transform Soft Lattices into Sensorized Grippers**<br>Annan Zhang*, <u>Lillian Chin*</u>, Daniel L. Tong, Daniela Rus<br>*ICRA 2024*<br> [Paper](https://www.annanzhang.com/data/pdf/zhang2024embedded.pdf) <br><br> We create a sensorized parallel jaw gripper by printing cubic lattice fingers with embedded air channels. Through 3D printing, we have significantly more control over the location and positioning of the channel sensors. After characterizing the sensor performance from compression, bending and time-dependent effects, we use the gripper to estimate the weight and location of grasped objects. We are able to imitate vision-based tactile sensor results with only 12 sensors.<!--highlight --> 
@@ -19,7 +31,7 @@ A robot arm grabs a can off of a conveyor belt to pack it in a conveyor belt. In
 
 /img_static/pubs/bop2024.png
 A parallel-jaw gripper uses belts embedded within a finger to rotate and translate a toy peach.
-**In-Hand Manipulation with a Simple Belted Parallel-Jaw Gripper**<br>Gregory Xie, Rachel Holladay, <u>Lillian Chin</u>, Daniela Rus<br>*IEEE RA-L*, 2023 <br>[Paper](https://ieeexplore.ieee.org/abstract/document/10373080/) <br><br> We create BOP (Belt Orienting Phalanges), a parallel-jaw gripper where each finger has two sets of belts embedded within. By controlling each of the belts, we can control a grasped object's roll, pitch and translation. We demonstrate several instances of in-hand manipulation, including fingernail-style lifting of a thing object and screwing in a lightbulb.
+**In-Hand Manipulation with a Simple Belted Parallel-Jaw Gripper**<br>Gregory Xie, Rachel Holladay, <u>Lillian Chin</u>, Daniela Rus<br>*IEEE RA-L*, 2023. Also presented at ICRA@40 <br>[Paper](https://ieeexplore.ieee.org/abstract/document/10373080/) <br><br> We create BOP (Belt Orienting Phalanges), a parallel-jaw gripper where each finger has two sets of belts embedded within. By controlling each of the belts, we can control a grasped object's roll, pitch and translation. We demonstrate several instances of in-hand manipulation, including fingernail-style lifting of a thing object and screwing in a lightbulb.
 
 /img_static/pubs/zhang2023machine.png
 Machine learning for soft robot proprioception should match the data distribution and sensor inputs

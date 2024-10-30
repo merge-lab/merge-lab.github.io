@@ -43,6 +43,10 @@ Headshot of Tanya Lertpradist
 Headshot of Hrishi Sahu
 **Hrishikesh Sahu**<br>Undergraduate Student<br>Electrical and Computer Engineering
 
+/img_static/people/ava.jpg
+Headshot of Ava Chao Schraeder
+**Ava Chao Schraeder**<br>Undergraduate Student<br>Mechanical Engineering
+
 {{< /list-table >}}
 
 <!-- ## Alumni

@@ -3,10 +3,13 @@ title: News
 ---
 
 ## 2024
-* **Aug. 2024** -- Hrishi has joined MERGe Lab as an undergrad student. Welcome!
+* **Oct. 2024** -- Hrishi and Ava have joined MERGe Lab as undergrad students. Welcome!
+* **Sep. 2024** -- [Lilly](https://lillych.in) has submitted a paper to ICRA 2025 on "Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion"
+* **Jun. 2024** -- [Greg](https://www.gregoryxie.com)'s paper on "Strong Compliant Grasps Using a Cable-Driven Soft Gripper" has been accepted to IROS 2024!
 * **May 2024** -- [Lilly](https://lillych.in) won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award!
 * **Apr. 2024** -- David, [Siqi](https://siqishang.github.io), Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome!
 * **Apr. 2024** -- [Darren](https://www.darrenau.com) and Tanya have joined MERGe Lab as undergrad students. Welcome!
+* **Mar. 2024** -- [Greg](https://www.gregoryxie.com) submitted a paper to IROS 2024 on "Strong Compliant Grasps Using a Cable-Driven Soft Gripper"
 * **Jan. 2024** -- [Annan](https://www.annanzhang.com) and [Lilly](https://lillych.in)'s paper "Embedded air channels transform soft lattices into sensorized grippers" has been accepted to ICRA 2024! See y'all in Yokohama!
 * **Jan. 2024** -- Valerie, [Lilly](https://lillych.in), Jeana and [Annan](https://www.annanzhang.com)'s paper "Real-Time Grocery Packing by Integrating Vision, Tactile Sensing, and Soft Fingers" has been accepted to Robosoft 2024! See y'all in San Diego!
 

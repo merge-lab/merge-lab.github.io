@@ -25,12 +25,16 @@ menu:
     - name: Resources
       url: "resources/"
       weight: 6
-    - name: Lab
-      url: "lab"
+    - name: Admissions
+      url: "https://lillych.in/faq/admissions/"
+      parent: "Resources"
+      weight: 3
+    - name: Expectations
+      url: "resources/"
       parent: "Resources"
       weight: 3
     - name: Career
-      url: "career"
+      url: "resources/career"
       parent: "Resources"
       weight: 4
 

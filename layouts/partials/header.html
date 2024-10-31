@@ -52,7 +52,7 @@
                 <ul class="sub-menu">
                     {{ range .Children }}
                     <li>
-                      <a href="{{ path.Join $parent .URL}}">{{ .Name }}</a>
+                      <a href="{{ .URL | absURL }}">{{ .Name }}</a>
                     </li>
                     {{ end }}
                 </ul>

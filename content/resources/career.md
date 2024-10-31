@@ -2,9 +2,8 @@
 title: Career Resources
 ---
 
-> **This page is under construction.** 
+> **This page is under construction.** Eventually, it will have links to helpful links for writing and other teaching resources.
 
-# Career Resources (04 - Learning Skills)
 * Getting into grad school
 	* My specific tips
 * Thriving in grad school

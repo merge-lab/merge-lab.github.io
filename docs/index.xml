@@ -132,26 +132,6 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/chongxun.jpg">&lt;img src = "/img_static/people/chongxun.jpg" alt = "Headshot of Chongxun Wang" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Chongxun Wang&lt;/strong>&lt;br>PhD Student&lt;br>Mechanical Engineering&lt;br>Co-advised with &lt;a href="https://xiafz.info">Fangzhou Xia&lt;/a>&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
  &lt;td> &lt;a href="/img_static/people/tuo.jpg">&lt;img src = "/img_static/people/tuo.jpg" alt = "Tuo Wang in graduation regalia" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
@@ -238,6 +218,68 @@
  
  
  &lt;td>&lt;strong>Ava Chao Schraeder&lt;/strong>&lt;br>Undergraduate Student&lt;br>Mechanical Engineering&lt;/td>
+ 
+ &lt;/tr>
+ 
+&lt;/table>
+&lt;h2 id="collaborators">Collaborators&lt;/h2>
+&lt;!-- image link, alt text + as many rows as you want -->
+
+
+
+
+
+
+
+
+&lt;table class=bootstrap>
+ 
+
+ 
+ &lt;colgroup>
+ &lt;col span="1" style="width: 30%;">
+ &lt;/colgroup>
+ 
+
+ 
+ 
+ 
+ &lt;tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td> &lt;a href="/img_static/people/Gucheol.jpg">&lt;img src = "/img_static/people/Gucheol.jpg" alt = "Headshot of Gu-Cheol Jeong" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ 
+ 
+ 
+ 
+ &lt;td>&lt;strong>Gu-Cheol Jeong&lt;/strong>&lt;br>PhD Student&lt;br>Mechanical Engineering&lt;br>Advised by &lt;a href="https://reneu.robotics.utexas.edu/members/ashish-deshpande">Ashish Deshpande&lt;/a>, collaborating with &lt;a href="https://robertomartinmartin.com/">Roberto Martín-Martín&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ 
+ &lt;tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td> &lt;a href="/img_static/people/chongxun.jpg">&lt;img src = "/img_static/people/chongxun.jpg" alt = "Headshot of Chongxun Wang" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ 
+ 
+ 
+ 
+ &lt;td>&lt;strong>Chongxun Wang&lt;/strong>&lt;br>PhD Student&lt;br>Mechanical Engineering&lt;br>Advised by &lt;a href="https://xiafz.info">Fangzhou Xia&lt;/a>&lt;/td>
  
  &lt;/tr>
  

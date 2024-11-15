@@ -8,7 +8,6 @@ If you would like to join MERGe Lab, please read [**this FAQ page**](https://lil
 * Current UT students and prospective postdocs should email Lilly directly.
 
 ## Current Lab Members
-
 <!-- image link, alt text + as many rows as you want -->
 {{< list-table header=false imageCol=true class="bootstrap" >}}
 /img_static/people/ltchin.jpg
@@ -22,10 +21,6 @@ David Bershadsky stands in front of a painting
 /img_static/people/siqi.png
 Siqi Shang sits on the stairs
 **[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering
-
-/img_static/people/chongxun.jpg
-Headshot of Chongxun Wang
-**Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Co-advised with [Fangzhou Xia](https://xiafz.info)
 
 /img_static/people/tuo.jpg
 Tuo Wang in graduation regalia
@@ -47,6 +42,18 @@ Headshot of Hrishi Sahu
 Headshot of Ava Chao Schraeder
 **Ava Chao Schraeder**<br>Undergraduate Student<br>Mechanical Engineering
 
+{{< /list-table >}}
+
+## Collaborators
+<!-- image link, alt text + as many rows as you want -->
+{{< list-table header=false imageCol=true class="bootstrap" >}}
+/img_static/people/Gucheol.jpg
+Headshot of Gu-Cheol Jeong
+**Gu-Cheol Jeong**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Ashish Deshpande](https://reneu.robotics.utexas.edu/members/ashish-deshpande), collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
+
+/img_static/people/chongxun.jpg
+Headshot of Chongxun Wang
+**Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Fangzhou Xia](https://xiafz.info)
 {{< /list-table >}}
 
 <!-- ## Alumni

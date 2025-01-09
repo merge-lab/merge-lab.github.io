@@ -3,7 +3,7 @@ title: News
 ---
 
 ## 2024
-* **Oct. 2024** -- Hrishi and Ava have joined MERGe Lab as undergrad students. Welcome!
+* **Dec. 2024** -- Hrishi, Ava and Joseph have joined MERGe Lab as undergrad students. Welcome!
 * **Sep. 2024** -- [Lilly](https://lillych.in) has submitted a paper to ICRA 2025 on "Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion"
 * **Jun. 2024** -- [Greg](https://www.gregoryxie.com)'s paper on "Strong Compliant Grasps Using a Cable-Driven Soft Gripper" has been accepted to IROS 2024!
 * **May 2024** -- [Lilly](https://lillych.in) won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award!

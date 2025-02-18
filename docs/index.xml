@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MERGe Lab</title><link>/</link><description>Recent content in Home on MERGe Lab</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Career Resources</title><link>/resources/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/career/</guid><description>&lt;blockquote>
-&lt;p>&lt;strong>This page is under construction.&lt;/strong> Eventually, it will have links to helpful links for writing and other teaching resources.&lt;/p>
-&lt;/blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MERGe Lab</title><link>//localhost:1313/</link><description>Recent content in Home on MERGe Lab</description><generator>Hugo</generator><language>en-us</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Career Resources</title><link>//localhost:1313/resources/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/resources/career/</guid><description>&lt;blockquote>
+&lt;p>&lt;strong>This page is under construction.&lt;/strong> Eventually, it will have links to helpful links for writing and other teaching resources.&lt;/p>&lt;/blockquote>
 &lt;ul>
 &lt;li>Getting into grad school
 &lt;ul>
@@ -14,7 +13,11 @@
 &lt;/li>
 &lt;li>Finding a postdoc&lt;/li>
 &lt;li>Finding a faculty job&lt;/li>
-&lt;/ul></description></item><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>&lt;h2 id="2024">2024&lt;/h2>
+&lt;/ul></description></item><item><title>News</title><link>//localhost:1313/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/news/</guid><description>&lt;h2 id="2025">2025&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Jan. 2025&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a>&amp;rsquo;s paper, &amp;ldquo;Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&amp;rdquo;, has been accepted to ICRA 2025! See all y&amp;rsquo;all in Atlanta!&lt;/li>
+&lt;/ul>
+&lt;h2 id="2024">2024&lt;/h2>
 &lt;ul>
 &lt;li>&lt;strong>Dec. 2024&lt;/strong> &amp;ndash; Hrishi, Ava and Joseph have joined MERGe Lab as undergrad students. Welcome!&lt;/li>
 &lt;li>&lt;strong>Sep. 2024&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a> has submitted a paper to ICRA 2025 on &amp;ldquo;Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&amp;rdquo;&lt;/li>
@@ -34,7 +37,7 @@
 &lt;li>&lt;strong>Sep. 2023&lt;/strong> &amp;ndash; &lt;a href="https://www.annanzhang.com">Annan&lt;/a> and &lt;a href="https://lillych.in">Lilly&lt;/a> submitted a paper to ICRA 2024 on &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo;&lt;/li>
 &lt;li>&lt;strong>Sep. 2023&lt;/strong> &amp;ndash; &lt;a href="https://www.gregoryxie.com">Greg&lt;/a> submitted a paper to ICRA 2024 on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo;&lt;/li>
 &lt;li>&lt;strong>May 2023&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a> has been named a &lt;a href="https://schmidtsciencefellows.org">Schmidt Science Fellow&lt;/a>. She will spend her postdoc fellowship at the National Institutes of Health.&lt;/li>
-&lt;/ul></description></item><item><title>People</title><link>/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/people/</guid><description>&lt;h2 id="prospective-lab-members">Prospective Lab Members&lt;/h2>
+&lt;/ul></description></item><item><title>People</title><link>//localhost:1313/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/people/</guid><description>&lt;h2 id="prospective-lab-members">Prospective Lab Members&lt;/h2>
 &lt;p>If you would like to join MERGe Lab, please read &lt;a href="https://lillych.in/faq/admissions/">&lt;strong>this FAQ page&lt;/strong>&lt;/a>.&lt;/p>
 &lt;ul>
 &lt;li>Prospective PhD students should apply to UT Austin before contacting Lilly.&lt;/li>
@@ -72,7 +75,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/ltchin.jpg">&lt;img src = "/img_static/people/ltchin.jpg" alt = "Lilly Chin sits by the fire, ready to burn her thesis" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/ltchin.jpg">&lt;img src = "/img_static/people/ltchin.jpg" alt = "Lilly Chin sits by the fire, ready to burn her thesis" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -92,7 +95,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/david.JPG">&lt;img src = "/img_static/people/david.JPG" alt = "David Bershadsky stands in front of a painting" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/david.JPG">&lt;img src = "/img_static/people/david.JPG" alt = "David Bershadsky stands in front of a painting" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -112,7 +115,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/siqi.png">&lt;img src = "/img_static/people/siqi.png" alt = "Siqi Shang sits on the stairs" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/siqi.png">&lt;img src = "/img_static/people/siqi.png" alt = "Siqi Shang sits on the stairs" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -132,7 +135,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/tuo.jpg">&lt;img src = "/img_static/people/tuo.jpg" alt = "Tuo Wang in graduation regalia" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/tuo.jpg">&lt;img src = "/img_static/people/tuo.jpg" alt = "Tuo Wang in graduation regalia" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -152,7 +155,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/darren.jpg">&lt;img src = "/img_static/people/darren.jpg" alt = "Headshot of Darren Au" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/darren.jpg">&lt;img src = "/img_static/people/darren.jpg" alt = "Headshot of Darren Au" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -172,7 +175,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/tanya.jpeg">&lt;img src = "/img_static/people/tanya.jpeg" alt = "Headshot of Tanya Lertpradist" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/tanya.jpeg">&lt;img src = "/img_static/people/tanya.jpeg" alt = "Headshot of Tanya Lertpradist" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -192,7 +195,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/logo.png">&lt;img src = "/img_static/logo.png" alt = "Placeholder image" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/joseph.PNG">&lt;img src = "/img_static/people/joseph.PNG" alt = "Headshot of Joseph Romero" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -212,7 +215,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/hrishi.png">&lt;img src = "/img_static/people/hrishi.png" alt = "Headshot of Hrishi Sahu" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/hrishi.png">&lt;img src = "/img_static/people/hrishi.png" alt = "Headshot of Hrishi Sahu" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -232,7 +235,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/ava.jpg">&lt;img src = "/img_static/people/ava.jpg" alt = "Headshot of Ava Chao Schraeder" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/ava.jpg">&lt;img src = "/img_static/people/ava.jpg" alt = "Headshot of Ava Chao Schraeder" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -274,7 +277,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/Gucheol.jpg">&lt;img src = "/img_static/people/Gucheol.jpg" alt = "Headshot of Gu-Cheol Jeong" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/Gucheol.jpg">&lt;img src = "/img_static/people/Gucheol.jpg" alt = "Headshot of Gu-Cheol Jeong" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -294,7 +297,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/chongxun.jpg">&lt;img src = "/img_static/people/chongxun.jpg" alt = "Headshot of Chongxun Wang" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/people/chongxun.jpg">&lt;img src = "/img_static/people/chongxun.jpg" alt = "Headshot of Chongxun Wang" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -345,7 +348,7 @@
  
  &lt;/tr>
  
-&lt;/table> --></description></item><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>&lt;p>In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been &lt;span class="highlight">highlighted&lt;/span>.&lt;/p>
+&lt;/table> --></description></item><item><title>Publications</title><link>//localhost:1313/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/publications/</guid><description>&lt;p>In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been &lt;span class="highlight">highlighted&lt;/span>.&lt;/p>
 &lt;p>For the most up-to-date list of publications, please check Professor Chin&amp;rsquo;s &lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=yPvT_i4AAAAJ&amp;amp;view_op=list_works&amp;amp;sortby=pubdate">Google Scholar profile&lt;/a> and &lt;a href="https://www.youtube.com/@LillianTChin">Youtube&lt;/a>. If you would like a copy of any paper, please &lt;a href="https://litchin.wordpress.com/contact/">contact&lt;/a> Professor Chin.&lt;/p>
 &lt;hr>
 
@@ -378,32 +381,12 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/auxbot2025.png">&lt;img src = "/img_static/pubs/auxbot2025.png" alt = "A robot made out of metal pieces in the closed and expanded states. There are scissor links in between metal triangles and squares." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/auxbot2025.png">&lt;img src = "/img_static/pubs/auxbot2025.png" alt = "A robot made out of metal pieces in the closed and expanded states. There are scissor links in between metal triangles and squares." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
  
- &lt;td>&lt;strong>Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus&lt;br>Submitted to &lt;em>ICRA 2025&lt;/em>&lt;br>&lt;br>We create soft modular robots that can expand &lt;u>1.57x in 0.2 seconds&lt;/u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/iros2024.png">&lt;img src = "/img_static/pubs/iros2024.png" alt = "A robot gripper grasps a 10 pound dumbbell and is deformed by a plastic bat." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Strong Compliant Grasps Using a Cable-Driven Soft Gripper&lt;/strong>&lt;br>Gregory Xie, &lt;u>Lillian Chin&lt;/u>, Byungchul Kim, Rachel Holladay, and Daniela Rus&lt;br>&lt;em>IROS 2024&lt;/em>&lt;br> &lt;a href="/FROG_ICRA.pdf">Paper&lt;/a> &lt;br>&lt;br> We create FROG (Flexible Robust Observant Gripper) that is soft yet strong. FROG is made of soft flexure-based fingers that are encircled by Bowen tubes. By pulling on these tubes, we can exert a significant amount of force while remaining compliant. We develop controllers to grasp heavy and delicate objects and demonstrate them across a wide range of household objects.&lt;/td>
+ &lt;td>&lt;strong>Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus&lt;br>Accepted to &lt;em>ICRA 2025&lt;/em>&lt;br>&lt;br>We create soft modular robots that can expand &lt;u>1.57x in 0.2 seconds&lt;/u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.&lt;/td>
  
  &lt;/tr>
  
@@ -418,7 +401,27 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/serc2024.png">&lt;img src = "/img_static/pubs/serc2024.png" alt = "Mockup of a community planning tool for urban farms in public housing" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/iros2024.png">&lt;img src = "/img_static/pubs/iros2024.png" alt = "A robot gripper grasps a 10 pound dumbbell and is deformed by a plastic bat." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ 
+ 
+ 
+ 
+ &lt;td>&lt;strong>Strong Compliant Grasps Using a Cable-Driven Soft Gripper&lt;/strong>&lt;br>Gregory Xie, &lt;u>Lillian Chin&lt;/u>, Byungchul Kim, Rachel Holladay, and Daniela Rus&lt;br>&lt;em>IROS 2024&lt;/em>&lt;br> &lt;a href="//localhost:1313/FROG_ICRA.pdf">Paper&lt;/a> &lt;br>&lt;br> We create FROG (Flexible Robust Observant Gripper) that is soft yet strong. FROG is made of soft flexure-based fingers that are encircled by Bowen tubes. By pulling on these tubes, we can exert a significant amount of force while remaining compliant. We develop controllers to grasp heavy and delicate objects and demonstrate them across a wide range of household objects.&lt;/td>
+ 
+ &lt;/tr>
+ 
+ 
+ &lt;tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/serc2024.png">&lt;img src = "/img_static/pubs/serc2024.png" alt = "Mockup of a community planning tool for urban farms in public housing" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -438,7 +441,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/icra2024.png">&lt;img src = "/img_static/pubs/icra2024.png" alt = "A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/icra2024.png">&lt;img src = "/img_static/pubs/icra2024.png" alt = "A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -458,7 +461,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/grocery2024.png">&lt;img src = "/img_static/pubs/grocery2024.png" alt = "A robot arm grabs a can off of a conveyor belt to pack it in a conveyor belt. Insets demonstrate the two cameras&amp;#39; point of view and the sensorized gripper." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/grocery2024.png">&lt;img src = "/img_static/pubs/grocery2024.png" alt = "A robot arm grabs a can off of a conveyor belt to pack it in a conveyor belt. Insets demonstrate the two cameras&amp;#39; point of view and the sensorized gripper." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -478,7 +481,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/bop2024.png">&lt;img src = "/img_static/pubs/bop2024.png" alt = "A parallel-jaw gripper uses belts embedded within a finger to rotate and translate a toy peach." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/bop2024.png">&lt;img src = "/img_static/pubs/bop2024.png" alt = "A parallel-jaw gripper uses belts embedded within a finger to rotate and translate a toy peach." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -498,7 +501,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/zhang2023machine.png">&lt;img src = "/img_static/pubs/zhang2023machine.png" alt = "Machine learning for soft robot proprioception should match the data distribution and sensor inputs" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/zhang2023machine.png">&lt;img src = "/img_static/pubs/zhang2023machine.png" alt = "Machine learning for soft robot proprioception should match the data distribution and sensor inputs" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -518,7 +521,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/cosimo2023.png">&lt;img src = "/img_static/pubs/cosimo2023.png" alt = "Comparison of a twisted HSA robot in real-life, simulation and kinematic abstraction." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/cosimo2023.png">&lt;img src = "/img_static/pubs/cosimo2023.png" alt = "Comparison of a twisted HSA robot in real-life, simulation and kinematic abstraction." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -538,7 +541,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/auxbot2022.png">&lt;img src = "/img_static/pubs/auxbot2022.png" alt = "A robot made out of metal squares and triangles in the closed and expanded states" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/auxbot2022.png">&lt;img src = "/img_static/pubs/auxbot2022.png" alt = "A robot made out of metal squares and triangles in the closed and expanded states" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -558,7 +561,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/zhang2022vision.jpg">&lt;img src = "/img_static/pubs/zhang2022vision.jpg" alt = "Cameras are placed at the top of the handed shearing auxetic fingers to view internal state changes" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/zhang2022vision.jpg">&lt;img src = "/img_static/pubs/zhang2022vision.jpg" alt = "Cameras are placed at the top of the handed shearing auxetic fingers to view internal state changes" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -578,7 +581,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/truby2022fluidic.png">&lt;img src = "/img_static/pubs/truby2022fluidic.png" alt = "See-through rendered view of a lattice, showing internal fluid chambers" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/truby2022fluidic.png">&lt;img src = "/img_static/pubs/truby2022fluidic.png" alt = "See-through rendered view of a lattice, showing internal fluid chambers" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -598,7 +601,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/brandon2022.png">&lt;img src = "/img_static/pubs/brandon2022.png" alt = "Pseudocode for the HILO algorithm, that takes in a markov decision process and trajectories to return an optimal plan" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/brandon2022.png">&lt;img src = "/img_static/pubs/brandon2022.png" alt = "Pseudocode for the HILO algorithm, that takes in a markov decision process and trajectories to return an optimal plan" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -618,7 +621,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/jeopardy2021.png">&lt;img src = "/img_static/pubs/jeopardy2021.png" alt = "A picture of the author (Lilly Chin) on Jeopardy but her head is replaced with a clam" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/jeopardy2021.png">&lt;img src = "/img_static/pubs/jeopardy2021.png" alt = "A picture of the author (Lilly Chin) on Jeopardy but her head is replaced with a clam" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -638,7 +641,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/colearning2021.png">&lt;img src = "/img_static/pubs/colearning2021.png" alt = "Overview of a machine learning algorithm to determine optimal sensor placement within a simulated gripper" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/colearning2021.png">&lt;img src = "/img_static/pubs/colearning2021.png" alt = "Overview of a machine learning algorithm to determine optimal sensor placement within a simulated gripper" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -658,7 +661,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/3dprintHSA2021.jpg">&lt;img src = "/img_static/pubs/3dprintHSA2021.jpg" alt = "A bent handed shearing auxetic tube, with another tube inside of it" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/3dprintHSA2021.jpg">&lt;img src = "/img_static/pubs/3dprintHSA2021.jpg" alt = "A bent handed shearing auxetic tube, with another tube inside of it" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -678,7 +681,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/multiplexedManip2020.png">&lt;img src = "/img_static/pubs/multiplexedManip2020.png" alt = "A robot gripper grabs a plastic banana in three ways: suction, parallel-jaw and soft fingers." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/multiplexedManip2020.png">&lt;img src = "/img_static/pubs/multiplexedManip2020.png" alt = "A robot gripper grabs a plastic banana in three ways: suction, parallel-jaw and soft fingers." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -703,7 +706,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/auxbot2019.png">&lt;img src = "/img_static/pubs/auxbot2019.png" alt = "A robot made up of two layers of spring steel in its closed and expanded states." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/auxbot2019.png">&lt;img src = "/img_static/pubs/auxbot2019.png" alt = "A robot made up of two layers of spring steel in its closed and expanded states." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -723,7 +726,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/recycling2019.png">&lt;img src = "/img_static/pubs/recycling2019.png" alt = "A robot waits over a conveyor belt next to recycling bins" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/recycling2019.png">&lt;img src = "/img_static/pubs/recycling2019.png" alt = "A robot waits over a conveyor belt next to recycling bins" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -743,7 +746,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/icra2019.jpg">&lt;img src = "/img_static/pubs/icra2019.jpg" alt = "A robot hand. One finger is covered with a gray sock while the other shows a handed shearing auxetic finger with a strain sensor on the back and a pressure sensor on the front." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/icra2019.jpg">&lt;img src = "/img_static/pubs/icra2019.jpg" alt = "A robot hand. One finger is covered with a gray sock while the other shows a handed shearing auxetic finger with a strain sensor on the back and a pressure sensor on the front." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -763,7 +766,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/hsa2018.png">&lt;img src = "/img_static/pubs/hsa2018.png" alt = "A handed shearing auxetic extending as it is twisted" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/hsa2018.png">&lt;img src = "/img_static/pubs/hsa2018.png" alt = "A handed shearing auxetic extending as it is twisted" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -783,7 +786,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/hsaMath2018.png">&lt;img src = "/img_static/pubs/hsaMath2018.png" alt = "Render showing how a repeated unit cell of a parallelogram and a rectangle creates a handed shearing auxetic structure" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/hsaMath2018.png">&lt;img src = "/img_static/pubs/hsaMath2018.png" alt = "Render showing how a repeated unit cell of a parallelogram and a rectangle creates a handed shearing auxetic structure" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -803,7 +806,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/forceps2018.png">&lt;img src = "/img_static/pubs/forceps2018.png" alt = "Obstetrical forceps with a modified handle, allowing for quick change and rotation" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/forceps2018.png">&lt;img src = "/img_static/pubs/forceps2018.png" alt = "Obstetrical forceps with a modified handle, allowing for quick change and rotation" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -823,7 +826,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/agstev2016.png">&lt;img src = "/img_static/pubs/agstev2016.png" alt = "A robot arm with a projector attached to it points at a bone on a turntable." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="//localhost:1313/img_static/pubs/agstev2016.png">&lt;img src = "/img_static/pubs/agstev2016.png" alt = "A robot arm with a projector attached to it points at a bone on a turntable." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -832,7 +835,7 @@
  
  &lt;/tr>
  
-&lt;/table></description></item><item><title>Research</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;h1 id="active-projects">Active Projects&lt;/h1>
+&lt;/table></description></item><item><title>Research</title><link>//localhost:1313/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/research/</guid><description>&lt;h1 id="active-projects">Active Projects&lt;/h1>
 
 
  
@@ -849,15 +852,15 @@
 
 
 &lt;figure class="small-figure" >
- &lt;a href="/img/icra2024.png">
+ &lt;a href="//localhost:1313/img/icra2024.png">
  &lt;img
  loading="lazy"
  sizes="(min-width: 35em) 816px, 400px, 100vw (max-width: 816)" 
- srcset=' /img/icra2024_hu17133644015538569759.png 200w 
- /img/icra2024_hu17337358238089275557.png 400w 
- /img/icra2024_hu887848550471947633.png 600w 
- /img/icra2024_hu13662849377570842094.png 800w '
- src="/img/icra2024.png"
+ srcset=' /img/icra2024_hu_22b64f93b84a4646.png 200w 
+ /img/icra2024_hu_1039660296910768.png 400w 
+ /img/icra2024_hu_37d8ac2a1e6839c1.png 600w 
+ /img/icra2024_hu_2f6d54bf2a694f6b.png 800w '
+ src="//localhost:1313/img/icra2024.png"
  alt='A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers.'
  />
  &lt;/a>

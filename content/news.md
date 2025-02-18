@@ -1,6 +1,8 @@
 ---
 title: News
 ---
+## 2025
+* **Jan. 2025** -- [Lilly](https://lillych.in)'s paper, "Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion", has been accepted to ICRA 2025! See all y'all in Atlanta!
 
 ## 2024
 * **Dec. 2024** -- Hrishi, Ava and Joseph have joined MERGe Lab as undergrad students. Welcome!

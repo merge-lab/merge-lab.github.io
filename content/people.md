@@ -34,8 +34,8 @@ Headshot of Darren Au
 Headshot of Tanya Lertpradist
 **Tanya Lertpradist**<br>Undergraduate Student<br>Electrical and Computer Engineering
 
-/img_static/logo.png
-Placeholder image
+/img_static/people/joseph.PNG
+Headshot of Joseph Romero
 **Joseph Romero**<br>Undergraduate Student<br>Mechanical Engineering
 
 /img_static/people/hrishi.png

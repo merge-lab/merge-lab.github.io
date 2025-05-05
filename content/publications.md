@@ -9,9 +9,13 @@ For the most up-to-date list of publications, please check Professor Chin's [Goo
 ----
 
 {{< list-table header=false imageCol=true class="pubs" >}}
+/img_static/pubs/biflex2025.png
+A robot that has a white 3D-printed wrist between the gripper and the rest of the arm. The wrist has a honeycomb structure.
+**BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments**<br>Gu-Cheol Jeong, Stefano Dalla Gasperina, Ashish D. Deshpande, <u>Lillian Chin*</u>, Roberto Martín-Martín*<br>Under review at *IEEE RA-L*<br>[arXiv](https://arxiv.org/abs/2504.08706)<br><br>We create BiFlex, a flexible 3D-printed wrist that uses buckling to passively switch from a high stiffness precision mode to a low stiffness compliant mode. BiFlex is easily generalizable to many robot end effectors while simplifying control.
+
 /img_static/pubs/auxbot2025.png
 A robot made out of metal pieces in the closed and expanded states. There are scissor links in between metal triangles and squares.
-**Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion**<br><u>Lillian Chin</u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus<br>Accepted to *ICRA 2025*<br><br>We create soft modular robots that can expand <u>1.57x in 0.2 seconds</u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.
+**Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion**<br><u>Lillian Chin</u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus<br>Accepted to *ICRA 2025*<br>[Paper](/Auxbot_ICRA25.pdf)<br><br>We create soft modular robots that can expand <u>1.57x in 0.2 seconds</u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.
 
 /img_static/pubs/iros2024.png
 A robot gripper grasps a 10 pound dumbbell and is deformed by a plastic bat.

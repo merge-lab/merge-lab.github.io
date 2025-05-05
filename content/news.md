@@ -2,6 +2,11 @@
 title: News
 ---
 ## 2025
+* **May 2025** -- Andrew, Morris, and Rishit have joined MERGe Lab as undergrad students. Welcome!
+* **Apr. 2025** -- [Lilly](https://lillych.in) gave a talk at the [Texas Regional Robotics Symposium](https://teros-texas.github.io)
+* **Mar. 2025** -- Gu-Cheol has submitted a paper to an RA-L special issue on "[BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments](https://arxiv.org/abs/2504.08706)"
+* **Mar. 2025** -- [Lilly](https://lillych.in) gave a talk on "[Material Matters: Designing Robot Bodies in Dialogue with Computation](https://www.youtube.com/watch?v=ABfn5k2kI2c)" at the [UT Austin AI + Robotics Research Symposium](https://cvent.utexas.edu/event/AIxRoboticsSymposium2025/summary)
+* **Mar. 2025** -- Bill has joined MERGe Lab as a PhD student. Welcome!
 * **Jan. 2025** -- [Lilly](https://lillych.in)'s paper, "Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion", has been accepted to ICRA 2025! See all y'all in Atlanta!
 
 ## 2024

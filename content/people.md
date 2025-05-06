@@ -14,7 +14,7 @@ If you would like to join MERGe Lab, please read [**this FAQ page**](https://lil
 {{< list-table header=false imageCol=true class="bootstrap" >}}
 /img_static/people/ltchin.jpg
 Lilly Chin sits by the fire, ready to burn her thesis
-**[Lillian (Lilly) Chin](https://lillych.in)** - she/him<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br>Courtesy Appointment, Mechanical Engineering<br><br>**Office:** [EER](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/) 4.820<br>**Lab Space:** EER 4.884 and 4.884A<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)<br><br>Lilly received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, he enjoys dancing, cross stitch, video games, and doting on her guinea pig.
+**[Lillian (Lilly) Chin](https://lillych.in)** - she/him<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br>Courtesy Appointment, Mechanical Engineering<br><br>**Office:** [EER](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/) 4.820<br>**Lab Space:** EER 4.884 and 4.884A<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)<br><br>Lilly received his SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on his guinea pig.
 
 /img_static/people/david.JPG
 David Bershadsky stands in front of a painting
@@ -22,7 +22,7 @@ David Bershadsky stands in front of a painting
 
 /img_static/people/bill.jpg
 Bill Fan poses in front of a mountain landscape
-**[Bill Fan](https://bill-fan.xyz)**  - they/any<br>PhD Student<br>Electrical and Computer Engineering<br>Bill is a first-year PhD student interested in computational design, and the intersection of design justice and robotics. They completed their BS in robotics engineering at Olin College of Engineering. Outside of the lab, they enjoy hiking, cooking, and taking care of their houseplants.
+**[Bill Fan](https://bill-fan.xyz)**  - they/any<br>PhD Student<br>Electrical and Computer Engineering<br><br>Bill is a first-year PhD student interested in computational design, and the intersection of design justice and robotics. They completed their BS in robotics engineering at Olin College of Engineering. Outside of the lab, they enjoy hiking, cooking, and taking care of their houseplants.
 
 /img_static/people/siqi.png
 Siqi Shang sits on the stairs
@@ -40,9 +40,9 @@ Placeholder
 Placeholder
 **Andrew Kwa**<br>Undergraduate Student<br>Electrical and Computer Engineering
 
-/img_static/logo.png
-Placeholder
-**Morris Lin**<br>Undergraduate Student<br>Electrical and Computer Engineering
+/img_static/people/morris.jpg
+Headshot of Morris Lin
+**Morris Lin**<br>Undergraduate Student<br>Electrical and Computer Engineering<br><br>Morris is a 3rd-year ECE undergrad at the University of Texas at Austin, exploring his interests in embedded systems and digital signal processing. Outside of academics he enjoys music, hiking, video games, and marches with the Longhorn Band.
 
 /img_static/people/joseph.PNG
 Headshot of Joseph Romero

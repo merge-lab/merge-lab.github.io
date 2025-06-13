@@ -195,7 +195,7 @@
  
  
  
- &lt;td> &lt;a href="/img_static/logo.png">&lt;img src = "/img_static/logo.png" alt = "Placeholder" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="/img_static/people/rishit.jpg">&lt;img src = "/img_static/people/rishit.jpg" alt = "Headshot of Rishit Arora" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
@@ -215,12 +215,12 @@
  
  
  
- &lt;td> &lt;a href="/img_static/logo.png">&lt;img src = "/img_static/logo.png" alt = "Placeholder" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="/img_static/people/andrew.jpg">&lt;img src = "/img_static/people/andrew.jpg" alt = "Andrew Kwa poses with a peace sign" style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
  
- &lt;td>&lt;strong>Andrew Kwa&lt;/strong>&lt;br>Undergraduate Student&lt;br>Electrical and Computer Engineering&lt;/td>
+ &lt;td>&lt;strong>Andrew Kwa&lt;/strong>&lt;br>Undergraduate Student&lt;br>Electrical and Computer Engineering&lt;br>&lt;br>Andrew is a third-year Electrical and Computer Engineering student at UT Austin. In his free time, he is a gamer, pianist, artist and avid reader.&lt;/td>
  
  &lt;/tr>
  
@@ -343,6 +343,46 @@
  
  
  &lt;td>&lt;strong>Chongxun Wang&lt;/strong>&lt;br>PhD Student&lt;br>Mechanical Engineering&lt;br>Advised by &lt;a href="https://xiafz.info">Fangzhou Xia&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ 
+ &lt;tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td> &lt;a href="/img_static/logo.png">&lt;img src = "/img_static/logo.png" alt = "Placeholder" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ 
+ 
+ 
+ 
+ &lt;td>&lt;strong>Hasif Shaikh&lt;/strong>&lt;br>Masters Student&lt;br>Electrical and Computer Engineering&lt;br>Collaborating with &lt;a href="https://robertomartinmartin.com/">Roberto Martín-Martín&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ 
+ &lt;tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td> &lt;a href="/img_static/logo.png">&lt;img src = "/img_static/logo.png" alt = "Placeholder" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ 
+ 
+ 
+ 
+ &lt;td>&lt;strong>Rahul Iyer&lt;/strong>&lt;br>Undergraduate Student&lt;br>Computer Science&lt;br>Collaborating with &lt;a href="https://robertomartinmartin.com/">Roberto Martín-Martín&lt;/a>&lt;/td>
  
  &lt;/tr>
  

@@ -32,13 +32,13 @@ Siqi Shang sits on the stairs
 Tuo Wang in graduation regalia
 **Tuo Wang**<br>PhD Student<br>Electrical and Computer Engineering<br><br>Tuo is a PhD student in Electrical and Computer Engineering at the University of Texas at Austin. With a keen interest in redefining the boundaries of robotics, Tuo's research centers on enhancing the geometry, intelligence, agility, and interactivity of robots. Outside of the lab, Tuo is passionate about landscape photography and enjoys playing basketball and various board games.
 
-/img_static/logo.png
-Placeholder
+/img_static/people/rishit.jpg
+Headshot of Rishit Arora
 **Rishit Arora**<br>Undergraduate Student<br>Electrical and Computer Engineering
 
-/img_static/logo.png
-Placeholder
-**Andrew Kwa**<br>Undergraduate Student<br>Electrical and Computer Engineering
+/img_static/people/andrew.jpg
+Andrew Kwa poses with a peace sign
+**Andrew Kwa**<br>Undergraduate Student<br>Electrical and Computer Engineering<br><br>Andrew is a third-year Electrical and Computer Engineering student at UT Austin. In his free time, he is a gamer, pianist, artist and avid reader.
 
 /img_static/people/morris.jpg
 Headshot of Morris Lin
@@ -64,6 +64,14 @@ Headshot of Gu-Cheol Jeong
 /img_static/people/chongxun.jpg
 Headshot of Chongxun Wang
 **Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Fangzhou Xia](https://xiafz.info)
+
+/img_static/logo.png
+Placeholder
+**Hasif Shaikh**<br>Masters Student<br>Electrical and Computer Engineering<br>Collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
+
+/img_static/logo.png
+Placeholder
+**Rahul Iyer**<br>Undergraduate Student<br>Computer Science<br>Collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
 {{< /list-table >}}
 
 ## Alumni

@@ -9,13 +9,17 @@ For the most up-to-date list of publications, please check Professor Chin's [Goo
 ----
 
 {{< list-table header=false imageCol=true class="pubs" >}}
+/img_static/pubs/forte2025.png
+A robot that has a white 3D-printed wrist between the gripper and the rest of the arm. The wrist has a honeycomb structure.
+**FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation**<br><u>Siqi Shang</u>, Mingyo Seo, Yuke Zhu, <u>Lillian Chin</u><br>Under review at *IEEE T-RO*<br>[arXiv](https://arxiv.org/abs/2506.18960) | [Website](https://merge-lab.github.io/FORTE/) <br><br>We create FORTE, 3D-printed finrays with internal force and slip sensing. By measuring the pressure change of embedded air channels at 2 kHz, FORTE can accurately estimate grasping forces from 0-8 N with an average error of 0.2 N, and detect slip events within 100 ms of occurring using an analytical model. FORTE grasps fragile objects like raspberries and potato chips with a 98.6% success rate, and achieves 93% accuracy in detecting slip events across 310 trials. <!--highlight --> 
+
 /img_static/pubs/biflex2025.png
 A robot that has a white 3D-printed wrist between the gripper and the rest of the arm. The wrist has a honeycomb structure.
-**BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments**<br>Gu-Cheol Jeong, Stefano Dalla Gasperina, Ashish D. Deshpande, <u>Lillian Chin*</u>, Roberto Martín-Martín*<br>Under review at *IEEE RA-L*<br>[arXiv](https://arxiv.org/abs/2504.08706)<br><br>We create BiFlex, a flexible 3D-printed wrist that uses buckling to passively switch from a high stiffness precision mode to a low stiffness compliant mode. BiFlex is easily generalizable to many robot end effectors while simplifying control.
+**BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments**<br>Gu-Cheol Jeong, Stefano Dalla Gasperina, Ashish D. Deshpande, <u>Lillian Chin*</u>, Roberto Martín-Martín*<br>Under review at *IEEE RA-L*<br>[arXiv](https://arxiv.org/abs/2504.08706) | [Website](https://robin-lab.cs.utexas.edu/BiFlex/) <br><br>We create BiFlex, a flexible 3D-printed wrist that uses buckling to passively switch from a high stiffness precision mode to a low stiffness compliant mode. BiFlex is easily generalizable to many robot end effectors while simplifying control.
 
 /img_static/pubs/auxbot2025.png
 A robot made out of metal pieces in the closed and expanded states. There are scissor links in between metal triangles and squares.
-**Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion**<br><u>Lillian Chin</u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus<br>Accepted to *ICRA 2025*<br>[Paper](/Auxbot_ICRA25.pdf)<br><br>We create soft modular robots that can expand <u>1.57x in 0.2 seconds</u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.
+**Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion**<br><u>Lillian Chin</u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus<br>*ICRA 2025*<br>[Paper](/Auxbot_ICRA25.pdf)<br><br>We create soft modular robots that can expand <u>1.57x in 0.2 seconds</u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.
 
 /img_static/pubs/iros2024.png
 A robot gripper grasps a 10 pound dumbbell and is deformed by a plastic bat.
@@ -27,7 +31,7 @@ Mockup of a community planning tool for urban farms in public housing
 
 /img_static/pubs/icra2024.png
 A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers.
-**Embedded Air Channels Transform Soft Lattices into Sensorized Grippers**<br>Annan Zhang*, <u>Lillian Chin*</u>, Daniel L. Tong, Daniela Rus<br>*ICRA 2024*<br> [Paper](https://www.annanzhang.com/data/pdf/zhang2024embedded.pdf) <br><br> We create a sensorized parallel jaw gripper by printing cubic lattice fingers with embedded air channels. Through 3D printing, we have significantly more control over the location and positioning of the channel sensors. After characterizing the sensor performance from compression, bending and time-dependent effects, we use the gripper to estimate the weight and location of grasped objects. We are able to imitate vision-based tactile sensor results with only 12 sensors.<!--highlight --> 
+**Embedded Air Channels Transform Soft Lattices into Sensorized Grippers**<br>Annan Zhang*, <u>Lillian Chin*</u>, Daniel L. Tong, Daniela Rus<br>*ICRA 2024*<br> [Paper](https://www.annanzhang.com/data/pdf/zhang2024embedded.pdf) <br><br> We create a sensorized parallel jaw gripper by printing cubic lattice fingers with embedded air channels. Through 3D printing, we have significantly more control over the location and positioning of the channel sensors. After characterizing the sensor performance from compression, bending and time-dependent effects, we use the gripper to estimate the weight and location of grasped objects. We are able to imitate vision-based tactile sensor results with only 12 sensors. <!--highlight --> 
 
 /img_static/pubs/grocery2024.png
 A robot arm grabs a can off of a conveyor belt to pack it in a conveyor belt. Insets demonstrate the two cameras' point of view and the sensorized gripper.

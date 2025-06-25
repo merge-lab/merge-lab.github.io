@@ -2,12 +2,13 @@
 title: News
 ---
 ## 2025
-* **Jun. 2025** -- Gu-Cheol's paper on "[BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments](https://arxiv.org/abs/2504.08706)" has been accepted to the [RSS Workshop on Robot Hardware-Aware Intelligence](https://rss-hardware-intelligence.github.io)
+* **Jun. 2025** -- [Siqi](https://siqishang.github.io)'s paper on [FORTE](https://merge-lab.github.io/FORTE/) has been submitted to T-RO and [arXiv](https://arxiv.org/abs/2506.18960)!
+* **Jun. 2025** -- Gu-Cheol's paper on [BiFlex](https://robin-lab.cs.utexas.edu/BiFlex/) has been accepted to the [RSS Workshop on Robot Hardware-Aware Intelligence](https://rss-hardware-intelligence.github.io)
 * **May 2025** -- [Siqi](https://siqishang.github.io) presented [FORTE](https://merge-lab.github.io/FORTE/) as a Late-Breaking Result at ICRA
 * **May 2025** -- [Bill](https://bill-fan.xyz) presented their previous work on "[A Fast and Model Based Approach for Evaluating Task-Competence of Antagonistic Continuum Arms](https://wfan19.github.io/pdfs/Robosoft_2025_11_8.pdf)" at the [ICRA Workshop on Unconventional Robotics](https://sites.google.com/andrew.cmu.edu/2nd-unconventional-robots/home)
 * **May 2025** -- Andrew, Morris, and Rishit have joined MERGe Lab as undergrad students. Welcome!
 * **Apr. 2025** -- [Lilly](https://lillych.in) gave a talk at the [Texas Regional Robotics Symposium](https://teros-texas.github.io)
-* **Mar. 2025** -- Gu-Cheol has submitted a paper to an RA-L special issue on "[BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments](https://arxiv.org/abs/2504.08706)"
+* **Mar. 2025** -- Gu-Cheol's paper on [BiFlex](https://robin-lab.cs.utexas.edu/BiFlex/) has been submitted to RA-L and [arXiv](https://arxiv.org/abs/2504.08706)!
 * **Mar. 2025** -- [Lilly](https://lillych.in) gave a talk on "[Material Matters: Designing Robot Bodies in Dialogue with Computation](https://www.youtube.com/watch?v=ABfn5k2kI2c)" at the [UT Austin AI + Robotics Research Symposium](https://cvent.utexas.edu/event/AIxRoboticsSymposium2025/summary)
 * **Mar. 2025** -- [Bill](https://bill-fan.xyz) has joined MERGe Lab as a PhD student. Welcome!
 * **Jan. 2025** -- [Lilly](https://lillych.in)'s paper, "Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion", has been accepted to ICRA 2025! See all y'all in Atlanta!

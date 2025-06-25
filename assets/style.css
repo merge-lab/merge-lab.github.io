@@ -34,7 +34,7 @@ video,
 iframe {
   max-inline-size: 100%;
   block-size: auto;
-  margin: 0.2em 0.7em;
+/*  margin: 0.2em 0.7em;*/
 }
 
 /*******************************************************************/

@@ -76,7 +76,7 @@ A robot gripper grabs a plastic banana in three ways: suction, parallel-jaw and 
 
 /img_static/pubs/auxbot2019.png
 A robot made up of two layers of spring steel in its closed and expanded states.
-**Modular Volumetric Actuators Using Motorized Auxetics**<br>Jeffrey Lipton, <u>Lillian Chin</u>, Jacob Miske, Daniela Rus<br>*IROS 2019*<br>[Paper](https://ieeexplore.ieee.org/abstract/document/8968187) <br><br> We use the mathematical model of "rotating polygons for auxetic materials" to create robots that can expand at will by rotating one degree-of-freedom. These spring-steel robots can expand 1.2x their original volume in 0.25 seconds. We demonstrate how these robots can perform vertical tube crawling through peristaltic locomotion.
+**Modular Volumetric Actuators Using Motorized Auxetics**<br>Jeffrey Lipton, <u>Lillian Chin</u>, Jacob Miske, Daniela Rus<br>*IROS 2019*<br>[Paper](https://ieeexplore.ieee.org/abstract/document/8968187) | [PDF](/Auxbot_v1_IROS.pdf) <br><br> We use the mathematical model of "rotating polygons for auxetic materials" to create robots that can expand at will by rotating one degree-of-freedom. These spring-steel robots can expand 1.2x their original volume in 0.25 seconds. We demonstrate how these robots can perform vertical tube crawling through peristaltic locomotion.
 
 /img_static/pubs/recycling2019.png
 A robot waits over a conveyor belt next to recycling bins

@@ -2,6 +2,7 @@
 title: News
 ---
 ## 2025
+* **Aug. 2025** -- Gu-Cheol's paper on [BiFlex](https://robin-lab.cs.utexas.edu/BiFlex/) has been accepted to RA-L!
 * **Jun. 2025** -- [Siqi](https://siqishang.github.io)'s paper on [FORTE](https://merge-lab.github.io/FORTE/) has been submitted to T-RO and [arXiv](https://arxiv.org/abs/2506.18960)!
 * **Jun. 2025** -- Gu-Cheol's paper on [BiFlex](https://robin-lab.cs.utexas.edu/BiFlex/) has been accepted to the [RSS Workshop on Robot Hardware-Aware Intelligence](https://rss-hardware-intelligence.github.io)
 * **May 2025** -- [Siqi](https://siqishang.github.io) presented [FORTE](https://merge-lab.github.io/FORTE/) as a Late-Breaking Result at ICRA

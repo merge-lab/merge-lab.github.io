@@ -15,6 +15,7 @@
 &lt;li>Finding a faculty job&lt;/li>
 &lt;/ul></description></item><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>&lt;h2 id="2025">2025&lt;/h2>
 &lt;ul>
+&lt;li>&lt;strong>Aug. 2025&lt;/strong> &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">BiFlex&lt;/a> has been accepted to RA-L!&lt;/li>
 &lt;li>&lt;strong>Jun. 2025&lt;/strong> &amp;ndash; &lt;a href="https://siqishang.github.io">Siqi&lt;/a>&amp;rsquo;s paper on &lt;a href="https://merge-lab.github.io/FORTE/">FORTE&lt;/a> has been submitted to T-RO and &lt;a href="https://arxiv.org/abs/2506.18960">arXiv&lt;/a>!&lt;/li>
 &lt;li>&lt;strong>Jun. 2025&lt;/strong> &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">BiFlex&lt;/a> has been accepted to the &lt;a href="https://rss-hardware-intelligence.github.io">RSS Workshop on Robot Hardware-Aware Intelligence&lt;/a>&lt;/li>
 &lt;li>&lt;strong>May 2025&lt;/strong> &amp;ndash; &lt;a href="https://siqishang.github.io">Siqi&lt;/a> presented &lt;a href="https://merge-lab.github.io/FORTE/">FORTE&lt;/a> as a Late-Breaking Result at ICRA&lt;/li>
@@ -505,12 +506,12 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/forte2025.png">&lt;img src = "/img_static/pubs/forte2025.png" alt = "A robot that has a white 3D-printed wrist between the gripper and the rest of the arm. The wrist has a honeycomb structure." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td> &lt;a href="/img_static/pubs/forte2025.png">&lt;img src = "/img_static/pubs/forte2025.png" alt = "Cutaway view of a finray gripper. There are empty air channels along the front and back sides of the gripper. Each front-back pair of channels connects to a differential pressure sensor." style = "margin: 0em;"> &lt;/a>&lt;/td>
  
  
  
  
- &lt;td>&lt;strong>FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation&lt;/strong>&lt;br>&lt;u>Siqi Shang&lt;/u>, Mingyo Seo, Yuke Zhu, &lt;u>Lillian Chin&lt;/u>&lt;br>Under review at &lt;em>IEEE T-RO&lt;/em>&lt;br>&lt;a href="https://arxiv.org/abs/2506.18960">arXiv&lt;/a> | &lt;a href="https://merge-lab.github.io/FORTE/">Website&lt;/a> &lt;br>&lt;br>We create FORTE, 3D-printed finrays with internal force and slip sensing. By measuring the pressure change of embedded air channels at 2 kHz, FORTE can accurately estimate grasping forces from 0-8 N with an average error of 0.2 N, and detect slip events within 100 ms of occurring using an analytical model. FORTE grasps fragile objects like raspberries and potato chips with a 98.6% success rate, and achieves 93% accuracy in detecting slip events across 310 trials. &lt;!--highlight -->&lt;/td>
+ &lt;td>&lt;strong>FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation&lt;/strong>&lt;br>&lt;u>Siqi Shang&lt;/u>, Mingyo Seo, Yuke Zhu, &lt;u>Lillian Chin&lt;/u>&lt;br>Under review at &lt;em>IEEE RA-L&lt;/em>&lt;br>&lt;a href="https://arxiv.org/abs/2506.18960">arXiv&lt;/a> | &lt;a href="https://merge-lab.github.io/FORTE/">Website&lt;/a> &lt;br>&lt;br>We create FORTE, 3D-printed finrays with internal force and slip sensing. By measuring the pressure change of embedded air channels at 2 kHz, FORTE can accurately estimate grasping forces from 0-8 N with an average error of 0.2 N, and detect slip events within 100 ms of occurring using an analytical model. FORTE grasps fragile objects like raspberries and potato chips with a 98.6% success rate, and achieves 93% accuracy in detecting slip events across 310 trials. &lt;!--highlight -->&lt;/td>
  
  &lt;/tr>
  
@@ -530,7 +531,7 @@
  
  
  
- &lt;td>&lt;strong>BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments&lt;/strong>&lt;br>Gu-Cheol Jeong, Stefano Dalla Gasperina, Ashish D. Deshpande, &lt;u>Lillian Chin*&lt;/u>, Roberto Martín-Martín*&lt;br>Under review at &lt;em>IEEE RA-L&lt;/em>&lt;br>&lt;a href="https://arxiv.org/abs/2504.08706">arXiv&lt;/a> | &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">Website&lt;/a> &lt;br>&lt;br>We create BiFlex, a flexible 3D-printed wrist that uses buckling to passively switch from a high stiffness precision mode to a low stiffness compliant mode. BiFlex is easily generalizable to many robot end effectors while simplifying control.&lt;/td>
+ &lt;td>&lt;strong>BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments&lt;/strong>&lt;br>Gu-Cheol Jeong, Stefano Dalla Gasperina, Ashish D. Deshpande, &lt;u>Lillian Chin*&lt;/u>, Roberto Martín-Martín*&lt;br>Accepted and in-press at &lt;em>IEEE RA-L&lt;/em>&lt;br>&lt;a href="https://arxiv.org/abs/2504.08706">arXiv&lt;/a> | &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">Website&lt;/a> &lt;br>&lt;br>We create BiFlex, a flexible 3D-printed wrist that uses buckling to passively switch from a high stiffness precision mode to a low stiffness compliant mode. BiFlex is easily generalizable to many robot end effectors while simplifying control.&lt;/td>
  
  &lt;/tr>
  

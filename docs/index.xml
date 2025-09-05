@@ -1,54 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MERGe Lab</title><link>/</link><description>Recent content in Home on MERGe Lab</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Career Resources</title><link>/resources/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/career/</guid><description>&lt;blockquote>
-&lt;p>&lt;strong>This page is under construction.&lt;/strong> Eventually, it will have links to helpful links for writing and other teaching resources.&lt;/p>&lt;/blockquote>
-&lt;ul>
-&lt;li>Getting into grad school
-&lt;ul>
-&lt;li>My specific tips&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Thriving in grad school
-&lt;ul>
-&lt;li>Reading, writing, etc.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Finding a postdoc&lt;/li>
-&lt;li>Finding a faculty job&lt;/li>
-&lt;/ul></description></item><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>&lt;h2 id="2025">2025&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Aug. 2025&lt;/strong> &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">BiFlex&lt;/a> has been accepted to RA-L!&lt;/li>
-&lt;li>&lt;strong>Jun. 2025&lt;/strong> &amp;ndash; &lt;a href="https://siqishang.github.io">Siqi&lt;/a>&amp;rsquo;s paper on &lt;a href="https://merge-lab.github.io/FORTE/">FORTE&lt;/a> has been submitted to T-RO and &lt;a href="https://arxiv.org/abs/2506.18960">arXiv&lt;/a>!&lt;/li>
-&lt;li>&lt;strong>Jun. 2025&lt;/strong> &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">BiFlex&lt;/a> has been accepted to the &lt;a href="https://rss-hardware-intelligence.github.io">RSS Workshop on Robot Hardware-Aware Intelligence&lt;/a>&lt;/li>
-&lt;li>&lt;strong>May 2025&lt;/strong> &amp;ndash; &lt;a href="https://siqishang.github.io">Siqi&lt;/a> presented &lt;a href="https://merge-lab.github.io/FORTE/">FORTE&lt;/a> as a Late-Breaking Result at ICRA&lt;/li>
-&lt;li>&lt;strong>May 2025&lt;/strong> &amp;ndash; &lt;a href="https://bill-fan.xyz">Bill&lt;/a> presented their previous work on &amp;ldquo;&lt;a href="https://wfan19.github.io/pdfs/Robosoft_2025_11_8.pdf">A Fast and Model Based Approach for Evaluating Task-Competence of Antagonistic Continuum Arms&lt;/a>&amp;rdquo; at the &lt;a href="https://sites.google.com/andrew.cmu.edu/2nd-unconventional-robots/home">ICRA Workshop on Unconventional Robotics&lt;/a>&lt;/li>
-&lt;li>&lt;strong>May 2025&lt;/strong> &amp;ndash; Andrew, Morris, and Rishit have joined MERGe Lab as undergrad students. Welcome!&lt;/li>
-&lt;li>&lt;strong>Apr. 2025&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a> gave a talk at the &lt;a href="https://teros-texas.github.io">Texas Regional Robotics Symposium&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Mar. 2025&lt;/strong> &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">BiFlex&lt;/a> has been submitted to RA-L and &lt;a href="https://arxiv.org/abs/2504.08706">arXiv&lt;/a>!&lt;/li>
-&lt;li>&lt;strong>Mar. 2025&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a> gave a talk on &amp;ldquo;&lt;a href="https://www.youtube.com/watch?v=ABfn5k2kI2c">Material Matters: Designing Robot Bodies in Dialogue with Computation&lt;/a>&amp;rdquo; at the &lt;a href="https://cvent.utexas.edu/event/AIxRoboticsSymposium2025/summary">UT Austin AI + Robotics Research Symposium&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Mar. 2025&lt;/strong> &amp;ndash; &lt;a href="https://bill-fan.xyz">Bill&lt;/a> has joined MERGe Lab as a PhD student. Welcome!&lt;/li>
-&lt;li>&lt;strong>Jan. 2025&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a>&amp;rsquo;s paper, &amp;ldquo;Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&amp;rdquo;, has been accepted to ICRA 2025! See all y&amp;rsquo;all in Atlanta!&lt;/li>
-&lt;/ul>
-&lt;h2 id="2024">2024&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Dec. 2024&lt;/strong> &amp;ndash; Hrishi, Ava and Joseph have joined MERGe Lab as undergrad students. Welcome!&lt;/li>
-&lt;li>&lt;strong>Sep. 2024&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a> has submitted a paper to ICRA 2025 on &amp;ldquo;Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&amp;rdquo;&lt;/li>
-&lt;li>&lt;strong>Jun. 2024&lt;/strong> &amp;ndash; &lt;a href="https://www.gregoryxie.com">Greg&lt;/a>&amp;rsquo;s paper on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo; has been accepted to IROS 2024!&lt;/li>
-&lt;li>&lt;strong>May 2024&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a> won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award!&lt;/li>
-&lt;li>&lt;strong>Apr. 2024&lt;/strong> &amp;ndash; David, &lt;a href="https://siqishang.github.io">Siqi&lt;/a>, Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome!&lt;/li>
-&lt;li>&lt;strong>Apr. 2024&lt;/strong> &amp;ndash; &lt;a href="https://www.darrenau.com">Darren&lt;/a> and Tanya have joined MERGe Lab as undergrad students. Welcome!&lt;/li>
-&lt;li>&lt;strong>Mar. 2024&lt;/strong> &amp;ndash; &lt;a href="https://www.gregoryxie.com">Greg&lt;/a> submitted a paper to IROS 2024 on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo;&lt;/li>
-&lt;li>&lt;strong>Jan. 2024&lt;/strong> &amp;ndash; &lt;a href="https://www.annanzhang.com">Annan&lt;/a> and &lt;a href="https://lillych.in">Lilly&lt;/a>&amp;rsquo;s paper &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo; has been accepted to ICRA 2024! See y&amp;rsquo;all in Yokohama!&lt;/li>
-&lt;li>&lt;strong>Jan. 2024&lt;/strong> &amp;ndash; Valerie, &lt;a href="https://lillych.in">Lilly&lt;/a>, Jeana and &lt;a href="https://www.annanzhang.com">Annan&lt;/a>&amp;rsquo;s paper &amp;ldquo;Real-Time Grocery Packing by Integrating Vision, Tactile Sensing, and Soft Fingers&amp;rdquo; has been accepted to Robosoft 2024! See y&amp;rsquo;all in San Diego!&lt;/li>
-&lt;/ul>
-&lt;h2 id="2023">2023&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Dec. 2023&lt;/strong> &amp;ndash; &lt;a href="https://www.gregoryxie.com">Greg&lt;/a>&amp;rsquo;s paper on &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/document/10373080">In-Hand Manipulation With a Simple Belted Parallel-Jaw Gripper&lt;/a>&amp;rdquo; has been published in IEEE RA-L!&lt;/li>
-&lt;li>&lt;strong>Nov. 2023&lt;/strong> &amp;ndash; This website is online!&lt;/li>
-&lt;li>&lt;strong>Nov. 2023&lt;/strong> &amp;ndash; Valerie, &lt;a href="https://lillych.in">Lilly&lt;/a>, Jeana and &lt;a href="https://www.annanzhang.com">Annan&lt;/a> submitted a paper to Robosoft 2024 on &amp;ldquo;Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing&amp;rdquo;&lt;/li>
-&lt;li>&lt;strong>Sep. 2023&lt;/strong> &amp;ndash; &lt;a href="https://www.annanzhang.com">Annan&lt;/a> and &lt;a href="https://lillych.in">Lilly&lt;/a> submitted a paper to ICRA 2024 on &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo;&lt;/li>
-&lt;li>&lt;strong>Sep. 2023&lt;/strong> &amp;ndash; &lt;a href="https://www.gregoryxie.com">Greg&lt;/a> submitted a paper to ICRA 2024 on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo;&lt;/li>
-&lt;li>&lt;strong>May 2023&lt;/strong> &amp;ndash; &lt;a href="https://lillych.in">Lilly&lt;/a> has been named a &lt;a href="https://schmidtsciencefellows.org">Schmidt Science Fellow&lt;/a>. She will spend her postdoc fellowship at the National Institutes of Health.&lt;/li>
-&lt;/ul></description></item><item><title>People</title><link>/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/people/</guid><description>&lt;figure class="figure" >
- &lt;a href="/img/social/labSocial_header.png">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MERGe Lab</title><link>/</link><description>Recent content in Home on MERGe Lab</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Career Resources</title><link>/resources/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/career/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;This page is under construction.&lt;/strong&gt; Eventually, it will have links to helpful links for writing and other teaching resources.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting into grad school
+&lt;ul&gt;
+&lt;li&gt;My specific tips&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thriving in grad school
+&lt;ul&gt;
+&lt;li&gt;Reading, writing, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finding a postdoc&lt;/li&gt;
+&lt;li&gt;Finding a faculty job&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>&lt;h2 id="2025"&gt;2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sep. 2025&lt;/strong&gt; &amp;ndash; Benito has joined MERGe Lab as a Masters student. Welcome!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aug. 2025&lt;/strong&gt; &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/"&gt;BiFlex&lt;/a&gt; has been accepted to RA-L!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jun. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://siqishang.github.io"&gt;Siqi&lt;/a&gt;&amp;rsquo;s paper on &lt;a href="https://merge-lab.github.io/FORTE/"&gt;FORTE&lt;/a&gt; has been submitted to T-RO and &lt;a href="https://arxiv.org/abs/2506.18960"&gt;arXiv&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jun. 2025&lt;/strong&gt; &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/"&gt;BiFlex&lt;/a&gt; has been accepted to the &lt;a href="https://rss-hardware-intelligence.github.io"&gt;RSS Workshop on Robot Hardware-Aware Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://siqishang.github.io"&gt;Siqi&lt;/a&gt; presented &lt;a href="https://merge-lab.github.io/FORTE/"&gt;FORTE&lt;/a&gt; as a Late-Breaking Result at ICRA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://bill-fan.xyz"&gt;Bill&lt;/a&gt; presented their previous work on &amp;ldquo;&lt;a href="https://wfan19.github.io/pdfs/Robosoft_2025_11_8.pdf"&gt;A Fast and Model Based Approach for Evaluating Task-Competence of Antagonistic Continuum Arms&lt;/a&gt;&amp;rdquo; at the &lt;a href="https://sites.google.com/andrew.cmu.edu/2nd-unconventional-robots/home"&gt;ICRA Workshop on Unconventional Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2025&lt;/strong&gt; &amp;ndash; Andrew, Morris, and Rishit have joined MERGe Lab as undergrad students. Welcome!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apr. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; gave a talk at the &lt;a href="https://teros-texas.github.io"&gt;Texas Regional Robotics Symposium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mar. 2025&lt;/strong&gt; &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/"&gt;BiFlex&lt;/a&gt; has been submitted to RA-L and &lt;a href="https://arxiv.org/abs/2504.08706"&gt;arXiv&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mar. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; gave a talk on &amp;ldquo;&lt;a href="https://www.youtube.com/watch?v=ABfn5k2kI2c"&gt;Material Matters: Designing Robot Bodies in Dialogue with Computation&lt;/a&gt;&amp;rdquo; at the &lt;a href="https://cvent.utexas.edu/event/AIxRoboticsSymposium2025/summary"&gt;UT Austin AI + Robotics Research Symposium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mar. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://bill-fan.xyz"&gt;Bill&lt;/a&gt; has joined MERGe Lab as a PhD student. Welcome!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt;&amp;rsquo;s paper, &amp;ldquo;Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&amp;rdquo;, has been accepted to ICRA 2025! See all y&amp;rsquo;all in Atlanta!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2024"&gt;2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dec. 2024&lt;/strong&gt; &amp;ndash; Hrishi, Ava and Joseph have joined MERGe Lab as undergrad students. Welcome!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sep. 2024&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; has submitted a paper to ICRA 2025 on &amp;ldquo;Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jun. 2024&lt;/strong&gt; &amp;ndash; &lt;a href="https://www.gregoryxie.com"&gt;Greg&lt;/a&gt;&amp;rsquo;s paper on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo; has been accepted to IROS 2024!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2024&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apr. 2024&lt;/strong&gt; &amp;ndash; David, &lt;a href="https://siqishang.github.io"&gt;Siqi&lt;/a&gt;, Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apr. 2024&lt;/strong&gt; &amp;ndash; &lt;a href="https://www.darrenau.com"&gt;Darren&lt;/a&gt; and Tanya have joined MERGe Lab as undergrad students. Welcome!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mar. 2024&lt;/strong&gt; &amp;ndash; &lt;a href="https://www.gregoryxie.com"&gt;Greg&lt;/a&gt; submitted a paper to IROS 2024 on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan. 2024&lt;/strong&gt; &amp;ndash; &lt;a href="https://www.annanzhang.com"&gt;Annan&lt;/a&gt; and &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt;&amp;rsquo;s paper &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo; has been accepted to ICRA 2024! See y&amp;rsquo;all in Yokohama!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan. 2024&lt;/strong&gt; &amp;ndash; Valerie, &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt;, Jeana and &lt;a href="https://www.annanzhang.com"&gt;Annan&lt;/a&gt;&amp;rsquo;s paper &amp;ldquo;Real-Time Grocery Packing by Integrating Vision, Tactile Sensing, and Soft Fingers&amp;rdquo; has been accepted to Robosoft 2024! See y&amp;rsquo;all in San Diego!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2023"&gt;2023&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dec. 2023&lt;/strong&gt; &amp;ndash; &lt;a href="https://www.gregoryxie.com"&gt;Greg&lt;/a&gt;&amp;rsquo;s paper on &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/document/10373080"&gt;In-Hand Manipulation With a Simple Belted Parallel-Jaw Gripper&lt;/a&gt;&amp;rdquo; has been published in IEEE RA-L!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov. 2023&lt;/strong&gt; &amp;ndash; This website is online!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov. 2023&lt;/strong&gt; &amp;ndash; Valerie, &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt;, Jeana and &lt;a href="https://www.annanzhang.com"&gt;Annan&lt;/a&gt; submitted a paper to Robosoft 2024 on &amp;ldquo;Online Packing of Groceries Through Soft Fingers with Integrated Visual-Tactile Sensing&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sep. 2023&lt;/strong&gt; &amp;ndash; &lt;a href="https://www.annanzhang.com"&gt;Annan&lt;/a&gt; and &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; submitted a paper to ICRA 2024 on &amp;ldquo;Embedded air channels transform soft lattices into sensorized grippers&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sep. 2023&lt;/strong&gt; &amp;ndash; &lt;a href="https://www.gregoryxie.com"&gt;Greg&lt;/a&gt; submitted a paper to ICRA 2024 on &amp;ldquo;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;May 2023&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; has been named a &lt;a href="https://schmidtsciencefellows.org"&gt;Schmidt Science Fellow&lt;/a&gt;. She will spend her postdoc fellowship at the National Institutes of Health.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>People</title><link>/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/people/</guid><description>&lt;figure class="figure" &gt;
+ &lt;a href="/img/social/labSocial_header.png"&gt;
  &lt;img
  loading="lazy"
  sizes="(min-width: 35em) 2891px, 400px, 100vw (max-width: 2891)" 
@@ -58,18 +59,18 @@
  /img/social/labSocial_header_hu_896c118a9c9ee8dd.png 800w '
  src="/img/social/labSocial_header.png"
  alt='A group of people stand in front of a wall of bowling pins. They are happily showing off the prizes they won at the carde'
- />
- &lt;/a>
+ /&gt;
+ &lt;/a&gt;
  
-&lt;/figure>
-&lt;h2 id="prospective-lab-members">Prospective Lab Members&lt;/h2>
-&lt;p>If you would like to join MERGe Lab, please read &lt;a href="https://lillych.in/faq/admissions/">&lt;strong>this FAQ page&lt;/strong>&lt;/a>.&lt;/p>
-&lt;ul>
-&lt;li>Prospective PhD students should apply to UT Austin before contacting Lilly.&lt;/li>
-&lt;li>Current UT students and prospective postdocs should email Lilly directly with a resume (and ideally, a project portfolio).&lt;/li>
-&lt;/ul>
-&lt;h2 id="current-lab-members">Current Lab Members&lt;/h2>
-&lt;!-- image link, alt text + as many rows as you want -->
+&lt;/figure&gt;
+&lt;h2 id="prospective-lab-members"&gt;Prospective Lab Members&lt;/h2&gt;
+&lt;p&gt;If you would like to join MERGe Lab, please read &lt;a href="https://lillych.in/faq/admissions/"&gt;&lt;strong&gt;this FAQ page&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prospective PhD students should apply to UT Austin before contacting Lilly.&lt;/li&gt;
+&lt;li&gt;Current UT students and prospective postdocs should email Lilly directly with a resume (and ideally, a project portfolio).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="current-lab-members"&gt;Current Lab Members&lt;/h2&gt;
+&lt;!-- image link, alt text + as many rows as you want --&gt;
 
 
 
@@ -78,241 +79,19 @@
 
 
 
-&lt;table class=bootstrap>
+&lt;table class=bootstrap&gt;
  
 
  
- &lt;colgroup>
- &lt;col span="1" style="width: 30%;">
- &lt;/colgroup>
- 
-
- 
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/ltchin.jpg">&lt;img src = "/img_static/people/ltchin.jpg" alt = "Lilly Chin sits by the fire, ready to burn her thesis" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>&lt;a href="https://lillych.in">Lillian (Lilly) Chin&lt;/a>&lt;/strong> - she/him&lt;br>Principal Investigator&lt;br>Assistant Professor, Electrical and Computer Engineering, UT Austin&lt;br>Courtesy Appointment, Mechanical Engineering&lt;br>&lt;br>&lt;strong>Office:&lt;/strong> &lt;a href="https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/">EER&lt;/a> 4.820&lt;br>&lt;strong>Lab Space:&lt;/strong> EER 4.884 and 4.884A&lt;br>&lt;strong>Contact form:&lt;/strong> &lt;a href="https://litchin.wordpress.com/contact/">Link&lt;/a>&lt;br>&lt;br>Lilly received his SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on his guinea pig.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/david.JPG">&lt;img src = "/img_static/people/david.JPG" alt = "David Bershadsky stands in front of a painting" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>David Bershadsky&lt;/strong>&lt;br>PhD Student&lt;br>Electrical and Computer Engineering&lt;br>Co-advised with &lt;a href="https://www.zpagegroup.com/zak-page-1">Zak Page&lt;/a>&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/bill.jpg">&lt;img src = "/img_static/people/bill.jpg" alt = "Bill Fan poses in front of a mountain landscape" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>&lt;a href="https://bill-fan.xyz">Bill Fan&lt;/a>&lt;/strong> - they/any&lt;br>PhD Student&lt;br>Electrical and Computer Engineering&lt;br>&lt;br>Bill is a first-year PhD student interested in computational design, and the intersection of design justice and robotics. They completed their BS in robotics engineering at Olin College of Engineering. Outside of the lab, they enjoy hiking, cooking, and taking care of their houseplants.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/siqi.png">&lt;img src = "/img_static/people/siqi.png" alt = "Siqi Shang sits on the stairs" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>&lt;a href="https://siqishang.github.io">Siqi Shang&lt;/a>&lt;/strong>&lt;br>PhD Student&lt;br>Electrical and Computer Engineering&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/tuo.jpg">&lt;img src = "/img_static/people/tuo.jpg" alt = "Tuo Wang in graduation regalia" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Tuo Wang&lt;/strong>&lt;br>PhD Student&lt;br>Electrical and Computer Engineering&lt;br>&lt;br>Tuo is a PhD student in Electrical and Computer Engineering at the University of Texas at Austin. With a keen interest in redefining the boundaries of robotics, Tuo&amp;rsquo;s research centers on enhancing the geometry, intelligence, agility, and interactivity of robots. Outside of the lab, Tuo is passionate about landscape photography and enjoys playing basketball and various board games.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/rishit.jpg">&lt;img src = "/img_static/people/rishit.jpg" alt = "Headshot of Rishit Arora" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Rishit Arora&lt;/strong>&lt;br>Undergraduate Student&lt;br>Electrical and Computer Engineering&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/andrew.jpg">&lt;img src = "/img_static/people/andrew.jpg" alt = "Andrew Kwa poses with a peace sign" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Andrew Kwa&lt;/strong>&lt;br>Undergraduate Student&lt;br>Electrical and Computer Engineering&lt;br>&lt;br>Andrew is a third-year Electrical and Computer Engineering student at UT Austin. In his free time, he is a gamer, pianist, artist and avid reader.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/morris.jpg">&lt;img src = "/img_static/people/morris.jpg" alt = "Headshot of Morris Lin" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Morris Lin&lt;/strong>&lt;br>Undergraduate Student&lt;br>Electrical and Computer Engineering&lt;br>&lt;br>Morris is a 3rd-year ECE undergrad at the University of Texas at Austin, exploring his interests in embedded systems and digital signal processing. Outside of academics he enjoys music, hiking, video games, and marches with the Longhorn Band.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/joseph.PNG">&lt;img src = "/img_static/people/joseph.PNG" alt = "Headshot of Joseph Romero" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Joseph Romero&lt;/strong>&lt;br>Undergraduate Student&lt;br>Mechanical Engineering&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/ava.jpg">&lt;img src = "/img_static/people/ava.jpg" alt = "Headshot of Ava Chao Schraeder" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Ava Chao Schraeder&lt;/strong>&lt;br>Undergraduate Student&lt;br>Mechanical Engineering&lt;/td>
- 
- &lt;/tr>
- 
-&lt;/table>
-&lt;h2 id="collaborators">Collaborators&lt;/h2>
-&lt;!-- image link, alt text + as many rows as you want -->
-
-
-
-
-
-
-
-
-&lt;table class=bootstrap>
- 
-
- 
- &lt;colgroup>
- &lt;col span="1" style="width: 30%;">
- &lt;/colgroup>
+ &lt;colgroup&gt;
+ &lt;col span="1" style="width: 30%;"&gt;
+ &lt;/colgroup&gt;
  
 
  
  
  
- &lt;tr>
+ &lt;tr&gt;
  
  
  
@@ -322,37 +101,17 @@
  
  
  
- &lt;td> &lt;a href="/img_static/people/Gucheol.jpg">&lt;img src = "/img_static/people/Gucheol.jpg" alt = "Headshot of Gu-Cheol Jeong" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td&gt; &lt;a href="/img_static/people/ltchin.jpg"&gt;&lt;img src = "/img_static/people/ltchin.jpg" alt = "Lilly Chin sits by the fire, ready to burn her thesis" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
  
  
  
  
- &lt;td>&lt;strong>Gu-Cheol Jeong&lt;/strong>&lt;br>PhD Student&lt;br>Mechanical Engineering&lt;br>Advised by &lt;a href="https://reneu.robotics.utexas.edu/members/ashish-deshpande">Ashish Deshpande&lt;/a>, collaborating with &lt;a href="https://robertomartinmartin.com/">Roberto Martín-Martín&lt;/a>&lt;/td>
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://lillych.in"&gt;Lillian (Lilly) Chin&lt;/a&gt;&lt;/strong&gt; - she/him&lt;br&gt;Principal Investigator&lt;br&gt;Assistant Professor, Electrical and Computer Engineering, UT Austin&lt;br&gt;Courtesy Appointment, Mechanical Engineering&lt;br&gt;&lt;br&gt;&lt;strong&gt;Office:&lt;/strong&gt; &lt;a href="https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/"&gt;EER&lt;/a&gt; 4.820&lt;br&gt;&lt;strong&gt;Lab Space:&lt;/strong&gt; EER 4.884 and 4.884A&lt;br&gt;&lt;strong&gt;Contact form:&lt;/strong&gt; &lt;a href="https://litchin.wordpress.com/contact/"&gt;Link&lt;/a&gt;&lt;br&gt;&lt;br&gt;Lilly received his SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on his guinea pig.&lt;/td&gt;
  
- &lt;/tr>
- 
- 
- &lt;tr>
+ &lt;/tr&gt;
  
  
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/people/chongxun.jpg">&lt;img src = "/img_static/people/chongxun.jpg" alt = "Headshot of Chongxun Wang" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Chongxun Wang&lt;/strong>&lt;br>PhD Student&lt;br>Mechanical Engineering&lt;br>Advised by &lt;a href="https://xiafz.info">Fangzhou Xia&lt;/a>&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
+ &lt;tr&gt;
  
  
  
@@ -362,19 +121,17 @@
  
  
  
- &lt;td> &lt;a href="/img_static/logo.png">&lt;img src = "/img_static/logo.png" alt = "Placeholder" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td&gt; &lt;a href="/img_static/people/david.JPG"&gt;&lt;img src = "/img_static/people/david.JPG" alt = "David Bershadsky stands in front of a painting" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
  
  
  
  
- &lt;td>&lt;strong>Hasif Shaikh&lt;/strong>&lt;br>Masters Student&lt;br>Electrical and Computer Engineering&lt;br>Collaborating with &lt;a href="https://robertomartinmartin.com/">Roberto Martín-Martín&lt;/a>&lt;/td>
+ &lt;td&gt;&lt;strong&gt;David Bershadsky&lt;/strong&gt;&lt;br&gt;PhD Student&lt;br&gt;Electrical and Computer Engineering&lt;br&gt;Co-advised with &lt;a href="https://www.zpagegroup.com/zak-page-1"&gt;Zak Page&lt;/a&gt;&lt;/td&gt;
  
- &lt;/tr>
- 
- 
- &lt;tr>
+ &lt;/tr&gt;
  
  
+ &lt;tr&gt;
  
  
  
@@ -382,17 +139,160 @@
  
  
  
- &lt;td> &lt;a href="/img_static/logo.png">&lt;img src = "/img_static/logo.png" alt = "Placeholder" style = "margin: 0em;"> &lt;/a>&lt;/td>
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/bill.jpg"&gt;&lt;img src = "/img_static/people/bill.jpg" alt = "Bill Fan poses in front of a mountain landscape" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
  
  
  
  
- &lt;td>&lt;strong>Rahul Iyer&lt;/strong>&lt;br>Undergraduate Student&lt;br>Computer Science&lt;br>Collaborating with &lt;a href="https://robertomartinmartin.com/">Roberto Martín-Martín&lt;/a>&lt;/td>
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://bill-fan.xyz"&gt;Bill Fan&lt;/a&gt;&lt;/strong&gt; - they/any&lt;br&gt;PhD Student&lt;br&gt;Electrical and Computer Engineering&lt;br&gt;&lt;br&gt;Bill is a first-year PhD student interested in computational design, and the intersection of design justice and robotics. They completed their BS in robotics engineering at Olin College of Engineering. Outside of the lab, they enjoy hiking, cooking, and taking care of their houseplants.&lt;/td&gt;
  
- &lt;/tr>
+ &lt;/tr&gt;
  
-&lt;/table>
-&lt;h2 id="alumni">Alumni&lt;/h2>
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/siqi.png"&gt;&lt;img src = "/img_static/people/siqi.png" alt = "Siqi Shang sits on the stairs" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;&lt;a href="https://siqishang.github.io"&gt;Siqi Shang&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;PhD Student&lt;br&gt;Electrical and Computer Engineering&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/tuo.jpg"&gt;&lt;img src = "/img_static/people/tuo.jpg" alt = "Tuo Wang in graduation regalia" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Tuo Wang&lt;/strong&gt;&lt;br&gt;PhD Student&lt;br&gt;Electrical and Computer Engineering&lt;br&gt;&lt;br&gt;Tuo is a PhD student in Electrical and Computer Engineering at the University of Texas at Austin. With a keen interest in redefining the boundaries of robotics, Tuo&amp;rsquo;s research centers on enhancing the geometry, intelligence, agility, and interactivity of robots. Outside of the lab, Tuo is passionate about landscape photography and enjoys playing basketball and various board games.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/benito.jpeg"&gt;&lt;img src = "/img_static/people/benito.jpeg" alt = "Benito Ribadeneira stands in front of plants" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Benito Ribadeneira&lt;/strong&gt;&lt;br&gt;Masters Student&lt;br&gt;Mechanical Engineering&lt;br&gt;&lt;br&gt;Benito received his B.S. in Mechanical Engineering from EPN university in Ecuador. After graduation, he worked for 2 years as a field engineer in the oil and gas industry and currently is pursuing his M.S in Mechanical Engineering focusing his path career in mechanical design and robotics. Outside the lab he enjoys dancing and sand volleyball.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/rishit.jpg"&gt;&lt;img src = "/img_static/people/rishit.jpg" alt = "Headshot of Rishit Arora" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Rishit Arora&lt;/strong&gt;&lt;br&gt;Undergraduate Student&lt;br&gt;Electrical and Computer Engineering&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/andrew.jpg"&gt;&lt;img src = "/img_static/people/andrew.jpg" alt = "Andrew Kwa poses with a peace sign" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Andrew Kwa&lt;/strong&gt;&lt;br&gt;Undergraduate Student&lt;br&gt;Electrical and Computer Engineering&lt;br&gt;&lt;br&gt;Andrew is a third-year Electrical and Computer Engineering student at UT Austin. In his free time, he is a gamer, pianist, artist and avid reader.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/joseph.PNG"&gt;&lt;img src = "/img_static/people/joseph.PNG" alt = "Headshot of Joseph Romero" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Joseph Romero&lt;/strong&gt;&lt;br&gt;Undergraduate Student&lt;br&gt;Mechanical Engineering&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/people/ava.jpg"&gt;&lt;img src = "/img_static/people/ava.jpg" alt = "Headshot of Ava Chao Schraeder" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Ava Chao Schraeder&lt;/strong&gt;&lt;br&gt;Undergraduate Student&lt;br&gt;Mechanical Engineering&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+&lt;/table&gt;
+&lt;h2 id="collaborators"&gt;Collaborators&lt;/h2&gt;
+&lt;!-- image link, alt text + as many rows as you want --&gt;
 
 
 
@@ -401,102 +301,19 @@
 
 
 
-&lt;table class=bootstrap>
+&lt;table class=bootstrap&gt;
  
 
  
-
- 
- &lt;thead>
- 
- 
- &lt;tr>
- &lt;th>Who&lt;/th> &lt;th>What&lt;/th> &lt;th>When&lt;/th> &lt;th>Where Next?&lt;/th> 
- &lt;/tr>
- &lt;/thead>
- 
- 
- 
- &lt;tr>
- 
- 
- 
- 
- &lt;td>&lt;a href="https://www.darrenau.com">Darren Au&lt;/a>&lt;/td>
- 
- 
- &lt;td>UT Austin Undergrad&lt;br>Mechanical Engineering&lt;/td>
- 
- 
- &lt;td>2024-2025&lt;/td>
- 
- 
- &lt;td>Anduril&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- &lt;td>Tanya Lertpradist&lt;/td>
- 
- 
- &lt;td>UT Austin Undergrad&lt;br>Electrical and Computer Engineering&lt;/td>
- 
- 
- &lt;td>2024-2025&lt;/td>
- 
- 
- &lt;td>Junior Year at UT Austin&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- &lt;td>Hrishikesh (Hrishi) Sahu&lt;/td>
- 
- 
- &lt;td>UT Austin Undergrad&lt;br>Electrical and Computer Engineering&lt;/td>
- 
- 
- &lt;td>2024-2025&lt;/td>
- 
- 
- &lt;td>Junior Year at UT Austin&lt;/td>
- 
- &lt;/tr>
- 
-&lt;/table></description></item><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>&lt;p>In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been &lt;span class="highlight">highlighted&lt;/span>.&lt;/p>
-&lt;p>For the most up-to-date list of publications, please check Professor Chin&amp;rsquo;s &lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=yPvT_i4AAAAJ&amp;amp;view_op=list_works&amp;amp;sortby=pubdate">Google Scholar profile&lt;/a> and &lt;a href="https://www.youtube.com/@LillianTChin">Youtube&lt;/a>. If you would like a copy of any paper, please &lt;a href="https://litchin.wordpress.com/contact/">contact&lt;/a> Professor Chin.&lt;/p>
-&lt;hr>
-
-
-
-
-
-
-
-
-&lt;table class=pubs>
- 
-
- 
- &lt;colgroup>
- &lt;col span="1" style="width: 30%;">
- &lt;/colgroup>
+ &lt;colgroup&gt;
+ &lt;col span="1" style="width: 30%;"&gt;
+ &lt;/colgroup&gt;
  
 
  
  
  
- &lt;tr class = "highlight">
+ &lt;tr&gt;
  
  
  
@@ -506,17 +323,17 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/forte2025.png">&lt;img src = "/img_static/pubs/forte2025.png" alt = "Cutaway view of a finray gripper. There are empty air channels along the front and back sides of the gripper. Each front-back pair of channels connects to a differential pressure sensor." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td&gt; &lt;a href="/img_static/people/Gucheol.jpg"&gt;&lt;img src = "/img_static/people/Gucheol.jpg" alt = "Headshot of Gu-Cheol Jeong" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
  
  
  
  
- &lt;td>&lt;strong>FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation&lt;/strong>&lt;br>&lt;u>Siqi Shang&lt;/u>, Mingyo Seo, Yuke Zhu, &lt;u>Lillian Chin&lt;/u>&lt;br>Under review at &lt;em>IEEE RA-L&lt;/em>&lt;br>&lt;a href="https://arxiv.org/abs/2506.18960">arXiv&lt;/a> | &lt;a href="https://merge-lab.github.io/FORTE/">Website&lt;/a> &lt;br>&lt;br>We create FORTE, 3D-printed finrays with internal force and slip sensing. By measuring the pressure change of embedded air channels at 2 kHz, FORTE can accurately estimate grasping forces from 0-8 N with an average error of 0.2 N, and detect slip events within 100 ms of occurring using an analytical model. FORTE grasps fragile objects like raspberries and potato chips with a 98.6% success rate, and achieves 93% accuracy in detecting slip events across 310 trials. &lt;!--highlight -->&lt;/td>
+ &lt;td&gt;&lt;strong&gt;Gu-Cheol Jeong&lt;/strong&gt;&lt;br&gt;PhD Student&lt;br&gt;Mechanical Engineering&lt;br&gt;Advised by &lt;a href="https://reneu.robotics.utexas.edu/members/ashish-deshpande"&gt;Ashish Deshpande&lt;/a&gt;, collaborating with &lt;a href="https://robertomartinmartin.com/"&gt;Roberto Martín-Martín&lt;/a&gt;&lt;/td&gt;
  
- &lt;/tr>
+ &lt;/tr&gt;
  
  
- &lt;tr>
+ &lt;tr&gt;
  
  
  
@@ -526,17 +343,17 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/biflex2025.png">&lt;img src = "/img_static/pubs/biflex2025.png" alt = "A robot that has a white 3D-printed wrist between the gripper and the rest of the arm. The wrist has a honeycomb structure." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td&gt; &lt;a href="/img_static/people/chongxun.jpg"&gt;&lt;img src = "/img_static/people/chongxun.jpg" alt = "Headshot of Chongxun Wang" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
  
  
  
  
- &lt;td>&lt;strong>BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments&lt;/strong>&lt;br>Gu-Cheol Jeong, Stefano Dalla Gasperina, Ashish D. Deshpande, &lt;u>Lillian Chin*&lt;/u>, Roberto Martín-Martín*&lt;br>Accepted and in-press at &lt;em>IEEE RA-L&lt;/em>&lt;br>&lt;a href="https://arxiv.org/abs/2504.08706">arXiv&lt;/a> | &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/">Website&lt;/a> &lt;br>&lt;br>We create BiFlex, a flexible 3D-printed wrist that uses buckling to passively switch from a high stiffness precision mode to a low stiffness compliant mode. BiFlex is easily generalizable to many robot end effectors while simplifying control.&lt;/td>
+ &lt;td&gt;&lt;strong&gt;Chongxun Wang&lt;/strong&gt;&lt;br&gt;PhD Student&lt;br&gt;Mechanical Engineering&lt;br&gt;Advised by &lt;a href="https://xiafz.info"&gt;Fangzhou Xia&lt;/a&gt;&lt;/td&gt;
  
- &lt;/tr>
+ &lt;/tr&gt;
  
  
- &lt;tr>
+ &lt;tr&gt;
  
  
  
@@ -546,17 +363,17 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/auxbot2025.png">&lt;img src = "/img_static/pubs/auxbot2025.png" alt = "A robot made out of metal pieces in the closed and expanded states. There are scissor links in between metal triangles and squares." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td&gt; &lt;a href="/img_static/people/hasif.jpg"&gt;&lt;img src = "/img_static/people/hasif.jpg" alt = "Headshot of Hasif Shaikh" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
  
  
  
  
- &lt;td>&lt;strong>Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Gregory Xie, Jeffrey Lipton, and Daniela Rus&lt;br>&lt;em>ICRA 2025&lt;/em>&lt;br>&lt;a href="/Auxbot_ICRA25.pdf">Paper&lt;/a>&lt;br>&lt;br>We create soft modular robots that can expand &lt;u>1.57x in 0.2 seconds&lt;/u>. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.&lt;/td>
+ &lt;td&gt;&lt;strong&gt;Hasif Shaikh&lt;/strong&gt;&lt;br&gt;Masters Student&lt;br&gt;Electrical and Computer Engineering&lt;br&gt;Collaborating with &lt;a href="https://robertomartinmartin.com/"&gt;Roberto Martín-Martín&lt;/a&gt;&lt;/td&gt;
  
- &lt;/tr>
+ &lt;/tr&gt;
  
  
- &lt;tr>
+ &lt;tr&gt;
  
  
  
@@ -566,444 +383,17 @@
  
  
  
- &lt;td> &lt;a href="/img_static/pubs/iros2024.png">&lt;img src = "/img_static/pubs/iros2024.png" alt = "A robot gripper grasps a 10 pound dumbbell and is deformed by a plastic bat." style = "margin: 0em;"> &lt;/a>&lt;/td>
+ &lt;td&gt; &lt;a href="/img_static/people/rahul.jpg"&gt;&lt;img src = "/img_static/people/rahul.jpg" alt = "Headshot of Rahul Iyer" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
  
  
  
  
- &lt;td>&lt;strong>Strong Compliant Grasps Using a Cable-Driven Soft Gripper&lt;/strong>&lt;br>Gregory Xie, &lt;u>Lillian Chin&lt;/u>, Byungchul Kim, Rachel Holladay, and Daniela Rus&lt;br>&lt;em>IROS 2024&lt;/em>&lt;br> &lt;a href="/FROG_ICRA.pdf">Paper&lt;/a> &lt;br>&lt;br> We create FROG (Flexible Robust Observant Gripper) that is soft yet strong. FROG is made of soft flexure-based fingers that are encircled by Bowen tubes. By pulling on these tubes, we can exert a significant amount of force while remaining compliant. We develop controllers to grasp heavy and delicate objects and demonstrate them across a wide range of household objects.&lt;/td>
+ &lt;td&gt;&lt;strong&gt;Rahul Iyer&lt;/strong&gt;&lt;br&gt;Undergraduate Student&lt;br&gt;Computer Science&lt;br&gt;Collaborating with &lt;a href="https://robertomartinmartin.com/"&gt;Roberto Martín-Martín&lt;/a&gt;&lt;/td&gt;
  
- &lt;/tr>
+ &lt;/tr&gt;
  
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/serc2024.png">&lt;img src = "/img_static/pubs/serc2024.png" alt = "Mockup of a community planning tool for urban farms in public housing" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Drawing Together: Technology Development for Public Service&lt;/strong>&lt;br>Carlos Sandoval Olascoaga, &lt;u>Lillian Chin&lt;/u>, Josefina Correa Menendez, Reid Kovacs, Calvin Zhong &amp;amp; Nicholas de Monchaux &lt;br>Book chapter in &lt;em>Improving Technology Through Ethics&lt;/em> (Springer, 2024)&lt;br> &lt;a href="https://link.springer.com/chapter/10.1007/978-3-031-52962-7_6">Chapter&lt;/a>&lt;br>&lt;br>Traditionally, civic planning technology has not been created in dialogue with communities. We discuss a new approach to technology development that centers community-based collaborative planning. We present a history of Geospatial Information Systems (GIS) and our ongoing work with &lt;a href="https://greencityforce.org">Green City Force&lt;/a> to make technology that addresses racial, economic and environmental justice in New York City Housing Authority communities.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr class = "highlight">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/icra2024.png">&lt;img src = "/img_static/pubs/icra2024.png" alt = "A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Embedded Air Channels Transform Soft Lattices into Sensorized Grippers&lt;/strong>&lt;br>Annan Zhang*, &lt;u>Lillian Chin*&lt;/u>, Daniel L. Tong, Daniela Rus&lt;br>&lt;em>ICRA 2024&lt;/em>&lt;br> &lt;a href="https://www.annanzhang.com/data/pdf/zhang2024embedded.pdf">Paper&lt;/a> &lt;br>&lt;br> We create a sensorized parallel jaw gripper by printing cubic lattice fingers with embedded air channels. Through 3D printing, we have significantly more control over the location and positioning of the channel sensors. After characterizing the sensor performance from compression, bending and time-dependent effects, we use the gripper to estimate the weight and location of grasped objects. We are able to imitate vision-based tactile sensor results with only 12 sensors. &lt;!--highlight -->&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/grocery2024.png">&lt;img src = "/img_static/pubs/grocery2024.png" alt = "A robot arm grabs a can off of a conveyor belt to pack it in a conveyor belt. Insets demonstrate the two cameras&amp;#39; point of view and the sensorized gripper." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Real-Time Grocery Packing by Integrating Vision, Tactile Sensing, and Soft Fingers&lt;/strong>&lt;br>Valerie Chen*, &lt;u>Lillian Chin*&lt;/u>, Jeana Choi*, Annan Zhang*, Daniela Rus&lt;br>&lt;em>RoboSoft 2024&lt;/em> &lt;br>&lt;a href="https://ieeexplore.ieee.org/document/10521917">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=qetYLCcejTw">Video&lt;/a> | &lt;a href="https://techcrunch.com/2024/06/30/mits-soft-robotic-system-is-designed-to-pack-groceries/">TechCrunch&lt;/a> | &lt;a href="https://www.popsci.com/technology/grocery-bagging-robot-self-checkout/">Popular Science&lt;/a> &lt;br>&lt;br> We combine external vision, soft tactile sensors and motor-based proprioception to create an autonomous grocery packing system. In real-time, our system can grasp an object off a conveyor belt, estimate its size and stiffness and pack a box. Combining multiple modes of sensor feedback reduces in &lt;u>9x fewer damaging packs&lt;/u> than a sensor-less baseline and 4.5x fewer damaging packs than a vision-only baseline.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/bop2024.png">&lt;img src = "/img_static/pubs/bop2024.png" alt = "A parallel-jaw gripper uses belts embedded within a finger to rotate and translate a toy peach." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>In-Hand Manipulation with a Simple Belted Parallel-Jaw Gripper&lt;/strong>&lt;br>Gregory Xie, Rachel Holladay, &lt;u>Lillian Chin&lt;/u>, Daniela Rus&lt;br>&lt;em>IEEE RA-L&lt;/em>, 2023. Also presented at ICRA@40 &lt;br>&lt;a href="https://ieeexplore.ieee.org/abstract/document/10373080/">Paper&lt;/a> &lt;br>&lt;br> We create BOP (Belt Orienting Phalanges), a parallel-jaw gripper where each finger has two sets of belts embedded within. By controlling each of the belts, we can control a grasped object&amp;rsquo;s roll, pitch and translation. We demonstrate several instances of in-hand manipulation, including fingernail-style lifting of a thing object and screwing in a lightbulb.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/zhang2023machine.png">&lt;img src = "/img_static/pubs/zhang2023machine.png" alt = "Machine learning for soft robot proprioception should match the data distribution and sensor inputs" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Machine Learning Best Practices for Soft Robot Proprioception&lt;/strong> &lt;br>Annan Zhang*, Tsun-Hsuan Wang*, Ryan L. Truby, &lt;u>Lillian Chin&lt;/u>, Daniela Rus&lt;br>&lt;em>IROS 2023&lt;/em>&lt;br> &lt;a href="https://ieeexplore.ieee.org/document/10342379">Paper&lt;/a>&lt;br>&lt;br>Based on experiments on two large soft robotics datasets, we derive best practices for training neural networks that map sensor signals to soft robot shape. Specifically, we analyze a handed shearing auxetic based robot platform with internal pressure-based sensors and a pneumatic trunk with external piezoresistive strain sensors. This analysis suggest several best practices for training a neural net on soft robotics: using relative inputs, including the actuator position, and using gated recurrent units or long short-term memory networks.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/cosimo2023.png">&lt;img src = "/img_static/pubs/cosimo2023.png" alt = "Comparison of a twisted HSA robot in real-life, simulation and kinematic abstraction." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Modelling Handed Shearing Auxetics: Selective Piecewise Constant Strain Kinematics and Dynamic Simulation&lt;/strong>&lt;br>Maximillian Stölzle, &lt;u>Lillian Chin&lt;/u>, Ryan L. Truby, Daniela Rus, Cosimo Della Santina&lt;br>&lt;em>RoboSoft 2023&lt;/em>. &lt;br>&lt;a href="https://ieeexplore.ieee.org/abstract/document/10121989">Paper&lt;/a> &lt;br>&lt;br> This paper extends discrete Cosserat rod models to model the movement of handed shearing auxetics (HSAs). By translating the auxetic trajectories to a Cosserat rod + piecewise constant strain model, we can model a four degree of freedom robotic HSA platform to an accuracy of 0.3 mm for position and 0.07 radians for orientation.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr class = "highlight">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/auxbot2022.png">&lt;img src = "/img_static/pubs/auxbot2022.png" alt = "A robot made out of metal squares and triangles in the closed and expanded states" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Flipper-Style Locomotion through Strong Expanding Modular Robots&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Max Burns*, Gregory Xie*, Daniela Rus&lt;br>&lt;em>IEEE RA-L&lt;/em>, 2022. Also presented at ICRA 2022. &lt;br>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9976216">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=8mhclLQWb_Q">ICRA Talk&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=l36GjQZS7vU&amp;amp;list=PLdPBfRQbWBGXjGHT0ZJDUz-xapEMAcqFd&amp;amp;index=2&amp;amp;pp=iAQB">Mashable&lt;/a> &lt;br>&lt;br> &lt;!-- highlight --> We create a force-focused version of our previous expanding robot spheres. By driving an aluminum version of the jitterbug with a leadscrew, we created an expanding robot that can expand 1.6x its original size and &lt;u>exert an expansion force 76x its own weight&lt;/u>. When this robot was used as a module for a larger robot, the overall structure was &lt;u>an order of magnitude faster than existing modular robots&lt;/u> and could &lt;u>haul 1.5x its own weight, even with some modules stalling&lt;/u>&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/zhang2022vision.jpg">&lt;img src = "/img_static/pubs/zhang2022vision.jpg" alt = "Cameras are placed at the top of the handed shearing auxetic fingers to view internal state changes" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Vision-Based Sensing for Electrically-Driven Soft Actuators&lt;/strong>&lt;br>Annan Zhang, Ryan L. Truby, &lt;u>Lillian Chin&lt;/u>, Shuguang Li, Daniela Rus&lt;br>&lt;em>IEEE RA-L&lt;/em>, 2022. Also presented at IROS 2022.&lt;br> &lt;a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=9866780">Paper&lt;/a> &lt;br>&lt;br>We use cameras to record the interior of compliant electric actuators and train a neural network that maps the visual feedback to the actuator&amp;rsquo;s tip pose. Our method presents a robust approach for sensorizing hollow-bodied actuators and provides accurate predictions in the presence of external disturbances.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr class = "highlight">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/truby2022fluidic.png">&lt;img src = "/img_static/pubs/truby2022fluidic.png" alt = "See-through rendered view of a lattice, showing internal fluid chambers" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Fluidic Innervation Sensorizes Structures from a Single Build Material&lt;/strong>&lt;br>Ryan L. Truby*, &lt;u>Lillian Chin*&lt;/u>, Annan Zhang, Daniela Rus&lt;br>&lt;strong>Science Advances&lt;/strong>, 2022&lt;br>&lt;a href="https://www.science.org/doi/pdf/10.1126/sciadv.abq4385">Paper&lt;/a> | &lt;a href="https://news.mit.edu/2022/materials-sense-movements-0810">MIT News&lt;/a> &lt;br>&lt;br> We develop a new sensorization technique: embed empty air-filled channels within a 3D printed structure. As the structure is moved or pressed, the channels will report a measurable change in pressure. Using this technique, we collected &lt;u>the largest soft robotics movement dataset (18 hours)&lt;/u>. This allowed us to predict a 4 degree-of-freedom robotic platform&amp;rsquo;s movement to &lt;u>within 8% error, using only 12 sensors&lt;/u> &lt;!-- highlight -->&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/brandon2022.png">&lt;img src = "/img_static/pubs/brandon2022.png" alt = "Pseudocode for the HILO algorithm, that takes in a markov decision process and trajectories to return an optimal plan" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Learning Policies by Learning Rules&lt;/strong>&lt;br>Brandon Araki, Jeana Choi, &lt;u>Lillian Chin&lt;/u>, Xiao Li, Daniela Rus&lt;br>&lt;em>IEEE RA-L&lt;/em>, 2021. &lt;br>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9667222">Paper&lt;/a> &lt;br>&lt;br> We present Hierarchical Inference with Logical Options (HILO), a Bayesian model that operates on linear temporal logic (LTL) formulas. By operating over LTL formulas and low-level trajectories, the model is able to find an optimal policy while maintaining interpretability. HILO outperforms other methods on planning tasks and is validated in the real world on a grocery packing task.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/jeopardy2021.png">&lt;img src = "/img_static/pubs/jeopardy2021.png" alt = "A picture of the author (Lilly Chin) on Jeopardy but her head is replaced with a clam" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>How to Survive a Public Faming: Understanding &amp;ldquo;The Spiciest Memelord&amp;rdquo; via the Temporal Dynamics of Involuntary Celebrification&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>&lt;br>&lt;em>First Monday&lt;/em>, 2021. &lt;br>&lt;a href="https://journals.uic.edu/ojs/index.php/fm/article/view/11674">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=2cLUMUEMUzc">CUNY, Queens College Talk&lt;/a> &lt;br>&lt;br> The author conducts an autoethnography about her experiences on Jeopardy, an American TV show. By reflecting on the harassment she got, she connects her experience to other people who were &amp;ldquo;publicly famed&amp;rdquo; exposing a gap in the critical literature on celebrity. She introduces the technique of &amp;ldquo;radical reciprocity&amp;rdquo; as a way to combat the effects of unwanted fame, on both the temporalities of celebrity and microcelebrity.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/colearning2021.png">&lt;img src = "/img_static/pubs/colearning2021.png" alt = "Overview of a machine learning algorithm to determine optimal sensor placement within a simulated gripper" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Co-Learning of Task and Sensor Placement for Soft Robotics&lt;/strong>&lt;br>Andy Spielberg*, Alexander Amini*, &lt;u>Lillian Chin&lt;/u>, Woijech Matusik, Daniela Rus&lt;br>&lt;em>IEEE RA-L&lt;/em>, 2021. &lt;strong>Nominated for Best Paper at Robosoft 2021&lt;/strong>&lt;br>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9345345">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=MSa7D0FvxqY">Video&lt;/a> | &lt;a href="https://news.mit.edu/2021/sensor-soft-robots-placement-0322">MIT News&lt;/a> &lt;br>&lt;br> We introduce a machine learning technique to design a soft robot&amp;rsquo;s sensor placement for a specific task. We assume that the soft robot is simulated using the material point method and then sparsify the number of sensors in the overall structure while maintaining high performance. We demonstrate the viability of this task in simulation for grasp prediction, learned proprioception and control of a quadruped. Our method significantly outperforms human and machine learning baselines and is resistant to sensor noise.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/3dprintHSA2021.jpg">&lt;img src = "/img_static/pubs/3dprintHSA2021.jpg" alt = "A bent handed shearing auxetic tube, with another tube inside of it" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>A Recipe for Electrically-Driven Soft Robots via 3D Printed Handed Shearing Auxetics&lt;/strong>&lt;br>Ryan L. Truby*, &lt;u>Lillian Chin*&lt;/u>, Daniela Rus&lt;br>&lt;em>IEEE RA-L&lt;/em>, 2021. Also presented at Robosoft 2021&lt;br>&lt;a href="https://ieeexplore.ieee.org/abstract/document/9326362">Paper&lt;/a> &lt;br>&lt;br> We introduce a new way of fabricating handed shearing auxetic fingers. Rather than laser cutting them, we print them using a resin-based printer. This allows us to experiment with more materials and make more modifications to the underlying geometry without sacrificing resolution.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr class = "highlight">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/multiplexedManip2020.png">&lt;img src = "/img_static/pubs/multiplexedManip2020.png" alt = "A robot gripper grabs a plastic banana in three ways: suction, parallel-jaw and soft fingers." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Multiplexed Manipulation: Versatile Multimodal Grasping via a Hybrid Soft Gripper&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Felipe Barscevicius, Jeffrey Lipton, Daniela Rus&lt;br>&lt;em>ICRA 2020&lt;/em>&lt;br>&lt;a href="https://dspace.mit.edu/handle/1721.1/137301.2">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=NWzDpKNGdXk">Video&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=npoUdod4fvI">ICRA Talk&lt;/a> &lt;br>&lt;br> Rather than have separate systems for different grasping modes, we introduce multiplexed manipulation: a gripper that combines parallel jaw, suction and soft finger grasping into one system. By combining these different modes together, we are able to grasp 20% more objects than single grasping modes alone. We are also able to perform rudimentary in-hand manipulation with flat objects by suctioning them up and pinching them between the fingers.&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;!-- highlight -->&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/auxbot2019.png">&lt;img src = "/img_static/pubs/auxbot2019.png" alt = "A robot made up of two layers of spring steel in its closed and expanded states." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Modular Volumetric Actuators Using Motorized Auxetics&lt;/strong>&lt;br>Jeffrey Lipton, &lt;u>Lillian Chin&lt;/u>, Jacob Miske, Daniela Rus&lt;br>&lt;em>IROS 2019&lt;/em>&lt;br>&lt;a href="https://ieeexplore.ieee.org/abstract/document/8968187">Paper&lt;/a> | &lt;a href="/Auxbot_v1_IROS.pdf">PDF&lt;/a> &lt;br>&lt;br> We use the mathematical model of &amp;ldquo;rotating polygons for auxetic materials&amp;rdquo; to create robots that can expand at will by rotating one degree-of-freedom. These spring-steel robots can expand 1.2x their original volume in 0.25 seconds. We demonstrate how these robots can perform vertical tube crawling through peristaltic locomotion.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/recycling2019.png">&lt;img src = "/img_static/pubs/recycling2019.png" alt = "A robot waits over a conveyor belt next to recycling bins" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Automated Recycling Separation Enabled by Soft Robotic Material Classification&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Jeffrey Lipton, Michelle C Yuen, Rebecca Kramer-Bottiglio, Daniela Rus&lt;br>&lt;strong>Won Best Poster at Robosoft 2019&lt;/strong>&lt;br>&lt;a href="https://dspace.mit.edu/handle/1721.1/124001">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=slAZS78QmoA">Video&lt;/a> | &lt;a href="https://www.bbc.com/news/av/technology-47826476/the-robot-that-sorts-out-recycling">BBC&lt;/a> | &lt;a href="https://www.scientificamerican.com/article/can-robots-help-pick-up-after-the-recycling-crisis/">Scientific American&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=1mxaN_xqQh4">CNBC&lt;/a> &lt;br>&lt;br> Through collaboration with &lt;a href="https://www.michellecyuen.com">Michelle Yuen&lt;/a>&amp;rsquo;s soft capactitve strain and pressure sensors, we extended our stiffness and size algorithm to now sort objects based on material: metal, paper and plastic. We demonstrated this on a mock recycling system, demonstrating how the overall system was puncture resistant and effective on pathological examples.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/icra2019.jpg">&lt;img src = "/img_static/pubs/icra2019.jpg" alt = "A robot hand. One finger is covered with a gray sock while the other shows a handed shearing auxetic finger with a strain sensor on the back and a pressure sensor on the front." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>A Simple Electric Soft Robotic Gripper with High-deformation Haptic Feedback&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Michelle C Yuen, Jeffrey Lipton, Luis H Trueba, Rebecca Kramer-Bottiglio, Daniela Rus&lt;br>&lt;em>ICRA 2019&lt;/em>&lt;br>&lt;a href="https://dspace.mit.edu/handle/1721.1/121154">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=VASZ8P1mPsw">Video&lt;/a> &lt;br>&lt;br> Through collaboration with &lt;a href="https://www.michellecyuen.com">Michelle Yuen&lt;/a>&amp;rsquo;s soft capactitve strain and pressure sensors, we created a simple hand that could tell the stiffness and size of objects. With linear regression and a test set of 4 objects, we could estimate radius to within 33% and tell hard from soft with 78% accuracy.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr class = "highlight">
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/hsa2018.png">&lt;img src = "/img_static/pubs/hsa2018.png" alt = "A handed shearing auxetic extending as it is twisted" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Compliant Electric Actuators Based on Handed Shearing Auxetics&lt;/strong>&lt;br>&lt;u>Lillian Chin&lt;/u>, Jeffrey Lipton, Robert MacCurdy, John Romanishin, Chetan Sharma, Daniela Rus&lt;br>&lt;em>RoboSoft 2018&lt;/em>&lt;br>&lt;a href="https://dspace.mit.edu/handle/1721.1/116908">Paper&lt;/a> | &lt;a href="https://www.youtube.com/watch?v=53NXnPTG9Ik">Video&lt;/a> &lt;br>&lt;br> By combining handed shearing auxetics of opposite handedness together, we can create a linear actuator. By adding a constraint to the pattern, we can create soft fingers. From these building blocks, we create a 4 degree-of-freedom robotic platform that can &lt;u>extend up to 60% of its original length and twist up to 280 degrees&lt;/u>. We also create a soft robotic hand that is &lt;u>20x more power efficient and 2x faster&lt;/u> than comparable pneuamtic-based soft hands, while achieving similar grasp performance. &lt;!-- highlight -->&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/hsaMath2018.png">&lt;img src = "/img_static/pubs/hsaMath2018.png" alt = "Render showing how a repeated unit cell of a parallelogram and a rectangle creates a handed shearing auxetic structure" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Handedness in Shearing Auxetics Creates Rigid and Compliant Structures&lt;/strong>&lt;br>Jeffrey Ian Lipton, Robert MacCurdy, Zachary Manchester, &lt;u>Lillian Chin&lt;/u>, Daniel Cellucci, Daniela Rus&lt;br>&lt;strong>Science&lt;/strong>, 2018&lt;br>&lt;a href="https://www.science.org/doi/full/10.1126/science.aar4586">Paper&lt;/a> &lt;br>&lt;br> Traditional auxetic materials have a unit cell that is symmetric. As the material expands, the unit cells rotate against each other until reaching a maximum point of expansion and collapsing down into the opposite symmetry. If we intentionally break this symmetry, we can create shear movement and make it impossible to collapse from one handedness to another. We call this handed shearing auxetics and demonstrate the potential for this class of material to create actuators.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/forceps2018.png">&lt;img src = "/img_static/pubs/forceps2018.png" alt = "Obstetrical forceps with a modified handle, allowing for quick change and rotation" style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Obstetrical Forceps With Passive Rotation and Sensor Feedback&lt;/strong>&lt;br>Judith M Beaudoin, &lt;u>Lillian T Chin&lt;/u>, Hannah M Zlotnick, Thomas M Cervantes, Alexander H Slocum, Julian N Robinson, Sarah C Lassey&lt;br>&lt;em>Design of Medical Devices 2018&lt;/em>&lt;br>&lt;a href="https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T11A004/272007">Paper&lt;/a> &lt;br>&lt;br> We introduce a new design for obstetric forceps based on clinician feedback. To allow for delivery of babies in non-standard (non-occiput anterior) positions, we create forceps with a passively rotating handle and quick change blades for easier use. We also explore an additional sensing attachment to provide force / direction feedback to obstetricians to reduce the learning curve for forceps use.&lt;/td>
- 
- &lt;/tr>
- 
- 
- &lt;tr>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;td> &lt;a href="/img_static/pubs/agstev2016.png">&lt;img src = "/img_static/pubs/agstev2016.png" alt = "A robot arm with a projector attached to it points at a bone on a turntable." style = "margin: 0em;"> &lt;/a>&lt;/td>
- 
- 
- 
- 
- &lt;td>&lt;strong>Conformal Robotic Stereolithography&lt;/strong>&lt;br> Adam G. Stevens, C. Ryan Oliver, Matthieu Kirchmeyer, Jieyuan Wu, &lt;u>Lillian Chin&lt;/u>, Erik S. Polsen, Chad Archer, Casey Boyle, Jenna Garber, and A. John Hart &lt;br>&lt;em>3D Printing and Additive Manufacturing&lt;/em>, 2016&lt;br>&lt;a href="https://www.liebertpub.com/doi/abs/10.1089/3dp.2016.0042">Paper&lt;/a>&lt;br>&lt;br>By attaching a projector to the end of a six-axis robot arm, we are able to perform stereolithography printing on curved surfaces. Rather than be limited to the standard planar layer of traditional 3D printing, we can create freeform high precision prints.&lt;/td>
- 
- &lt;/tr>
- 
-&lt;/table></description></item><item><title>Research</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;h1 id="active-projects">Active Projects&lt;/h1>
-
-
- 
+&lt;/table&gt;
+&lt;h2 id="alumni"&gt;Alumni&lt;/h2&gt;
 
 
 
@@ -1012,12 +402,642 @@
 
 
 
+&lt;table class=bootstrap&gt;
+ 
+
+ 
+
+ 
+ &lt;thead&gt;
+ 
+ 
+ &lt;tr&gt;
+ &lt;th&gt;Who&lt;/th&gt; &lt;th&gt;What&lt;/th&gt; &lt;th&gt;When&lt;/th&gt; &lt;th&gt;Where Next?&lt;/th&gt; 
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ 
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;Morris Lin&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;UT Austin Undergrad&lt;br&gt;Electrical and Computer Engineering&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;Summer 2025&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;Junior Year at UT Austin&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;a href="https://www.darrenau.com"&gt;Darren Au&lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;UT Austin Undergrad&lt;br&gt;Mechanical Engineering&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;2024-2025&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;Anduril&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;Tanya Lertpradist&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;UT Austin Undergrad&lt;br&gt;Electrical and Computer Engineering&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;2024-2025&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;Junior Year at UT Austin&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;Hrishikesh (Hrishi) Sahu&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;UT Austin Undergrad&lt;br&gt;Electrical and Computer Engineering&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;2024-2025&lt;/td&gt;
+ 
+ 
+ &lt;td&gt;Junior Year at UT Austin&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+&lt;/table&gt;</description></item><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>&lt;p&gt;In all papers below, * means equal contribution to the manuscript. Members of the lab have been underlined. Notable papers have been &lt;span class="highlight"&gt;highlighted&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;For the most up-to-date list of publications, please check Professor Chin&amp;rsquo;s &lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=yPvT_i4AAAAJ&amp;amp;view_op=list_works&amp;amp;sortby=pubdate"&gt;Google Scholar profile&lt;/a&gt; and &lt;a href="https://www.youtube.com/@LillianTChin"&gt;Youtube&lt;/a&gt;. If you would like a copy of any paper, please &lt;a href="https://litchin.wordpress.com/contact/"&gt;contact&lt;/a&gt; Professor Chin.&lt;/p&gt;
+&lt;hr&gt;
 
 
 
 
-&lt;figure class="small-figure" >
- &lt;a href="/img/icra2024.png">
+
+
+
+
+&lt;table class=pubs&gt;
+ 
+
+ 
+ &lt;colgroup&gt;
+ &lt;col span="1" style="width: 30%;"&gt;
+ &lt;/colgroup&gt;
+ 
+
+ 
+ 
+ 
+ &lt;tr class = "highlight"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/forte2025.png"&gt;&lt;img src = "/img_static/pubs/forte2025.png" alt = "Cutaway view of a finray gripper. There are empty air channels along the front and back sides of the gripper. Each front-back pair of channels connects to a differential pressure sensor." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Siqi Shang&lt;/u&gt;, Mingyo Seo, Yuke Zhu, &lt;u&gt;Lillian Chin&lt;/u&gt;&lt;br&gt;Under review at &lt;em&gt;IEEE RA-L&lt;/em&gt;&lt;br&gt;&lt;a href="https://arxiv.org/abs/2506.18960"&gt;arXiv&lt;/a&gt; | &lt;a href="https://merge-lab.github.io/FORTE/"&gt;Website&lt;/a&gt; &lt;br&gt;&lt;br&gt;We create FORTE, 3D-printed finrays with internal force and slip sensing. By measuring the pressure change of embedded air channels at 2 kHz, FORTE can accurately estimate grasping forces from 0-8 N with an average error of 0.2 N, and detect slip events within 100 ms of occurring using an analytical model. FORTE grasps fragile objects like raspberries and potato chips with a 98.6% success rate, and achieves 93% accuracy in detecting slip events across 310 trials. &lt;!--highlight --&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/biflex2025.png"&gt;&lt;img src = "/img_static/pubs/biflex2025.png" alt = "A robot that has a white 3D-printed wrist between the gripper and the rest of the arm. The wrist has a honeycomb structure." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments&lt;/strong&gt;&lt;br&gt;Gu-Cheol Jeong, Stefano Dalla Gasperina, Ashish D. Deshpande, &lt;u&gt;Lillian Chin*&lt;/u&gt;, Roberto Martín-Martín*&lt;br&gt;Accepted and in-press at &lt;em&gt;IEEE RA-L&lt;/em&gt;&lt;br&gt;&lt;a href="https://arxiv.org/abs/2504.08706"&gt;arXiv&lt;/a&gt; | &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/"&gt;Website&lt;/a&gt; &lt;br&gt;&lt;br&gt;We create BiFlex, a flexible 3D-printed wrist that uses buckling to passively switch from a high stiffness precision mode to a low stiffness compliant mode. BiFlex is easily generalizable to many robot end effectors while simplifying control.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/auxbot2025.png"&gt;&lt;img src = "/img_static/pubs/auxbot2025.png" alt = "A robot made out of metal pieces in the closed and expanded states. There are scissor links in between metal triangles and squares." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Lillian Chin&lt;/u&gt;, Gregory Xie, Jeffrey Lipton, and Daniela Rus&lt;br&gt;&lt;em&gt;ICRA 2025&lt;/em&gt;&lt;br&gt;&lt;a href="/Auxbot_ICRA25.pdf"&gt;Paper&lt;/a&gt;&lt;br&gt;&lt;br&gt;We create soft modular robots that can expand &lt;u&gt;1.57x in 0.2 seconds&lt;/u&gt;. We achieve this through a scissors-like bi-layer auxetic design, increasing the expansion ratio. We can use these robots as the basis of larger structures, including 2D bending and 3D cube flipping.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/iros2024.png"&gt;&lt;img src = "/img_static/pubs/iros2024.png" alt = "A robot gripper grasps a 10 pound dumbbell and is deformed by a plastic bat." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Strong Compliant Grasps Using a Cable-Driven Soft Gripper&lt;/strong&gt;&lt;br&gt;Gregory Xie, &lt;u&gt;Lillian Chin&lt;/u&gt;, Byungchul Kim, Rachel Holladay, and Daniela Rus&lt;br&gt;&lt;em&gt;IROS 2024&lt;/em&gt;&lt;br&gt; &lt;a href="/FROG_ICRA.pdf"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; We create FROG (Flexible Robust Observant Gripper) that is soft yet strong. FROG is made of soft flexure-based fingers that are encircled by Bowen tubes. By pulling on these tubes, we can exert a significant amount of force while remaining compliant. We develop controllers to grasp heavy and delicate objects and demonstrate them across a wide range of household objects.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/serc2024.png"&gt;&lt;img src = "/img_static/pubs/serc2024.png" alt = "Mockup of a community planning tool for urban farms in public housing" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Drawing Together: Technology Development for Public Service&lt;/strong&gt;&lt;br&gt;Carlos Sandoval Olascoaga, &lt;u&gt;Lillian Chin&lt;/u&gt;, Josefina Correa Menendez, Reid Kovacs, Calvin Zhong &amp;amp; Nicholas de Monchaux &lt;br&gt;Book chapter in &lt;em&gt;Improving Technology Through Ethics&lt;/em&gt; (Springer, 2024)&lt;br&gt; &lt;a href="https://link.springer.com/chapter/10.1007/978-3-031-52962-7_6"&gt;Chapter&lt;/a&gt;&lt;br&gt;&lt;br&gt;Traditionally, civic planning technology has not been created in dialogue with communities. We discuss a new approach to technology development that centers community-based collaborative planning. We present a history of Geospatial Information Systems (GIS) and our ongoing work with &lt;a href="https://greencityforce.org"&gt;Green City Force&lt;/a&gt; to make technology that addresses racial, economic and environmental justice in New York City Housing Authority communities.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr class = "highlight"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/icra2024.png"&gt;&lt;img src = "/img_static/pubs/icra2024.png" alt = "A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Embedded Air Channels Transform Soft Lattices into Sensorized Grippers&lt;/strong&gt;&lt;br&gt;Annan Zhang*, &lt;u&gt;Lillian Chin*&lt;/u&gt;, Daniel L. Tong, Daniela Rus&lt;br&gt;&lt;em&gt;ICRA 2024&lt;/em&gt;&lt;br&gt; &lt;a href="https://www.annanzhang.com/data/pdf/zhang2024embedded.pdf"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; We create a sensorized parallel jaw gripper by printing cubic lattice fingers with embedded air channels. Through 3D printing, we have significantly more control over the location and positioning of the channel sensors. After characterizing the sensor performance from compression, bending and time-dependent effects, we use the gripper to estimate the weight and location of grasped objects. We are able to imitate vision-based tactile sensor results with only 12 sensors. &lt;!--highlight --&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/grocery2024.png"&gt;&lt;img src = "/img_static/pubs/grocery2024.png" alt = "A robot arm grabs a can off of a conveyor belt to pack it in a conveyor belt. Insets demonstrate the two cameras&amp;#39; point of view and the sensorized gripper." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Real-Time Grocery Packing by Integrating Vision, Tactile Sensing, and Soft Fingers&lt;/strong&gt;&lt;br&gt;Valerie Chen*, &lt;u&gt;Lillian Chin*&lt;/u&gt;, Jeana Choi*, Annan Zhang*, Daniela Rus&lt;br&gt;&lt;em&gt;RoboSoft 2024&lt;/em&gt; &lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/document/10521917"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=qetYLCcejTw"&gt;Video&lt;/a&gt; | &lt;a href="https://techcrunch.com/2024/06/30/mits-soft-robotic-system-is-designed-to-pack-groceries/"&gt;TechCrunch&lt;/a&gt; | &lt;a href="https://www.popsci.com/technology/grocery-bagging-robot-self-checkout/"&gt;Popular Science&lt;/a&gt; &lt;br&gt;&lt;br&gt; We combine external vision, soft tactile sensors and motor-based proprioception to create an autonomous grocery packing system. In real-time, our system can grasp an object off a conveyor belt, estimate its size and stiffness and pack a box. Combining multiple modes of sensor feedback reduces in &lt;u&gt;9x fewer damaging packs&lt;/u&gt; than a sensor-less baseline and 4.5x fewer damaging packs than a vision-only baseline.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/bop2024.png"&gt;&lt;img src = "/img_static/pubs/bop2024.png" alt = "A parallel-jaw gripper uses belts embedded within a finger to rotate and translate a toy peach." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;In-Hand Manipulation with a Simple Belted Parallel-Jaw Gripper&lt;/strong&gt;&lt;br&gt;Gregory Xie, Rachel Holladay, &lt;u&gt;Lillian Chin&lt;/u&gt;, Daniela Rus&lt;br&gt;&lt;em&gt;IEEE RA-L&lt;/em&gt;, 2023. Also presented at ICRA@40 &lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/10373080/"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; We create BOP (Belt Orienting Phalanges), a parallel-jaw gripper where each finger has two sets of belts embedded within. By controlling each of the belts, we can control a grasped object&amp;rsquo;s roll, pitch and translation. We demonstrate several instances of in-hand manipulation, including fingernail-style lifting of a thing object and screwing in a lightbulb.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/zhang2023machine.png"&gt;&lt;img src = "/img_static/pubs/zhang2023machine.png" alt = "Machine learning for soft robot proprioception should match the data distribution and sensor inputs" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Machine Learning Best Practices for Soft Robot Proprioception&lt;/strong&gt; &lt;br&gt;Annan Zhang*, Tsun-Hsuan Wang*, Ryan L. Truby, &lt;u&gt;Lillian Chin&lt;/u&gt;, Daniela Rus&lt;br&gt;&lt;em&gt;IROS 2023&lt;/em&gt;&lt;br&gt; &lt;a href="https://ieeexplore.ieee.org/document/10342379"&gt;Paper&lt;/a&gt;&lt;br&gt;&lt;br&gt;Based on experiments on two large soft robotics datasets, we derive best practices for training neural networks that map sensor signals to soft robot shape. Specifically, we analyze a handed shearing auxetic based robot platform with internal pressure-based sensors and a pneumatic trunk with external piezoresistive strain sensors. This analysis suggest several best practices for training a neural net on soft robotics: using relative inputs, including the actuator position, and using gated recurrent units or long short-term memory networks.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/cosimo2023.png"&gt;&lt;img src = "/img_static/pubs/cosimo2023.png" alt = "Comparison of a twisted HSA robot in real-life, simulation and kinematic abstraction." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Modelling Handed Shearing Auxetics: Selective Piecewise Constant Strain Kinematics and Dynamic Simulation&lt;/strong&gt;&lt;br&gt;Maximillian Stölzle, &lt;u&gt;Lillian Chin&lt;/u&gt;, Ryan L. Truby, Daniela Rus, Cosimo Della Santina&lt;br&gt;&lt;em&gt;RoboSoft 2023&lt;/em&gt;. &lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/10121989"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; This paper extends discrete Cosserat rod models to model the movement of handed shearing auxetics (HSAs). By translating the auxetic trajectories to a Cosserat rod + piecewise constant strain model, we can model a four degree of freedom robotic HSA platform to an accuracy of 0.3 mm for position and 0.07 radians for orientation.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr class = "highlight"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/auxbot2022.png"&gt;&lt;img src = "/img_static/pubs/auxbot2022.png" alt = "A robot made out of metal squares and triangles in the closed and expanded states" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Flipper-Style Locomotion through Strong Expanding Modular Robots&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Lillian Chin&lt;/u&gt;, Max Burns*, Gregory Xie*, Daniela Rus&lt;br&gt;&lt;em&gt;IEEE RA-L&lt;/em&gt;, 2022. Also presented at ICRA 2022. &lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/9976216"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=8mhclLQWb_Q"&gt;ICRA Talk&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=l36GjQZS7vU&amp;amp;list=PLdPBfRQbWBGXjGHT0ZJDUz-xapEMAcqFd&amp;amp;index=2&amp;amp;pp=iAQB"&gt;Mashable&lt;/a&gt; &lt;br&gt;&lt;br&gt; &lt;!-- highlight --&gt; We create a force-focused version of our previous expanding robot spheres. By driving an aluminum version of the jitterbug with a leadscrew, we created an expanding robot that can expand 1.6x its original size and &lt;u&gt;exert an expansion force 76x its own weight&lt;/u&gt;. When this robot was used as a module for a larger robot, the overall structure was &lt;u&gt;an order of magnitude faster than existing modular robots&lt;/u&gt; and could &lt;u&gt;haul 1.5x its own weight, even with some modules stalling&lt;/u&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/zhang2022vision.jpg"&gt;&lt;img src = "/img_static/pubs/zhang2022vision.jpg" alt = "Cameras are placed at the top of the handed shearing auxetic fingers to view internal state changes" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Vision-Based Sensing for Electrically-Driven Soft Actuators&lt;/strong&gt;&lt;br&gt;Annan Zhang, Ryan L. Truby, &lt;u&gt;Lillian Chin&lt;/u&gt;, Shuguang Li, Daniela Rus&lt;br&gt;&lt;em&gt;IEEE RA-L&lt;/em&gt;, 2022. Also presented at IROS 2022.&lt;br&gt; &lt;a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=9866780"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt;We use cameras to record the interior of compliant electric actuators and train a neural network that maps the visual feedback to the actuator&amp;rsquo;s tip pose. Our method presents a robust approach for sensorizing hollow-bodied actuators and provides accurate predictions in the presence of external disturbances.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr class = "highlight"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/truby2022fluidic.png"&gt;&lt;img src = "/img_static/pubs/truby2022fluidic.png" alt = "See-through rendered view of a lattice, showing internal fluid chambers" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Fluidic Innervation Sensorizes Structures from a Single Build Material&lt;/strong&gt;&lt;br&gt;Ryan L. Truby*, &lt;u&gt;Lillian Chin*&lt;/u&gt;, Annan Zhang, Daniela Rus&lt;br&gt;&lt;strong&gt;Science Advances&lt;/strong&gt;, 2022&lt;br&gt;&lt;a href="https://www.science.org/doi/pdf/10.1126/sciadv.abq4385"&gt;Paper&lt;/a&gt; | &lt;a href="https://news.mit.edu/2022/materials-sense-movements-0810"&gt;MIT News&lt;/a&gt; &lt;br&gt;&lt;br&gt; We develop a new sensorization technique: embed empty air-filled channels within a 3D printed structure. As the structure is moved or pressed, the channels will report a measurable change in pressure. Using this technique, we collected &lt;u&gt;the largest soft robotics movement dataset (18 hours)&lt;/u&gt;. This allowed us to predict a 4 degree-of-freedom robotic platform&amp;rsquo;s movement to &lt;u&gt;within 8% error, using only 12 sensors&lt;/u&gt; &lt;!-- highlight --&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/brandon2022.png"&gt;&lt;img src = "/img_static/pubs/brandon2022.png" alt = "Pseudocode for the HILO algorithm, that takes in a markov decision process and trajectories to return an optimal plan" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Learning Policies by Learning Rules&lt;/strong&gt;&lt;br&gt;Brandon Araki, Jeana Choi, &lt;u&gt;Lillian Chin&lt;/u&gt;, Xiao Li, Daniela Rus&lt;br&gt;&lt;em&gt;IEEE RA-L&lt;/em&gt;, 2021. &lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/9667222"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; We present Hierarchical Inference with Logical Options (HILO), a Bayesian model that operates on linear temporal logic (LTL) formulas. By operating over LTL formulas and low-level trajectories, the model is able to find an optimal policy while maintaining interpretability. HILO outperforms other methods on planning tasks and is validated in the real world on a grocery packing task.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/jeopardy2021.png"&gt;&lt;img src = "/img_static/pubs/jeopardy2021.png" alt = "A picture of the author (Lilly Chin) on Jeopardy but her head is replaced with a clam" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;How to Survive a Public Faming: Understanding &amp;ldquo;The Spiciest Memelord&amp;rdquo; via the Temporal Dynamics of Involuntary Celebrification&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Lillian Chin&lt;/u&gt;&lt;br&gt;&lt;em&gt;First Monday&lt;/em&gt;, 2021. &lt;br&gt;&lt;a href="https://journals.uic.edu/ojs/index.php/fm/article/view/11674"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=2cLUMUEMUzc"&gt;CUNY, Queens College Talk&lt;/a&gt; &lt;br&gt;&lt;br&gt; The author conducts an autoethnography about her experiences on Jeopardy, an American TV show. By reflecting on the harassment she got, she connects her experience to other people who were &amp;ldquo;publicly famed&amp;rdquo; exposing a gap in the critical literature on celebrity. She introduces the technique of &amp;ldquo;radical reciprocity&amp;rdquo; as a way to combat the effects of unwanted fame, on both the temporalities of celebrity and microcelebrity.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/colearning2021.png"&gt;&lt;img src = "/img_static/pubs/colearning2021.png" alt = "Overview of a machine learning algorithm to determine optimal sensor placement within a simulated gripper" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Co-Learning of Task and Sensor Placement for Soft Robotics&lt;/strong&gt;&lt;br&gt;Andy Spielberg*, Alexander Amini*, &lt;u&gt;Lillian Chin&lt;/u&gt;, Woijech Matusik, Daniela Rus&lt;br&gt;&lt;em&gt;IEEE RA-L&lt;/em&gt;, 2021. &lt;strong&gt;Nominated for Best Paper at Robosoft 2021&lt;/strong&gt;&lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/9345345"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=MSa7D0FvxqY"&gt;Video&lt;/a&gt; | &lt;a href="https://news.mit.edu/2021/sensor-soft-robots-placement-0322"&gt;MIT News&lt;/a&gt; &lt;br&gt;&lt;br&gt; We introduce a machine learning technique to design a soft robot&amp;rsquo;s sensor placement for a specific task. We assume that the soft robot is simulated using the material point method and then sparsify the number of sensors in the overall structure while maintaining high performance. We demonstrate the viability of this task in simulation for grasp prediction, learned proprioception and control of a quadruped. Our method significantly outperforms human and machine learning baselines and is resistant to sensor noise.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/3dprintHSA2021.jpg"&gt;&lt;img src = "/img_static/pubs/3dprintHSA2021.jpg" alt = "A bent handed shearing auxetic tube, with another tube inside of it" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;A Recipe for Electrically-Driven Soft Robots via 3D Printed Handed Shearing Auxetics&lt;/strong&gt;&lt;br&gt;Ryan L. Truby*, &lt;u&gt;Lillian Chin*&lt;/u&gt;, Daniela Rus&lt;br&gt;&lt;em&gt;IEEE RA-L&lt;/em&gt;, 2021. Also presented at Robosoft 2021&lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/9326362"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; We introduce a new way of fabricating handed shearing auxetic fingers. Rather than laser cutting them, we print them using a resin-based printer. This allows us to experiment with more materials and make more modifications to the underlying geometry without sacrificing resolution.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr class = "highlight"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/multiplexedManip2020.png"&gt;&lt;img src = "/img_static/pubs/multiplexedManip2020.png" alt = "A robot gripper grabs a plastic banana in three ways: suction, parallel-jaw and soft fingers." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Multiplexed Manipulation: Versatile Multimodal Grasping via a Hybrid Soft Gripper&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Lillian Chin&lt;/u&gt;, Felipe Barscevicius, Jeffrey Lipton, Daniela Rus&lt;br&gt;&lt;em&gt;ICRA 2020&lt;/em&gt;&lt;br&gt;&lt;a href="https://dspace.mit.edu/handle/1721.1/137301.2"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=NWzDpKNGdXk"&gt;Video&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=npoUdod4fvI"&gt;ICRA Talk&lt;/a&gt; &lt;br&gt;&lt;br&gt; Rather than have separate systems for different grasping modes, we introduce multiplexed manipulation: a gripper that combines parallel jaw, suction and soft finger grasping into one system. By combining these different modes together, we are able to grasp 20% more objects than single grasping modes alone. We are also able to perform rudimentary in-hand manipulation with flat objects by suctioning them up and pinching them between the fingers.&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;!-- highlight --&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/auxbot2019.png"&gt;&lt;img src = "/img_static/pubs/auxbot2019.png" alt = "A robot made up of two layers of spring steel in its closed and expanded states." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Modular Volumetric Actuators Using Motorized Auxetics&lt;/strong&gt;&lt;br&gt;Jeffrey Lipton, &lt;u&gt;Lillian Chin&lt;/u&gt;, Jacob Miske, Daniela Rus&lt;br&gt;&lt;em&gt;IROS 2019&lt;/em&gt;&lt;br&gt;&lt;a href="https://ieeexplore.ieee.org/abstract/document/8968187"&gt;Paper&lt;/a&gt; | &lt;a href="/Auxbot_v1_IROS.pdf"&gt;PDF&lt;/a&gt; &lt;br&gt;&lt;br&gt; We use the mathematical model of &amp;ldquo;rotating polygons for auxetic materials&amp;rdquo; to create robots that can expand at will by rotating one degree-of-freedom. These spring-steel robots can expand 1.2x their original volume in 0.25 seconds. We demonstrate how these robots can perform vertical tube crawling through peristaltic locomotion.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/recycling2019.png"&gt;&lt;img src = "/img_static/pubs/recycling2019.png" alt = "A robot waits over a conveyor belt next to recycling bins" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Automated Recycling Separation Enabled by Soft Robotic Material Classification&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Lillian Chin&lt;/u&gt;, Jeffrey Lipton, Michelle C Yuen, Rebecca Kramer-Bottiglio, Daniela Rus&lt;br&gt;&lt;strong&gt;Won Best Poster at Robosoft 2019&lt;/strong&gt;&lt;br&gt;&lt;a href="https://dspace.mit.edu/handle/1721.1/124001"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=slAZS78QmoA"&gt;Video&lt;/a&gt; | &lt;a href="https://www.bbc.com/news/av/technology-47826476/the-robot-that-sorts-out-recycling"&gt;BBC&lt;/a&gt; | &lt;a href="https://www.scientificamerican.com/article/can-robots-help-pick-up-after-the-recycling-crisis/"&gt;Scientific American&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=1mxaN_xqQh4"&gt;CNBC&lt;/a&gt; &lt;br&gt;&lt;br&gt; Through collaboration with &lt;a href="https://www.michellecyuen.com"&gt;Michelle Yuen&lt;/a&gt;&amp;rsquo;s soft capactitve strain and pressure sensors, we extended our stiffness and size algorithm to now sort objects based on material: metal, paper and plastic. We demonstrated this on a mock recycling system, demonstrating how the overall system was puncture resistant and effective on pathological examples.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/icra2019.jpg"&gt;&lt;img src = "/img_static/pubs/icra2019.jpg" alt = "A robot hand. One finger is covered with a gray sock while the other shows a handed shearing auxetic finger with a strain sensor on the back and a pressure sensor on the front." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;A Simple Electric Soft Robotic Gripper with High-deformation Haptic Feedback&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Lillian Chin&lt;/u&gt;, Michelle C Yuen, Jeffrey Lipton, Luis H Trueba, Rebecca Kramer-Bottiglio, Daniela Rus&lt;br&gt;&lt;em&gt;ICRA 2019&lt;/em&gt;&lt;br&gt;&lt;a href="https://dspace.mit.edu/handle/1721.1/121154"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=VASZ8P1mPsw"&gt;Video&lt;/a&gt; &lt;br&gt;&lt;br&gt; Through collaboration with &lt;a href="https://www.michellecyuen.com"&gt;Michelle Yuen&lt;/a&gt;&amp;rsquo;s soft capactitve strain and pressure sensors, we created a simple hand that could tell the stiffness and size of objects. With linear regression and a test set of 4 objects, we could estimate radius to within 33% and tell hard from soft with 78% accuracy.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr class = "highlight"&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/hsa2018.png"&gt;&lt;img src = "/img_static/pubs/hsa2018.png" alt = "A handed shearing auxetic extending as it is twisted" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Compliant Electric Actuators Based on Handed Shearing Auxetics&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Lillian Chin&lt;/u&gt;, Jeffrey Lipton, Robert MacCurdy, John Romanishin, Chetan Sharma, Daniela Rus&lt;br&gt;&lt;em&gt;RoboSoft 2018&lt;/em&gt;&lt;br&gt;&lt;a href="https://dspace.mit.edu/handle/1721.1/116908"&gt;Paper&lt;/a&gt; | &lt;a href="https://www.youtube.com/watch?v=53NXnPTG9Ik"&gt;Video&lt;/a&gt; &lt;br&gt;&lt;br&gt; By combining handed shearing auxetics of opposite handedness together, we can create a linear actuator. By adding a constraint to the pattern, we can create soft fingers. From these building blocks, we create a 4 degree-of-freedom robotic platform that can &lt;u&gt;extend up to 60% of its original length and twist up to 280 degrees&lt;/u&gt;. We also create a soft robotic hand that is &lt;u&gt;20x more power efficient and 2x faster&lt;/u&gt; than comparable pneuamtic-based soft hands, while achieving similar grasp performance. &lt;!-- highlight --&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/hsaMath2018.png"&gt;&lt;img src = "/img_static/pubs/hsaMath2018.png" alt = "Render showing how a repeated unit cell of a parallelogram and a rectangle creates a handed shearing auxetic structure" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Handedness in Shearing Auxetics Creates Rigid and Compliant Structures&lt;/strong&gt;&lt;br&gt;Jeffrey Ian Lipton, Robert MacCurdy, Zachary Manchester, &lt;u&gt;Lillian Chin&lt;/u&gt;, Daniel Cellucci, Daniela Rus&lt;br&gt;&lt;strong&gt;Science&lt;/strong&gt;, 2018&lt;br&gt;&lt;a href="https://www.science.org/doi/full/10.1126/science.aar4586"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; Traditional auxetic materials have a unit cell that is symmetric. As the material expands, the unit cells rotate against each other until reaching a maximum point of expansion and collapsing down into the opposite symmetry. If we intentionally break this symmetry, we can create shear movement and make it impossible to collapse from one handedness to another. We call this handed shearing auxetics and demonstrate the potential for this class of material to create actuators.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/forceps2018.png"&gt;&lt;img src = "/img_static/pubs/forceps2018.png" alt = "Obstetrical forceps with a modified handle, allowing for quick change and rotation" style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Obstetrical Forceps With Passive Rotation and Sensor Feedback&lt;/strong&gt;&lt;br&gt;Judith M Beaudoin, &lt;u&gt;Lillian T Chin&lt;/u&gt;, Hannah M Zlotnick, Thomas M Cervantes, Alexander H Slocum, Julian N Robinson, Sarah C Lassey&lt;br&gt;&lt;em&gt;Design of Medical Devices 2018&lt;/em&gt;&lt;br&gt;&lt;a href="https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T11A004/272007"&gt;Paper&lt;/a&gt; &lt;br&gt;&lt;br&gt; We introduce a new design for obstetric forceps based on clinician feedback. To allow for delivery of babies in non-standard (non-occiput anterior) positions, we create forceps with a passively rotating handle and quick change blades for easier use. We also explore an additional sensing attachment to provide force / direction feedback to obstetricians to reduce the learning curve for forceps use.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ 
+ &lt;tr&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;td&gt; &lt;a href="/img_static/pubs/agstev2016.png"&gt;&lt;img src = "/img_static/pubs/agstev2016.png" alt = "A robot arm with a projector attached to it points at a bone on a turntable." style = "margin: 0em;"&gt; &lt;/a&gt;&lt;/td&gt;
+ 
+ 
+ 
+ 
+ &lt;td&gt;&lt;strong&gt;Conformal Robotic Stereolithography&lt;/strong&gt;&lt;br&gt; Adam G. Stevens, C. Ryan Oliver, Matthieu Kirchmeyer, Jieyuan Wu, &lt;u&gt;Lillian Chin&lt;/u&gt;, Erik S. Polsen, Chad Archer, Casey Boyle, Jenna Garber, and A. John Hart &lt;br&gt;&lt;em&gt;3D Printing and Additive Manufacturing&lt;/em&gt;, 2016&lt;br&gt;&lt;a href="https://www.liebertpub.com/doi/abs/10.1089/3dp.2016.0042"&gt;Paper&lt;/a&gt;&lt;br&gt;&lt;br&gt;By attaching a projector to the end of a six-axis robot arm, we are able to perform stereolithography printing on curved surfaces. Rather than be limited to the standard planar layer of traditional 3D printing, we can create freeform high precision prints.&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+&lt;/table&gt;</description></item><item><title>Research</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;h1 id="active-projects"&gt;Active Projects&lt;/h1&gt;
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class="small-figure" &gt;
+ &lt;a href="/img/icra2024.png"&gt;
  &lt;img
  loading="lazy"
  sizes="(min-width: 35em) 816px, 400px, 100vw (max-width: 816)" 
@@ -1027,9 +1047,9 @@
  /img/icra2024_hu_2f6d54bf2a694f6b.png 800w '
  src="/img/icra2024.png"
  alt='A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers.'
- />
- &lt;/a>
+ /&gt;
+ &lt;/a&gt;
  
-&lt;/figure>
-&lt;h2 id="blind-grasping">Blind Grasping&lt;/h2>
-&lt;p>Current robots can do impressive grasping tasks with cameras and other forms of computer vision. However, humans are able to accomplish more dexterous manipulations without any vision, such as striking a match, juggling or solving a Rubik&amp;rsquo;s cube. There is a clear need to build the tactile sensors, end effectors and algorithms to imitate non-visual human manipulation.&lt;/p></description></item></channel></rss>
+&lt;/figure&gt;
+&lt;h2 id="blind-grasping"&gt;Blind Grasping&lt;/h2&gt;
+&lt;p&gt;Current robots can do impressive grasping tasks with cameras and other forms of computer vision. However, humans are able to accomplish more dexterous manipulations without any vision, such as striking a match, juggling or solving a Rubik&amp;rsquo;s cube. There is a clear need to build the tactile sensors, end effectors and algorithms to imitate non-visual human manipulation.&lt;/p&gt;</description></item></channel></rss>

@@ -32,6 +32,10 @@ Siqi Shang sits on the stairs
 Tuo Wang in graduation regalia
 **Tuo Wang**<br>PhD Student<br>Electrical and Computer Engineering<br><br>Tuo is a PhD student in Electrical and Computer Engineering at the University of Texas at Austin. With a keen interest in redefining the boundaries of robotics, Tuo's research centers on enhancing the geometry, intelligence, agility, and interactivity of robots. Outside of the lab, Tuo is passionate about landscape photography and enjoys playing basketball and various board games.
 
+/img_static/people/benito.jpeg
+Benito Ribadeneira stands in front of plants
+**Benito Ribadeneira**<br>Masters Student<br>Mechanical Engineering<br><br>Benito received his B.S. in Mechanical Engineering from EPN university in Ecuador. After graduation, he worked for 2 years as a field engineer in the oil and gas industry and currently is pursuing his M.S in Mechanical Engineering focusing his path career in mechanical design and robotics. Outside the lab he enjoys dancing and sand volleyball.
+
 /img_static/people/rishit.jpg
 Headshot of Rishit Arora
 **Rishit Arora**<br>Undergraduate Student<br>Electrical and Computer Engineering
@@ -39,10 +43,6 @@ Headshot of Rishit Arora
 /img_static/people/andrew.jpg
 Andrew Kwa poses with a peace sign
 **Andrew Kwa**<br>Undergraduate Student<br>Electrical and Computer Engineering<br><br>Andrew is a third-year Electrical and Computer Engineering student at UT Austin. In his free time, he is a gamer, pianist, artist and avid reader.
-
-/img_static/people/morris.jpg
-Headshot of Morris Lin
-**Morris Lin**<br>Undergraduate Student<br>Electrical and Computer Engineering<br><br>Morris is a 3rd-year ECE undergrad at the University of Texas at Austin, exploring his interests in embedded systems and digital signal processing. Outside of academics he enjoys music, hiking, video games, and marches with the Longhorn Band.
 
 /img_static/people/joseph.PNG
 Headshot of Joseph Romero
@@ -65,12 +65,12 @@ Headshot of Gu-Cheol Jeong
 Headshot of Chongxun Wang
 **Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Fangzhou Xia](https://xiafz.info)
 
-/img_static/logo.png
-Placeholder
+/img_static/people/hasif.jpg
+Headshot of Hasif Shaikh
 **Hasif Shaikh**<br>Masters Student<br>Electrical and Computer Engineering<br>Collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
 
-/img_static/logo.png
-Placeholder
+/img_static/people/rahul.jpg
+Headshot of Rahul Iyer
 **Rahul Iyer**<br>Undergraduate Student<br>Computer Science<br>Collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
 {{< /list-table >}}
 
@@ -81,6 +81,11 @@ Who
 What
 When
 Where Next?
+
+Morris Lin
+UT Austin Undergrad<br>Electrical and Computer Engineering
+Summer 2025
+Junior Year at UT Austin
 
 [Darren Au](https://www.darrenau.com)
 UT Austin Undergrad<br>Mechanical Engineering

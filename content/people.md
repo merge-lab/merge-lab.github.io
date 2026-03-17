@@ -14,7 +14,7 @@ If you would like to join MERGe Lab, please read [**this FAQ page**](https://lil
 {{< list-table header=false imageCol=true class="bootstrap" >}}
 /img_static/people/ltchin.jpg
 Lilly Chin sits by the fire, ready to burn her thesis
-**[Lillian (Lilly) Chin](https://lillych.in)** - she/him<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br>Courtesy Appointment, Mechanical Engineering<br><br>**Office:** [EER](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/) 4.820<br>**Lab Space:** EER 4.884 and 4.884A<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)<br><br>Lilly received his SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on his guinea pig.
+**[Lillian (Lilly) Chin](https://lillych.in)** - she/him<br>Principal Investigator<br>Assistant Professor, Electrical and Computer Engineering, UT Austin<br>Courtesy Appointment, Mechanical Engineering<br><br>**Office:** [EER](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/EER/) 4.820<br>**Lab Space:** EER 4.884 and 4.884A<br>**Contact form:** [Link](https://litchin.wordpress.com/contact/)<br><br>Lilly received his SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Outside of the lab, she enjoys dancing, cross stitch, video games, and doting on guinea pigs.
 
 /img_static/people/david.JPG
 David Bershadsky stands in front of a painting
@@ -35,6 +35,10 @@ Benito Ribadeneira stands in front of plants
 /img_static/people/rishit.jpg
 Headshot of Rishit Arora
 **Rishit Arora**<br>Undergraduate Student<br>Electrical and Computer Engineering
+
+/img_static/logo.png
+Placeholder
+**Manav Karonde**<br>Undergraduate Student<br>Computer Science
 
 /img_static/people/andrew.jpg
 Andrew Kwa poses with a peace sign

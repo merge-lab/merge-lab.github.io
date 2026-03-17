@@ -28,10 +28,6 @@ Bill Fan poses in front of a mountain landscape
 Siqi Shang sits on the stairs
 **[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering
 
-/img_static/people/tuo.jpg
-Tuo Wang in graduation regalia
-**Tuo Wang**<br>PhD Student<br>Electrical and Computer Engineering<br><br>Tuo is a PhD student in Electrical and Computer Engineering at the University of Texas at Austin. With a keen interest in redefining the boundaries of robotics, Tuo's research centers on enhancing the geometry, intelligence, agility, and interactivity of robots. Outside of the lab, Tuo is passionate about landscape photography and enjoys playing basketball and various board games.
-
 /img_static/people/benito.jpeg
 Benito Ribadeneira stands in front of plants
 **Benito Ribadeneira**<br>Masters Student<br>Mechanical Engineering<br><br>Benito received his B.S. in Mechanical Engineering from EPN university in Ecuador. After graduation, he worked for 2 years as a field engineer in the oil and gas industry and currently is pursuing his M.S in Mechanical Engineering focusing his path career in mechanical design and robotics. Outside the lab he enjoys dancing and sand volleyball.
@@ -48,26 +44,14 @@ Andrew Kwa poses with a peace sign
 Headshot of Joseph Romero
 **Joseph Romero**<br>Undergraduate Student<br>Mechanical Engineering
 
-/img_static/people/ava.jpg
-Headshot of Ava Chao Schraeder
-**Ava Chao Schraeder**<br>Undergraduate Student<br>Mechanical Engineering
-
 {{< /list-table >}}
 
 ## Collaborators
 <!-- image link, alt text + as many rows as you want -->
 {{< list-table header=false imageCol=true class="bootstrap" >}}
-/img_static/people/Gucheol.jpg
-Headshot of Gu-Cheol Jeong
-**Gu-Cheol Jeong**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Ashish Deshpande](https://reneu.robotics.utexas.edu/members/ashish-deshpande), collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
-
 /img_static/people/chongxun.jpg
 Headshot of Chongxun Wang
 **Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Fangzhou Xia](https://xiafz.info)
-
-/img_static/people/hasif.jpg
-Headshot of Hasif Shaikh
-**Hasif Shaikh**<br>Masters Student<br>Electrical and Computer Engineering<br>Collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
 
 /img_static/people/rahul.jpg
 Headshot of Rahul Iyer
@@ -81,6 +65,21 @@ Who
 What
 When
 Where Next?
+
+Ava Schraeder
+UT Austin Undergrad<br>Mechanical Engineering
+2024-2026
+Co-op at Johnson Space Center; Senior Year at UT Austin
+
+Hasif Shaikh
+UT Austin Undergrad and Masters<br>Electrical and Computer Engineering
+2024-2026
+AMD
+
+Tuo Wang
+UT Austin PhD<br>Electrical and Computer Engineering
+2024-2026
+Startup in stealth mode
 
 Morris Lin
 UT Austin Undergrad<br>Electrical and Computer Engineering

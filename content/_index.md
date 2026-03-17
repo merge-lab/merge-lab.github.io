@@ -6,7 +6,10 @@ description: MERGe Lab at University of Texas, Austin
 
 Welcome to the homepage of the MERGe Lab, where we are working on making **M**aterials **E**mbody **R**obots, **Ge**ometrically. We are located at [UT Austin's Electrical and Computer Engineering](https://www.ece.utexas.edu) department and led by Professor [Lillian Chin](https://lillych.in). We *merge* ideas across disciplines and see what interesting robots *emerge* as a result.
 
-> If you are interested in working with us, current UT students should apply via [Google Form](https://forms.gle/hcNBhfdLESvLXg1c8), while prospective grad students should apply to UT ECE / MechE directly. Please read [**this FAQ page**](https://lillych.in/faq/admissions/) for more information.
+> If you are interested in working with us, please read [**this FAQ page**](https://lillych.in/faq/admissions/) for more information.
+> * Current UT students should apply via [Google Form](https://forms.gle/hcNBhfdLESvLXg1c8)
+> * Prospective grad students should apply to UT ECE / MechE directly
+> * We do not take high school students or first semester freshmen
 
 We are broadly interested in the following research questions:
 1. Design of novel actuators and sensors through geometry

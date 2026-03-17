@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MERGe Lab</title><link>/</link><description>Recent content in Home on MERGe Lab</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Career Resources</title><link>/resources/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resources/career/</guid><description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;This page is under construction.&lt;/strong&gt; Eventually, it will have links to helpful links for writing and other teaching resources.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;This page is under construction.&lt;/strong&gt; Eventually, it will have links to helpful links for writing and other teaching resources.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Getting into grad school
 &lt;ul&gt;
@@ -13,8 +14,22 @@
 &lt;/li&gt;
 &lt;li&gt;Finding a postdoc&lt;/li&gt;
 &lt;li&gt;Finding a faculty job&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>&lt;h2 id="2025"&gt;2025&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>News</title><link>/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/</guid><description>&lt;h2 id="2026"&gt;2026&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mar. 2026&lt;/strong&gt; &amp;ndash; Jax will be joining MERGe Lab as a PhD student in the fall. Welcome!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mar. 2026&lt;/strong&gt; &amp;ndash; Siqi, Andrew, Chong, and Bill all sent out papers to IROS 2026. Best of luck!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb. 2026&lt;/strong&gt; &amp;ndash; Siqi&amp;rsquo;s paper on &lt;a href="https://merge-lab.github.io/FORTE/"&gt;FORTE&lt;/a&gt; is published at &lt;a href="https://ieeexplore.ieee.org/abstract/document/11386900"&gt;RA-L&lt;/a&gt; with &lt;a href="https://news.utexas.edu/2026/03/10/robot-hands-so-sensitive-they-can-grab-a-potato-chip/"&gt;news coverage&lt;/a&gt;! We will be presenting at ICRA 2026 in Vienna!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feb. 2026&lt;/strong&gt; &amp;ndash; David&amp;rsquo;s paper on &amp;ldquo;Seamless Mechanical Programming of Soft-Rigid Robots through Hybrid Epoxy-Acrylate Printing&amp;rdquo; has been submitted to Science Robotics!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan. 2026&lt;/strong&gt; &amp;ndash; Ava and Hrishi&amp;rsquo;s paper on &amp;ldquo;&lt;a href="https://arxiv.org/abs/2602.13436"&gt;High-Fidelity, Customizable Force Sensing for the Wearable Human-Robot Interface&lt;/a&gt;&amp;rdquo; has been submitted to BioRob 2026!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan. 2026&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; and 9 other PIs won internal funding from &lt;a href="https://bridgingbarriers.utexas.edu/news/good-systems-awards-seed-grants-six-faculty-teams-advancing-human-centered-ai"&gt;Good Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2025"&gt;2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dec. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; has been selected as a Toyota Research Institute Young Faculty Researcher!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov. 2025&lt;/strong&gt; &amp;ndash; Ava and Hrishi&amp;rsquo;s sensor culminates in the &lt;a href="https://cockrell.utexas.edu/news/wired-for-rhythm/"&gt;Rooted in Motion&lt;/a&gt; dance show!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; was invited to be a keynote speaker at &lt;a href="https://www.iros25.org/"&gt;IROS&lt;/a&gt; but unfortunately had to decline due to Texas travel restrictions on China.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; gave a talk at the UT San Antonio Mechanical, Aerospace and Industrial Engineering Seminar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://lillych.in"&gt;Lilly&lt;/a&gt; gave a talk at Wesleyan&amp;rsquo;s College of Design and Engineering Studies Seminar. She also taught a guest lecture on tactile sensing&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sep. 2025&lt;/strong&gt; &amp;ndash; Benito has joined MERGe Lab as a Masters student. Welcome!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Aug. 2025&lt;/strong&gt; &amp;ndash; Gu-Cheol&amp;rsquo;s paper on &lt;a href="https://robin-lab.cs.utexas.edu/BiFlex/"&gt;BiFlex&lt;/a&gt; has been accepted to RA-L!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jun. 2025&lt;/strong&gt; &amp;ndash; &lt;a href="https://siqishang.github.io"&gt;Siqi&lt;/a&gt;&amp;rsquo;s paper on &lt;a href="https://merge-lab.github.io/FORTE/"&gt;FORTE&lt;/a&gt; has been submitted to T-RO and &lt;a href="https://arxiv.org/abs/2506.18960"&gt;arXiv&lt;/a&gt;!&lt;/li&gt;
@@ -53,10 +68,10 @@
  &lt;img
  loading="lazy"
  sizes="(min-width: 35em) 2891px, 400px, 100vw (max-width: 2891)" 
- srcset=' /img/social/labSocial_header_hu_b39f24a37360ecbb.png 200w 
- /img/social/labSocial_header_hu_5e8f9e9240b71c6b.png 400w 
- /img/social/labSocial_header_hu_e87fa274a61753d7.png 600w 
- /img/social/labSocial_header_hu_896c118a9c9ee8dd.png 800w '
+ srcset=' /img/social/labSocial_header_hu_7a2e909e18c39fc2.png 200w 
+ /img/social/labSocial_header_hu_4a9dd2c502f08244.png 400w 
+ /img/social/labSocial_header_hu_80852871aeef984a.png 600w 
+ /img/social/labSocial_header_hu_fed9de3ecf175dad.png 800w '
  src="/img/social/labSocial_header.png"
  alt='A group of people stand in front of a wall of bowling pins. They are happily showing off the prizes they won at the carde'
  /&gt;
@@ -1041,10 +1056,10 @@
  &lt;img
  loading="lazy"
  sizes="(min-width: 35em) 816px, 400px, 100vw (max-width: 816)" 
- srcset=' /img/icra2024_hu_22b64f93b84a4646.png 200w 
- /img/icra2024_hu_1039660296910768.png 400w 
- /img/icra2024_hu_37d8ac2a1e6839c1.png 600w 
- /img/icra2024_hu_2f6d54bf2a694f6b.png 800w '
+ srcset=' /img/icra2024_hu_9f2aa1e9b1f55206.png 200w 
+ /img/icra2024_hu_cfe607ffe073aed6.png 400w 
+ /img/icra2024_hu_f6a380943d4b8ee7.png 600w 
+ /img/icra2024_hu_46672adeb7daf368.png 800w '
  src="/img/icra2024.png"
  alt='A sensorized robot gripper grasps a mustard bottle. It is sensorized through embedded air channels within the cubic lattice fingers.'
  /&gt;

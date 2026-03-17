@@ -1,6 +1,7 @@
 <!-- Taken from https://mertbakir.gitlab.io/hugo/nanogallery2-with-hugo/ -->
 
-{{ $nanogallery2_settings := getJSON "/static/ng2_gallery_compact.json" | jsonify}}
+{{ $remoteData := resources.GetRemote "/static/ng2_gallery_compact.json" }}
+{{ $nanogallery2_settings := $remoteData | transform.Unmarshal }}
 {{ $captions := readFile (.Get "captionFile")}}
 {{ $captions := split $captions "\n" }}
 

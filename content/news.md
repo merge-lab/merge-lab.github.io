@@ -1,7 +1,20 @@
 ---
 title: News
 ---
+## 2026
+* **Mar. 2026** -- Jax will be joining MERGe Lab as a PhD student in the fall. Welcome!
+* **Mar. 2026** -- Siqi, Andrew, Chong, and Bill all sent out papers to IROS 2026. Best of luck!
+* **Feb. 2026** -- Siqi's paper on [FORTE](https://merge-lab.github.io/FORTE/) is published at [RA-L](https://ieeexplore.ieee.org/abstract/document/11386900) with [news coverage](https://news.utexas.edu/2026/03/10/robot-hands-so-sensitive-they-can-grab-a-potato-chip/)! We will be presenting at ICRA 2026 in Vienna!
+* **Feb. 2026** -- David's paper on "Seamless Mechanical Programming of Soft-Rigid Robots through Hybrid Epoxy-Acrylate Printing" has been submitted to Science Robotics!
+* **Jan. 2026** -- Ava and Hrishi's paper on "[High-Fidelity, Customizable Force Sensing for the Wearable Human-Robot Interface](https://arxiv.org/abs/2602.13436)" has been submitted to BioRob 2026!
+* **Jan. 2026** -- [Lilly](https://lillych.in) and 9 other PIs won internal funding from [Good Systems](https://bridgingbarriers.utexas.edu/news/good-systems-awards-seed-grants-six-faculty-teams-advancing-human-centered-ai)
+
 ## 2025
+* **Dec. 2025** -- [Lilly](https://lillych.in) has been selected as a Toyota Research Institute Young Faculty Researcher!
+* **Nov. 2025** -- Ava and Hrishi's sensor culminates in the [Rooted in Motion](https://cockrell.utexas.edu/news/wired-for-rhythm/) dance show!
+* **Nov. 2025** -- [Lilly](https://lillych.in) was invited to be a keynote speaker at [IROS](https://www.iros25.org/) but unfortunately had to decline due to Texas travel restrictions on China.
+* **Oct. 2025** -- [Lilly](https://lillych.in) gave a talk at the UT San Antonio Mechanical, Aerospace and Industrial Engineering Seminar
+* **Oct. 2025** -- [Lilly](https://lillych.in) gave a talk at Wesleyan's College of Design and Engineering Studies Seminar. She also taught a guest lecture on tactile sensing
 * **Sep. 2025** -- Benito has joined MERGe Lab as a Masters student. Welcome!
 * **Aug. 2025** -- Gu-Cheol's paper on [BiFlex](https://robin-lab.cs.utexas.edu/BiFlex/) has been accepted to RA-L!
 * **Jun. 2025** -- [Siqi](https://siqishang.github.io)'s paper on [FORTE](https://merge-lab.github.io/FORTE/) has been submitted to T-RO and [arXiv](https://arxiv.org/abs/2506.18960)!

@@ -26,7 +26,7 @@ Bill Fan poses in front of a mountain landscape
 
 /img_static/people/siqi.png
 Siqi Shang sits on the stairs
-**[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering
+**[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering<br><br>Siqi Shang’s research focuses on robotic manipulation, tactile sensing, and physically grounded robot learning.
 
 /img_static/people/benito.jpeg
 Benito Ribadeneira stands in front of plants

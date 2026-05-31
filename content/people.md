@@ -24,9 +24,9 @@ David Bershadsky stands in front of a painting
 Bill Fan poses in front of a mountain landscape
 **[Bill Fan](https://bill-fan.xyz)**  - they/any<br>PhD Student<br>Electrical and Computer Engineering<br><br>Bill is a first-year PhD student interested in computational design, and the intersection of design justice and robotics. They completed their BS in robotics engineering at Olin College of Engineering. Outside of the lab, they enjoy hiking, cooking, and taking care of their houseplants.
 
-/img_static/people/siqi.png
+/img_static/people/siqi.jpeg
 Siqi Shang sits on the stairs
-**[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering<br><br>Siqi Shang’s research focuses on robotic manipulation, tactile sensing, and physically grounded robot learning.
+**[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering<br><br> Siqi received his MS in CS from Columbia University and BS in CS from CUHK. His research focuses on robotic manipulation, tactile sensing, and physically grounded robot learning.
 
 /img_static/people/benito.jpeg
 Benito Ribadeneira stands in front of plants

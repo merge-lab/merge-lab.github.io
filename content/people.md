@@ -36,7 +36,7 @@ Headshot of David Gutierrez
 Headshot of Emiliano Hansen
 **Emiliano Hansen**<br>PhD Student<br>Mechanical Engineering<br><br>Emiliano received his B.S. from Cal Poly SLO, where he worked on tensegrity structures, continuum robots, and advanced manufacturing. Outside of the lab, he enjoys graphic design, traveling, and trying new foods.
 
-/img_static/logo.png
+/img_static/people/jax.jpg
 Headshot of Jax Marrone
 **Jax Marrone**<br>PhD Student<br>Electrical and Computer Engineering<br><br>
 
@@ -51,10 +51,6 @@ Siqi Shang sits on the stairs
 /img_static/people/joseph.PNG
 Headshot of Joseph Romero
 **Joseph Romero**<br>Masters Student<br>Mechanical Engineering
-
-/img_static/people/rishit.jpg
-Headshot of Rishit Arora
-**Rishit Arora**<br>Undergraduate Student<br>Electrical and Computer Engineering
 
 /img_static/people/tanish.jpeg
 Headshot of Tanish Doorsala
@@ -89,9 +85,7 @@ Headshot of Zach Wang
 Headshot of Chongxun Wang
 **Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Fangzhou Xia](https://xiafz.info)
 
-/img_static/people/rahul.jpg
-Headshot of Rahul Iyer
-**Rahul Iyer**<br>Undergraduate Student<br>Computer Science<br>Collaborating with [Roberto Martín-Martín](https://robertomartinmartin.com/)
+
 {{< /list-table >}}
 
 ## Alumni
@@ -101,6 +95,11 @@ Who
 What
 When
 Where Next?
+
+Rishit Arora
+UT Austin Undergrad<br>Electrical and Computer Engineering
+2025-2026
+Junior year at UT Austin
 
 Ava Schraeder
 UT Austin Undergrad<br>Mechanical Engineering

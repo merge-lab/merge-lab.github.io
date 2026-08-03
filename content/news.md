@@ -2,7 +2,19 @@
 title: News
 ---
 ## 2026
-* **Mar. 2026** -- Jax will be joining MERGe Lab as a PhD student in the fall. Welcome!
+* **Jul. 2026** -- Lilly selected to serve on Awards Committe for BioRob 2026.
+* **Jun. 2026** -- Andrew, Chong and Gu-Cheol's paper accepted. See y'all in IROS in Pittsburgh.
+* **Jun. 2026** -- Lilly gave talk at Schmidt Sciences.
+* **Jun. 2026** -- David Gutierrez joined the lab. Welcome!
+* **Jun. 2026** -- Siqi, Hasif, and Rahul sent out paper to CoRL.
+* **May 2026** -- Lilly gave talk at TRI and Stanford.
+* **May 2026** -- Lilly got nominated as accesibility Champion.
+* **Apr. 2026** -- MERGe lab went to TEROS. Siqi, Andrew, David and Benito presented posters, Lilly was on panel.
+* **Apr. 2026** -- Bill got NSF funding. Congratulations!
+* **Apr. 2026** -- Lilly gave biomechanics seminar at UT Austin.
+* **Apr. 2026** -- Lilly got TRI funding.
+* **Apr. 2026** -- Hrishi and Ava's paper got accepted! Going to BioRob in Edmonton.
+* **Mar. 2026** -- Aryaman, Emiliano, and Jax will be joining MERGe Lab as a PhD student in the fall. Welcome!
 * **Mar. 2026** -- Siqi, Andrew, Chong, and Bill all sent out papers to IROS 2026. Best of luck!
 * **Feb. 2026** -- Siqi's paper on [FORTE](https://merge-lab.github.io/FORTE/) is published at [RA-L](https://ieeexplore.ieee.org/abstract/document/11386900) with [news coverage](https://news.utexas.edu/2026/03/10/robot-hands-so-sensitive-they-can-grab-a-potato-chip/)! We will be presenting at ICRA 2026 in Vienna!
 * **Feb. 2026** -- David's paper on "Seamless Mechanical Programming of Soft-Rigid Robots through Hybrid Epoxy-Acrylate Printing" has been submitted to Science Robotics!

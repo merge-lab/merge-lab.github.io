@@ -6,8 +6,9 @@ title: People
 
 ## Prospective Lab Members
 If you would like to join MERGe Lab, please read [**this FAQ page**](https://lillych.in/faq/admissions/).
-* Prospective PhD students should apply to UT Austin before contacting Lilly.
-* Current UT students and prospective postdocs should email Lilly directly with a resume (and ideally, a project portfolio).
+* Current UT students should apply via [Google Form](https://forms.gle/hcNBhfdLESvLXg1c8)
+* Prospective grad students should apply to UT ECE / MechE directly
+* We do not take high school students or first semester freshmen
 
 ## Current Lab Members
 <!-- image link, alt text + as many rows as you want -->

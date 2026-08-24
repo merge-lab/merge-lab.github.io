@@ -2,21 +2,25 @@
 title: News
 ---
 ## 2026
-* **Jul. 2026** -- Lilly selected to serve on Awards Committe for BioRob 2026.
-* **Jun. 2026** -- Andrew, Chong and Gu-Cheol's paper accepted. See y'all in IROS in Pittsburgh.
-* **Jun. 2026** -- Lilly gave talk at Schmidt Sciences.
-* **Jun. 2026** -- David Gutierrez joined the lab. Welcome!
-* **Jun. 2026** -- Siqi, Hasif, and Rahul sent out paper to CoRL.
-* **May 2026** -- Lilly gave talk at TRI and Stanford.
-* **May 2026** -- Lilly got nominated as accesibility Champion.
-* **Apr. 2026** -- MERGe lab went to TEROS. Siqi, Andrew, David and Benito presented posters, Lilly was on panel.
-* **Apr. 2026** -- Bill got NSF funding. Congratulations!
-* **Apr. 2026** -- Lilly gave biomechanics seminar at UT Austin.
-* **Apr. 2026** -- Lilly got TRI funding.
-* **Apr. 2026** -- Hrishi and Ava's paper got accepted! Going to BioRob in Edmonton.
-* **Mar. 2026** -- Aryaman, Emiliano, and Jax will be joining MERGe Lab as a PhD student in the fall. Welcome!
-* **Mar. 2026** -- Siqi, Andrew, Chong, and Bill all sent out papers to IROS 2026. Best of luck!
-* **Feb. 2026** -- Siqi's paper on [FORTE](https://merge-lab.github.io/FORTE/) is published at [RA-L](https://ieeexplore.ieee.org/abstract/document/11386900) with [news coverage](https://news.utexas.edu/2026/03/10/robot-hands-so-sensitive-they-can-grab-a-potato-chip/)! We will be presenting at ICRA 2026 in Vienna!
+* **Aug. 2026** -- MERGe Lab was selected to be one of the featured labs in the UT-wide "What Starts Here" film shoot
+* **Aug. 2026** -- [Bill](https://wfan19.github.io) has been accepted for two late-breaking results, one at IROS 2026 and one at ASSETS 2026. Congratulations!
+* **Jul. 2026** -- [Lilly](https://lillych.in) was selected to serve on the Awards Committee for BioRob 2026.
+* **Jun. 2026** -- Andrew, Chong and Gu-Cheol's paper were accepted to IROS 2026. See all y'all in Pittsburgh!
+* **Jun. 2026** -- [Lilly](https://lillych.in) gave [a talk](https://schmidtsciencefellows.org/news/the-pivot-point-where-interdisciplinary-science-accelerates-discovery/) at the 2026 Schmidt Sciences Interdisciplinary Science Summit.
+* **Jun. 2026** -- David Gutierrez has joined the lab as a PhD student. Welcome!
+* **Jun. 2026** -- [Siqi](https://siqishang.github.io), Hasif, and Rahul sent out a paper to CoRL. Best of luck!
+* **May 2026** -- [Lilly](https://lillych.in) gave a talk at Stanford University's Mechanical Engineering Seminar
+* **May 2026** -- [Lilly](https://lillych.in) gave a talk at the Toyota Research Institute Annual PI Meeting.
+* **May 2026** -- [Lilly](https://lillych.in) got 2x nominated as a UT Austin Accessibility Champion.
+* **May 2026** -- Caroline, Aileen, Zach, Manav and Tanish have joined MERGe Lab as undergrad students. Welcome!
+* **May 2026** -- At ICRA 2026, [Lilly](https://lillych.in) co-organized the [3rd Unconventional Robotics Workshop](https://sites.google.com/andrew.cmu.edu/icra26-3rd-unconv-robots/home) while [Siqi](https://siqishang.github.io) co-organized the [Workshop on Reinforcement Learning in the Era of Imitation Learning](https://rl4il-icra.github.io/)
+* **Apr. 2026** -- MERGe lab went to TEROS! [Siqi](https://siqishang.github.io), Andrew, David and Benito presented posters, while Lilly served on a panel.
+* **Apr. 2026** -- [Bill](https://wfan19.github.io) won the NSF Graduate Research Fellowship. Congratulations!
+* **Apr. 2026** -- [Lilly](https://lillych.in) gave a talk at the UT Austin Biomechanics seminar.
+* **Apr. 2026** -- Hrishi and Ava's paper on "[Force Sensing for Wearable Human-Robot Interfaces via Fluidic Innervation](https://arxiv.org/abs/2602.13436)" got accepted to BioRob 2026! See y'all in Edmonton!
+* **Mar. 2026** -- Aryaman, Emiliano, and Jax will be joining MERGe Lab as PhD students in the fall. Welcome!
+* **Mar. 2026** -- [Siqi](https://siqishang.github.io), Andrew, Chong, and [Bill](https://wfan19.github.io) all sent out papers to IROS 2026. Best of luck!
+* **Feb. 2026** -- [Siqi](https://siqishang.github.io)'s paper on [FORTE](https://merge-lab.github.io/FORTE/) is published at [RA-L](https://ieeexplore.ieee.org/abstract/document/11386900) with [news coverage](https://news.utexas.edu/2026/03/10/robot-hands-so-sensitive-they-can-grab-a-potato-chip/)! We will be presenting at ICRA 2026 in Vienna!
 * **Feb. 2026** -- David's paper on "Seamless Mechanical Programming of Soft-Rigid Robots through Hybrid Epoxy-Acrylate Printing" has been submitted to Science Robotics!
 * **Jan. 2026** -- Ava and Hrishi's paper on "[High-Fidelity, Customizable Force Sensing for the Wearable Human-Robot Interface](https://arxiv.org/abs/2602.13436)" has been submitted to BioRob 2026!
 * **Jan. 2026** -- [Lilly](https://lillych.in) and 9 other PIs won internal funding from [Good Systems](https://bridgingbarriers.utexas.edu/news/good-systems-awards-seed-grants-six-faculty-teams-advancing-human-centered-ai)
@@ -45,6 +49,7 @@ title: News
 * **Sep. 2024** -- [Lilly](https://lillych.in) has submitted a paper to ICRA 2025 on "Large-Expansion Bi-Layer Auxetics Create Compliant Cellular Motion"
 * **Jun. 2024** -- [Greg](https://www.gregoryxie.com)'s paper on "Strong Compliant Grasps Using a Cable-Driven Soft Gripper" has been accepted to IROS 2024!
 * **May 2024** -- [Lilly](https://lillych.in) won the 2024 IEEE Robotics and Automation Magazine (RAM) Outstanding Reviewer award!
+* **Apr. 2024** -- David won the NSF Graduate Research Fellowship. Congratulations!
 * **Apr. 2024** -- David, [Siqi](https://siqishang.github.io), Tuo, and Chongxun have joined MERGe Lab as PhD students. Welcome!
 * **Apr. 2024** -- [Darren](https://www.darrenau.com) and Tanya have joined MERGe Lab as undergrad students. Welcome!
 * **Mar. 2024** -- [Greg](https://www.gregoryxie.com) submitted a paper to IROS 2024 on "Strong Compliant Grasps Using a Cable-Driven Soft Gripper"

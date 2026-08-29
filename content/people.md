@@ -79,15 +79,13 @@ Headshot of Zach Wang
 
 {{< /list-table >}}
 
-## Collaborators
+<!-- ## Collaborators -->
 <!-- image link, alt text + as many rows as you want -->
-{{< list-table header=false imageCol=true class="bootstrap" >}}
+<!-- {{< list-table header=false imageCol=true class="bootstrap" >}}
 /img_static/people/chongxun.jpg
 Headshot of Chongxun Wang
 **Chongxun Wang**<br>PhD Student<br>Mechanical Engineering<br>Advised by [Fangzhou Xia](https://xiafz.info)
-
-
-{{< /list-table >}}
+{{< /list-table >}} -->
 
 ## Alumni
 

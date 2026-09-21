@@ -8,3 +8,21 @@ function rot13(txt) {
         "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm"
       [ "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz".indexOf(c) ] );
 }
+
+function enableEmailButtons() {
+  document.querySelectorAll(".email-link").forEach(button => {
+    button.addEventListener("click", () => {
+      const encodedEmail = button.dataset.email;
+      if (!encodedEmail) {
+        return;
+      }
+      window.location.href = `mailto:${rot13(encodedEmail)}`;
+    });
+  });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", enableEmailButtons);
+} else {
+  enableEmailButtons();
+}

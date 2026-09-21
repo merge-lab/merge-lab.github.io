@@ -1,1 +1,3 @@
 resources/_gen
+.venv/
+.DS_Store

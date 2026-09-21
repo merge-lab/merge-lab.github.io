@@ -19,63 +19,63 @@ Lilly Chin sits by the fire, ready to burn her thesis
 
 /img_static/people/david.JPG
 David Bershadsky stands in front of a painting
-**David Bershadsky**<br>PhD Student<br>Electrical and Computer Engineering<br>Co-advised with [Zak Page](https://www.zpagegroup.com/zak-page-1)
+**David Bershadsky** {{< email address="qorefunqfxl@hgrknf.rqh" name="David Bershadsky">}} <br>PhD Student<br>Electrical and Computer Engineering<br>Co-advised with [Zak Page](https://www.zpagegroup.com/zak-page-1)
 
 /img_static/people/bill.jpg
 Bill Fan poses in front of a mountain landscape
-**[Bill Fan](https://bill-fan.xyz)**  - they/any<br>PhD Student<br>Electrical and Computer Engineering<br><br>Bill is a second-year PhD student interested in computational design, and the intersection of design justice and robotics. They completed their BS in robotics engineering at Olin College of Engineering. Outside of the lab, they enjoy hiking, cooking, and taking care of their houseplants.
+**[Bill Fan](https://bill-fan.xyz)**  - they/any {{< email address="osna@hgrknf.rqh" name="Bill Fan">}} <br>PhD Student<br>Electrical and Computer Engineering<br><br>Bill is a second-year PhD student interested in computational design, and the intersection of design justice and robotics. They completed their BS in robotics engineering at Olin College of Engineering. Outside of the lab, they enjoy hiking, cooking, and taking care of their houseplants.
 
 /img_static/people/aryaman.JPG
 Headshot of Aryaman Ghura
-**Aryaman Ghura**<br>PhD Student<br>Electrical and Computer Engineering<br><br>Aryaman received his BS from UMass Amherst in Computer Engineering and Computer Science. Outside of the lab he enjoys photography, theatre, and fixing old electronics.
+**Aryaman Ghura** {{< email address="ntuhen@zl.hgrknf.rqh" name="Aryaman Ghura">}} <br>PhD Student<br>Electrical and Computer Engineering<br><br>Aryaman received his BS from UMass Amherst in Computer Engineering and Computer Science. Outside of the lab he enjoys photography, theatre, and fixing old electronics.
 
 /img_static/people/davidGtz.jpg
 Headshot of David Gutierrez
-**David Gutierrez**<br>PhD Student<br>Mechanical Engineering
+**David Gutierrez** {{< email address="q.thgvreerm-zberab@hgrknf.rqh" name="David Gutierrez">}} <br>PhD Student<br>Mechanical Engineering
 
 /img_static/people/emiliano.jpeg
 Headshot of Emiliano Hansen
-**Emiliano Hansen**<br>PhD Student<br>Mechanical Engineering<br><br>Emiliano received his B.S. from Cal Poly SLO, where he worked on tensegrity structures, continuum robots, and advanced manufacturing. Outside of the lab, he enjoys graphic design, traveling, and trying new foods.
+**Emiliano Hansen** {{< email address="rzvyvnabunafra@hgrknf.rqh" name="Emiliano Hansen">}} <br>PhD Student<br>Mechanical Engineering<br><br>Emiliano received his B.S. from Cal Poly SLO, where he worked on tensegrity structures, continuum robots, and advanced manufacturing. Outside of the lab, he enjoys graphic design, traveling, and trying new foods.
 
 /img_static/people/jax.jpg
 Headshot of Jax Marrone
-**Jax Marrone**<br>PhD Student<br>Electrical and Computer Engineering<br><br>
+**Jax Marrone** {{< email address="wez9873@zl.hgrknf.rqh" name="Jax Marrone">}} <br>PhD Student<br>Electrical and Computer Engineering<br><br>
 
 /img_static/people/benito.jpeg
 Benito Ribadeneira stands in front of plants
-**Benito Ribadeneira**<br>PhD Student<br>Mechanical Engineering<br><br>Benito received his B.S. in Mechanical Engineering from EPN university in Ecuador. After graduation, he worked for 2 years as a field engineer in the oil and gas industry and currently is pursuing his PhD in Mechanical Engineering focusing his path career in mechanical design and robotics. Outside the lab he enjoys dancing and sand volleyball.
+**Benito Ribadeneira** {{< email address="oravgbnyrkec@hgrknf.rqh" name="Benito Ribadeneira">}} <br>PhD Student<br>Mechanical Engineering<br><br>Benito received his B.S. in Mechanical Engineering from EPN university in Ecuador. After graduation, he worked for 2 years as a field engineer in the oil and gas industry and currently is pursuing his PhD in Mechanical Engineering focusing his path career in mechanical design and robotics. Outside the lab he enjoys dancing and sand volleyball.
 
 /img_static/people/siqi.jpeg
 Siqi Shang sits on the stairs
-**[Siqi Shang](https://siqishang.github.io)**<br>PhD Student<br>Electrical and Computer Engineering<br><br> Siqi received his MS in CS from Columbia University and BS in CS from CUHK. His research focuses on robotic manipulation, tactile sensing, and physically grounded robot learning.
+**[Siqi Shang](https://siqishang.github.io)** {{< email address="fvdv.funat@hgrknf.rqh" name="Siqi Shang">}} <br>PhD Student<br>Electrical and Computer Engineering<br><br> Siqi received his MS in CS from Columbia University and BS in CS from CUHK. His research focuses on robotic manipulation, tactile sensing, and physically grounded robot learning.
 
 /img_static/people/joseph.PNG
 Headshot of Joseph Romero
-**Joseph Romero**<br>Masters Student<br>Mechanical Engineering
+**Joseph Romero** {{< email address="webzreb03@hgrknf.rqh" name="Joseph Romero">}} <br>Masters Student<br>Mechanical Engineering
 
 /img_static/people/tanish.jpeg
 Headshot of Tanish Doorsala
-**Veera Tanish Reddy Doorsala**<br>Undergraduate Student<br>Mechanical Engineering<br><br>Tanish is a first-year Mechanical Engineering student at UT Austin. Outside of academics, he enjoys traveling with his family, playing video games, and watching cricket.
+**Veera Tanish Reddy Doorsala** {{< email address="iq6954@rvq.hgrknf.rqh" name="Tanish Doorsala">}} <br>Undergraduate Student<br>Mechanical Engineering<br><br>Tanish is a first-year Mechanical Engineering student at UT Austin. Outside of academics, he enjoys traveling with his family, playing video games, and watching cricket.
 
 /img_static/people/manav.png
 Headshot of Manav Karonde
-**Manav Karonde**<br>Undergraduate Student<br>Computer Science<br><br>Manav is a sophomore studying Computer Science at UT Austin. Outside of the lab, he is a member of ECLAIR Robotics, plays the drums and guitar, and enjoys spending time with his dog.
+**Manav Karonde** {{< email address="zx46763@rvq.hgrknf.rqh" name="Manav Karonde">}} <br>Undergraduate Student<br>Computer Science<br><br>Manav is a sophomore studying Computer Science at UT Austin. Outside of the lab, he is a member of ECLAIR Robotics, plays the drums and guitar, and enjoys spending time with his dog.
 
 /img_static/people/andrew.jpg
 Andrew Kwa poses with a peace sign
-**Andrew Kwa**<br>Undergraduate Student<br>Electrical and Computer Engineering<br><br>Andrew is a third-year Electrical and Computer Engineering student at UT Austin. In his free time, he is a gamer, pianist, artist and avid reader.
+**Andrew Kwa** {{< email address="nxjn.2027@hgrknf.rqh" name="Andrew Kwa">}} <br>Undergraduate Student<br>Electrical and Computer Engineering<br><br>Andrew is a third-year Electrical and Computer Engineering student at UT Austin. In his free time, he is a gamer, pianist, artist and avid reader.
 
 /img_static/people/aileen.jpeg
 Headshot of Aileen Menjivar, 
-**Aileen Menjivar**<br>Undergraduate Student<br>Mechanical Engineering
+**Aileen Menjivar** {{< email address="nvz2459@rvq.hgrknf.rqh" name="Aileen Menjivar">}} <br>Undergraduate Student<br>Mechanical Engineering
 
 /img_static/people/caroline.jpeg
 Headshot of Caroline Unger, 
-**Caroline Unger**<br>Undergraduate Student<br>Electrical and Computer Engineering
+**Caroline Unger** {{< email address="psh96@rvq.hgrknf.rqh" name="Caroline Unger">}} <br>Undergraduate Student<br>Electrical and Computer Engineering
 
 /img_static/people/zachwang.JPG
 Headshot of Zach Wang
-**Zach Wang**<br>Undergraduate Student<br>Mechanical Engineering<br><br>I like to rock climb, run, play video games, and draw
+**Zach Wang** {{< email address="mfj295@zl.hgrknf.rqh" name="Zach Wang">}} <br>Undergraduate Student<br>Mechanical Engineering<br><br>I like to rock climb, run, play video games, and draw
 
 {{< /list-table >}}
 
